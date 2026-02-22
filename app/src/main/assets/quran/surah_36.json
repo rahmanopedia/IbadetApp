@@ -1,0 +1,22 @@
+{
+  "number": 36,
+  "name": "يس",
+  "englishName": "Ya-Sin",
+  "turkishName": "Ya-sin",
+  "numberOfAyahs": 83,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {"number": 2090, "numberInSurah": 1, "text": "يس", "turkishText": "Yâ-Sîn."},
+    {"number": 2091, "numberInSurah": 2, "text": "وَالْقُرْآنِ الْحَكِيمِ", "turkishText": "Hikmet dolu Kur'an'a andolsun ki,"},
+    {"number": 2092, "numberInSurah": 3, "text": "إِنَّكَ لَمِنَ الْمُرْسَلِينَ", "turkishText": "Sen gerçekten gönderilen peygamberlerdensin."},
+    {"number": 2093, "numberInSurah": 4, "text": "عَلَىٰ صِرَاطٍ مُّسْتَقِيمٍ", "turkishText": "Dosdoğru bir yol üzerindesin."},
+    {"number": 2094, "numberInSurah": 5, "text": "تَنزِيلَ الْعَزِيزِ الرَّحِيمِ", "turkishText": "Bu Kur'an, mutlak güç sahibi, engin merhamet sahibi Allah tarafından indirilmiştir."},
+    {"number": 2095, "numberInSurah": 6, "text": "لِتُنذِرَ قَوْمًا مَّا أُنذِرَ آبَاؤُهُمْ فَهُمْ غَافِلُونَ", "turkishText": "Ataları uyarılmamış, bu yüzden gafil olan bir kavmi uyarman için."},
+    {"number": 2096, "numberInSurah": 7, "text": "لَقَدْ حَقَّ الْقَوْلُ عَلَىٰ أَكْثَرِهِمْ فَهُمْ لَا يُؤْمِنُونَ", "turkishText": "Andolsun ki onların çoğuna azap sözü hak olmuştur; artık onlar iman etmezler."},
+    {"number": 2097, "numberInSurah": 8, "text": "إِنَّا جَعَلْنَا فِي أَعْنَاقِهِمْ أَغْلَالًا فَهِيَ إِلَى الْأَذْقَانِ فَهُم مُّقْمَحُونَ", "turkishText": "Şüphesiz biz, onların boyunlarına halkalar geçirdik. O halkalar çenelerine kadar dayanmaktadır. Bu yüzden başları yukarı kaldırılmış durumdadır."},
+    {"number": 2098, "numberInSurah": 9, "text": "وَجَعَلْنَا مِن بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَاهُمْ فَهُمْ لَا يُبْصِرُونَ", "turkishText": "Önlerinden bir sed ve arkalarından bir sed çektik. Artık onları kapattık, göremezler."},
+    {"number": 2099, "numberInSurah": 10, "text": "وَسَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ", "turkishText": "Onları uyarsan da uyarmasan da onlar için birdir; iman etmezler."},
+    {"number": 2100, "numberInSurah": 11, "text": "إِنَّمَا تُنذِرُ مَنِ اتَّبَعَ الذِّكْرَ وَخَشِيَ الرَّحْمَٰنَ بِالْغَيْبِ ۖ فَبَشِّرْهُ بِمَغْفِرَةٍ وَأَجْرٍ كَرِيمٍ", "turkishText": "Sen ancak Zikr'e (Kur'an'a) uyan ve görmediği hâlde Rahman'dan korkan kimseyi uyarabilirsin. İşte onu bir mağfiret ve güzel bir mükâfatla müjdele."},
+    {"number": 2101, "numberInSurah": 12, "text": "إِنَّا نَحْنُ نُحْيِي الْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا وَآثَارَهُمْ ۚ وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ فِي إِمَامٍ مُّبِينٍ", "turkishText": "Şüphesiz ölüleri biz diriltiriz. Onların önceden gönderdiklerini ve geride bıraktıklarını da yazarız. Biz her şeyi apaçık bir Kitap'ta sayıp tespit etmişizdir."}
+  ]
+}

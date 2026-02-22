@@ -1,0 +1,46 @@
+{
+  "number": 114,
+  "name": "الناس",
+  "englishName": "An-Nas",
+  "turkishName": "Nas",
+  "numberOfAyahs": 6,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 5774,
+      "numberInSurah": 1,
+      "text": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+      "turkishText": "De ki: İnsanların Rabbine sığınırım."
+    },
+    {
+      "number": 5775,
+      "numberInSurah": 2,
+      "text": "مَلِكِ النَّاسِ",
+      "turkishText": "İnsanların hükümdarına."
+    },
+    {
+      "number": 5776,
+      "numberInSurah": 3,
+      "text": "إِلَٰهِ النَّاسِ",
+      "turkishText": "İnsanların ilahına."
+    },
+    {
+      "number": 5777,
+      "numberInSurah": 4,
+      "text": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+      "turkishText": "Sinsi vesvesecinin şerrinden."
+    },
+    {
+      "number": 5778,
+      "numberInSurah": 5,
+      "text": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+      "turkishText": "O ki insanların göğüslerine vesvese verir."
+    },
+    {
+      "number": 5779,
+      "numberInSurah": 6,
+      "text": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+      "turkishText": "Gerek cinlerden, gerek insanlardan (olan şeytanların şerrinden)."
+    }
+  ]
+}

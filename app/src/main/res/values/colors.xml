@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Ana Renkler -->
+    <color name="green_primary">#2E7D32</color>
+    <color name="green_dark">#1B5E20</color>
+    <color name="green_light">#4CAF50</color>
+    <color name="green_very_light">#E8F5E9</color>
+
+    <!-- Nötr Renkler -->
+    <color name="white">#FFFFFF</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="white_30">#4DFFFFFF</color>
+    <color name="background_light">#F5F5F5</color>
+    <color name="divider">#E0E0E0</color>
+
+    <!-- Metin Renkleri -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+
+    <!-- Kart Renkleri -->
+    <color name="card_quran">#1976D2</color>
+    <color name="card_zikir">#2E7D32</color>
+    <color name="card_bookmark">#F57C00</color>
+
+    <!-- Chip -->
+    <color name="chip_background">#E8F5E9</color>
+
+    <!-- Hata -->
+    <color name="error_color">#D32F2F</color>
+
+    <!-- Material You -->
+    <color name="md_theme_light_primary">#2E7D32</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#A8F5A2</color>
+    <color name="md_theme_light_onPrimaryContainer">#002106</color>
+    <color name="md_theme_light_secondary">#52634F</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#D5E8CE</color>
+    <color name="md_theme_light_onSecondaryContainer">#101F0F</color>
+    <color name="md_theme_light_background">#FAFDF6</color>
+    <color name="md_theme_light_onBackground">#1A1C19</color>
+    <color name="md_theme_light_surface">#FAFDF6</color>
+    <color name="md_theme_light_onSurface">#1A1C19</color>
+</resources>

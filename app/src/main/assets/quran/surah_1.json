@@ -1,0 +1,52 @@
+{
+  "number": 1,
+  "name": "الفاتحة",
+  "englishName": "Al-Fatihah",
+  "turkishName": "Fatiha",
+  "numberOfAyahs": 7,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "numberInSurah": 1,
+      "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "turkishText": "Rahman ve Rahim olan Allah'ın adıyla."
+    },
+    {
+      "number": 2,
+      "numberInSurah": 2,
+      "text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "turkishText": "Hamd, âlemlerin Rabbi Allah'a mahsustur."
+    },
+    {
+      "number": 3,
+      "numberInSurah": 3,
+      "text": "الرَّحْمَٰنِ الرَّحِيمِ",
+      "turkishText": "O, Rahman'dır, Rahim'dir."
+    },
+    {
+      "number": 4,
+      "numberInSurah": 4,
+      "text": "مَالِكِ يَوْمِ الدِّينِ",
+      "turkishText": "Din gününün (kıyamet ve hesap gününün) sahibidir."
+    },
+    {
+      "number": 5,
+      "numberInSurah": 5,
+      "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+      "turkishText": "Yalnız sana ibadet eder ve yalnız senden yardım dileriz."
+    },
+    {
+      "number": 6,
+      "numberInSurah": 6,
+      "text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+      "turkishText": "Bizi doğru yola ilet."
+    },
+    {
+      "number": 7,
+      "numberInSurah": 7,
+      "text": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+      "turkishText": "Nimet verdiklerinin yoluna; gazaba uğrayanlarınkine ve sapıklarınkine değil."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "number": 108,
+  "name": "الكوثر",
+  "englishName": "Al-Kawthar",
+  "turkishName": "Kevser",
+  "numberOfAyahs": 3,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 5762,
+      "numberInSurah": 1,
+      "text": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+      "turkishText": "Şüphesiz biz sana Kevser'i verdik."
+    },
+    {
+      "number": 5763,
+      "numberInSurah": 2,
+      "text": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+      "turkishText": "Öyleyse Rabbin için namaz kıl ve kurban kes."
+    },
+    {
+      "number": 5764,
+      "numberInSurah": 3,
+      "text": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+      "turkishText": "Doğrusu sana buğzeden, asıl soyu kesik olandır."
+    }
+  ]
+}

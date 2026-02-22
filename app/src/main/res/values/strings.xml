@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">İbadet</string>
+    <string name="title_home">Ana Sayfa</string>
+    <string name="title_quran">Kuran-ı Kerim</string>
+    <string name="title_zikir">Zikir</string>
+    <string name="title_bookmarks">Yer İmleri</string>
+    <string name="search_hint">Sure ara…</string>
+    <string name="bismillah">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ</string>
+    <string name="copied">Panoya kopyalandı</string>
+    <string name="app_description">Kuran okuma ve zikir uygulaması</string>
+</resources>

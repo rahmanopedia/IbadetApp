@@ -1,0 +1,34 @@
+{
+  "number": 112,
+  "name": "الإخلاص",
+  "englishName": "Al-Ikhlas",
+  "turkishName": "İhlas",
+  "numberOfAyahs": 4,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 5765,
+      "numberInSurah": 1,
+      "text": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+      "turkishText": "De ki: O, Allah birdir."
+    },
+    {
+      "number": 5766,
+      "numberInSurah": 2,
+      "text": "اللَّهُ الصَّمَدُ",
+      "turkishText": "Allah Samed'dir (Her şey O'na muhtaçtır, O hiçbir şeye muhtaç değildir)."
+    },
+    {
+      "number": 5767,
+      "numberInSurah": 3,
+      "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "turkishText": "O doğurmamış ve doğurulmamıştır."
+    },
+    {
+      "number": 5768,
+      "numberInSurah": 4,
+      "text": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+      "turkishText": "Hiçbir şey O'nun dengi değildir."
+    }
+  ]
+}

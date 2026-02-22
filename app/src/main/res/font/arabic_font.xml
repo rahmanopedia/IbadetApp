@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Arapça font için: Scheherazade New veya Amiri fontunu
+    https://fonts.google.com/specimen/Scheherazade+New adresinden indirip
+    app/src/main/res/font/ klasörüne 'arabic_font.ttf' olarak ekleyin.
+
+    Bu dosyayı kullanmak için:
+    1. fonts.google.com'dan "Scheherazade New" fontunu indirin
+    2. İndirilen .ttf dosyasını app/src/main/res/font/arabic_font.ttf olarak kaydedin
+    3. Bu XML dosyasını aşağıdaki gibi güncelleyin:
+-->
+<font-family xmlns:app="http://schemas.android.com/apk/res-auto">
+    <font
+        app:fontStyle="normal"
+        app:fontWeight="400"
+        app:font="@font/arabic_font_regular" />
+</font-family>
