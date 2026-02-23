@@ -1,12 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">İbadet</string>
-    <string name="title_home">Ana Sayfa</string>
-    <string name="title_quran">Kuran-ı Kerim</string>
-    <string name="title_zikir">Zikir</string>
-    <string name="title_bookmarks">Yer İmleri</string>
-    <string name="search_hint">Sure ara…</string>
-    <string name="bismillah">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ</string>
-    <string name="copied">Panoya kopyalandı</string>
-    <string name="app_description">Kuran okuma ve zikir uygulaması</string>
-</resources>
+    <resources>
+        <!-- Uygulama -->
+        <string name="app_name">İbadet</string>
+        <string name="app_description">Kuran okuma ve zikir uygulaması</string>
+
+        <!-- Başlıklar -->
+        <string name="title_home">Ana Sayfa</string>
+        <string name="title_quran">Kuran-ı Kerim</string>
+        <string name="title_zikir">Zikir</string>
+        <string name="title_bookmarks">Yer İmleri</string>
+
+        <!-- Kuran -->
+        <string name="search_hint">Sure ara…</string>
+        <string name="bismillah">بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ</string>
+        <string name="copied">Panoya kopyalandı</string>
+        <string name="empty_bookmarks">Henüz yer imi eklemediniz</string>
+        <string name="empty_bookmarks_hint">Kuran okurken ayetleri bookmark yapabilirsiniz</string>
+        <string name="font_size">Yazı Boyutu</string>
+        <string name="font_size_small">Küçük</string>
+        <string name="font_size_medium">Orta</string>
+        <string name="font_size_large">Büyük</string>
+        <string name="font_size_extra_large">Çok Büyük</string>
+        <string name="ayet">Ayet</string>
+
+        <!-- Zikir -->
+        <string name="zikir_count">Sayaç</string>
+        <string name="zikir_target">Hedef</string>
+        <string name="zikir_reset">Sıfırla</string>
+        <string name="zikir_reset_confirm">Sayacı sıfırlamak istediğinize emin misiniz?</string>
+        <string name="zikir_reset_title">Sıfırla</string>
+        <string name="zikir_complete_title">Tebrikler!</string>
+        <string name="zikir_complete_message">%s zikrini %d kez tamamladınız.</string>
+        <string name="zikir_vibration">Titreşim</string>
+        <string name="zikir_continue">Devam Et</string>
+        <string name="zikir_retry">Tekrar</string>
+        <string name="add_zikir">Zikir Ekle</string>
+        <string name="custom_zikir">Özel Zikir</string>
+        <string name="arabic_text">Arapça Metin</string>
+        <string name="turkish_text">Türkçe Anlam</string>
+        <string name="transliteration">Okunuş</string>
+        <string name="target_count">Hedef Sayı</string>
+        <string name="zikir_delete_confirm">"%s" zikrini silmek istediğinize emin misiniz?</string>
+        <string name="zikir_deleted">Zikir silindi</string>
+        <string name="completed_sessions">Tamamlanan: %d</string>
+        <string name="total_sessions">Toplam: %d</string>
+
+        <!-- Kategoriler -->
+        <string name="category_esmaulhusna">Esma-ül Hüsna</string>
+        <string name="category_salavat">Salavat</string>
+        <string name="category_tesbih">Tebahür</string>
+        <string name="category_teheyyül">Teheyyül</string>
+        <string name="category_custom">Özel</string>
+
+        <!-- Ana Sayfa -->
+        <string name="quick_access">Hızlı Erişim</string>
+        <string name="daily_verse">Günün Ayeti</string>
+        <string name="date_today">Bugün</string>
+
+        <!-- Butonlar -->
+        <string name="cancel">İptal</string>
+        <string name="ok">Tamam</string>
+        <string name="yes">Evet</string>
+        <string name="no">Hayır</string>
+        <string name="save">Kaydet</string>
+        <string name="delete">Sil</string>
+        <string name="add">Ekle</string>
+
+        <!-- Sure Bilgileri -->
+        <string name="mekki">Mekki</string>
+        <string name="medeni">Medeni</string>
+        <string name="ayah_count">%d Ayet</string>
+
+        <!-- Hata Mesajları -->
+        <string name="error_loading">Veriler yüklenirken hata oluştu</string>
+        <string name="error_bookmark">Yer imi eklenemedi</string>
+        <string name="error_delete">Silinirken hata oluştu</string>
+
+        <!-- Açıklamalar -->
+        <string name="no_bookmarks">Henüz kaydedilmiş ayet yok</string>
+        <string name="no_zikirler">Henüz zikir eklenmedi</string>
+        <string name="no_results">Sonuç bulunamadı</string>
+
+        <!-- İstatistikler -->
+        <string name="stats">İstatistikler</string>
+        <string name="total_zikir">Toplam Zikir</string>
+        <string name="completed_zikir">Tamamlanan Zikir</string>
+
+        <!-- Bildirimler -->
+        <string name="notification_complete">Zikir tamamlandı!</string>
+        <string name="notification_channel_name">İbadet Bildirimleri</string>
+        <string name="notification_channel_desc">Zikir tamamlama bildirimleri</string>
+    </resources>
