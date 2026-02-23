@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/background_light">
+    android:background="#0D1B2A">
 
     <ProgressBar
         android:id="@+id/progress_bar"
@@ -21,17 +21,17 @@
         android:layout_height="wrap_content"
         android:text="بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ"
         android:textSize="26sp"
-        android:textColor="@color/text_primary"
+        android:textColor="#FFD700"
         android:gravity="center"
         android:fontFamily="@font/arabic_font"
         android:padding="16dp"
-        android:background="@color/white"
+        android:background="#14233A"
         android:lineSpacingMultiplier="1.6" />
 
     <View
         android:layout_width="match_parent"
         android:layout_height="1dp"
-        android:background="@color/divider" />
+        android:background="#20FFD700" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_ayahs"

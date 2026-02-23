@@ -6,9 +6,11 @@
     android:layout_height="wrap_content"
     android:layout_marginHorizontal="12dp"
     android:layout_marginVertical="4dp"
-    app:cardCornerRadius="10dp"
-    app:cardElevation="1dp"
-    app:cardBackgroundColor="@color/white">
+    app:cardCornerRadius="14dp"
+    app:cardElevation="0dp"
+    app:cardBackgroundColor="#14233A"
+    app:strokeColor="#18FFD700"
+    app:strokeWidth="1dp">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -29,8 +31,8 @@
                 android:layout_width="32dp"
                 android:layout_height="32dp"
                 android:background="@drawable/bg_surah_number"
-                android:textColor="@color/white"
-                android:textSize="12sp"
+                android:textColor="#FFD700"
+                android:textSize="11sp"
                 android:gravity="center"
                 android:textStyle="bold" />
 
@@ -45,7 +47,7 @@
                 android:layout_height="36dp"
                 android:src="@drawable/ic_bookmark_border"
                 android:background="?attr/selectableItemBackgroundBorderless"
-                app:tint="@color/green_primary"
+                app:tint="#88FFD700"
                 android:contentDescription="Yer imi ekle" />
 
             <ImageButton
@@ -54,7 +56,7 @@
                 android:layout_height="36dp"
                 android:src="@drawable/ic_copy"
                 android:background="?attr/selectableItemBackgroundBorderless"
-                app:tint="@color/text_secondary"
+                app:tint="#55FFFFFF"
                 android:contentDescription="Kopyala" />
 
         </LinearLayout>
@@ -65,7 +67,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="24sp"
-            android:textColor="@color/text_primary"
+            android:textColor="#FFFFFF"
             android:gravity="end"
             android:textDirection="rtl"
             android:fontFamily="@font/arabic_font"
@@ -75,7 +77,7 @@
         <View
             android:layout_width="match_parent"
             android:layout_height="1dp"
-            android:background="@color/divider"
+            android:background="#15FFD700"
             android:layout_marginBottom="12dp" />
 
         <!-- Türkçe metin -->
@@ -84,7 +86,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="14sp"
-            android:textColor="@color/text_secondary"
+            android:textColor="#AAFFFFFF"
             android:lineSpacingMultiplier="1.5" />
 
     </LinearLayout>

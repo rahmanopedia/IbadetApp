@@ -37,17 +37,16 @@
                 app:strokeColor="#50FFD700"
                 app:strokeWidth="1dp">
 
-                <TextView
+                <com.google.android.material.chip.Chip
                     android:id="@+id/tv_zikir_category"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Tesbih"
-                    android:textSize="11sp"
-                    android:textStyle="bold"
+                    android:textSize="10sp"
                     android:textColor="#FFD700"
-                    android:paddingHorizontal="14dp"
-                    android:paddingVertical="6dp"
-                    android:letterSpacing="0.08" />
+                    app:chipBackgroundColor="#1E2E20"
+                    app:chipStrokeColor="#40FFD700"
+                    app:chipStrokeWidth="1dp"
+                    app:chipMinHeight="24dp" />
 
             </com.google.android.material.card.MaterialCardView>
 
@@ -57,7 +56,6 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Sübhanallah"
                 android:textSize="18sp"
                 android:textStyle="bold"
                 android:textColor="#FFFFFF"
@@ -66,14 +64,14 @@
             <!-- Sil Butonu -->
             <ImageButton
                 android:id="@+id/btn_delete"
-                android:layout_width="40dp"
-                android:layout_height="40dp"
+                android:layout_width="36dp"
+                android:layout_height="36dp"
                 android:src="@drawable/ic_delete"
-                android:background="@drawable/bg_button_gold"
+                android:background="?attr/selectableItemBackgroundBorderless"
                 android:padding="8dp"
                 android:visibility="gone"
                 android:contentDescription="Sil"
-                app:tint="#D32F2F" />
+                app:tint="#88EE6B6B" />
 
         </LinearLayout>
 
@@ -92,8 +90,7 @@
                 android:id="@+id/tv_zikir_arabic"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="سُبْحَانَ ٱللَّٰهِ"
-                android:textSize="28sp"
+                android:textSize="26sp"
                 android:textColor="#FFFFFF"
                 android:gravity="center"
                 android:padding="16dp"
@@ -112,14 +109,13 @@
             android:id="@+id/tv_zikir_turkish"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Allah'ı tespih ederim"
             android:textSize="13sp"
             android:textColor="#AAFFFFFF"
             android:gravity="center"
             android:layout_marginBottom="14dp"
             android:lineSpacingMultiplier="1.3" />
 
-        <!-- Alt Bölüm: Progress ve Hedef -->
+        <!-- Alt Bölüm: Hedef -->
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -134,46 +130,17 @@
                 android:orientation="vertical"
                 android:layout_marginEnd="12dp">
 
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:orientation="horizontal"
-                    android:gravity="center_vertical"
-                    android:layout_marginBottom="6dp">
-
-                    <TextView
-                        android:id="@+id/tv_progress_label"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:text="İlerleme"
-                        android:textSize="11sp"
-                        android:textColor="#66FFFFFF"
-                        android:layout_marginEnd="8dp" />
-
-                    <TextView
-                        android:id="@+id/tv_progress_percent"
-                        android:layout_width="0dp"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:text="0%"
-                        android:textSize="11sp"
-                        android:textStyle="bold"
-                        android:textColor="#FFD700"
-                        android:gravity="end" />
-
-                </LinearLayout>
-
                 <com.google.android.material.progressindicator.LinearProgressIndicator
                     android:id="@+id/progress_bar"
                     android:layout_width="match_parent"
                     android:layout_height="8dp"
                     android:layout_marginBottom="4dp"
+                    android:progress="0"
+                    android:max="100"
                     app:trackThickness="8dp"
                     app:trackCornerRadius="4dp"
                     app:indicatorColor="#FFD700"
-                    app:trackColor="#20FFD700"
-                    app:progress="0"
-                    app:max="100" />
+                    app:trackColor="#20FFD700" />
 
             </LinearLayout>
 
@@ -191,7 +158,6 @@
                     android:id="@+id/tv_zikir_target"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="33"
                     android:textSize="13sp"
                     android:textStyle="bold"
                     android:textColor="#FFD700"

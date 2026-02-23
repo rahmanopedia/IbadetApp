@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/background_light">
+    android:background="#0D1B2A">
 
     <!-- Arama -->
     <com.google.android.material.textfield.TextInputLayout
@@ -17,6 +17,9 @@
         app:boxCornerRadiusBottomStart="24dp"
         app:boxCornerRadiusBottomEnd="24dp"
         app:startIconDrawable="@drawable/ic_search"
+        app:startIconTint="#88FFD700"
+        app:boxStrokeColor="#40FFD700"
+        app:hintTextColor="#88FFD700"
         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
 
         <com.google.android.material.textfield.TextInputEditText
@@ -24,6 +27,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Sure ara..."
+            android:textColor="#FFFFFF"
+            android:textColorHint="#55FFFFFF"
             android:inputType="text"
             android:imeOptions="actionSearch" />
 
@@ -42,7 +47,7 @@
         android:layout_height="wrap_content"
         android:text="Sure bulunamadı"
         android:textSize="16sp"
-        android:textColor="@color/text_secondary"
+        android:textColor="#66FFFFFF"
         android:gravity="center"
         android:padding="32dp"
         android:visibility="gone" />
