@@ -1,0 +1,190 @@
+{
+  "number": 89,
+  "name": "الفجر",
+  "englishName": "Al-Fajr",
+  "turkishName": "Fecr",
+  "numberOfAyahs": 30,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "numberInSurah": 1,
+      "text": "وَالْفَجْرِ",
+      "turkishText": "Fecre (sabah aydınlığına) andolsun,"
+    },
+    {
+      "number": 2,
+      "numberInSurah": 2,
+      "text": "وَلَيَالٍ عَشْرٍ",
+      "turkishText": "On geceye andolsun,"
+    },
+    {
+      "number": 3,
+      "numberInSurah": 3,
+      "text": "وَالشَّفْعِ وَالْوَتْرِ",
+      "turkishText": "Çift ve teke andolsun,"
+    },
+    {
+      "number": 4,
+      "numberInSurah": 4,
+      "text": "وَاللَّيْلِ إِذَا يَسْرِ",
+      "turkishText": "Geçip giderken geceye andolsun."
+    },
+    {
+      "number": 5,
+      "numberInSurah": 5,
+      "text": "هَلْ فِي ذَٰلِكَ قَسَمٌ لِّذِي حِجْرٍ",
+      "turkishText": "Bunlarda akıl sahibi için (yeterli) bir yemin yok mu?"
+    },
+    {
+      "number": 6,
+      "numberInSurah": 6,
+      "text": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+      "turkishText": "Rabbinin Âd kavmine ne yaptığını görmedin mi?"
+    },
+    {
+      "number": 7,
+      "numberInSurah": 7,
+      "text": "إِرَمَ ذَاتِ الْعِمَادِ",
+      "turkishText": "Sütunlarla dolu İrem'e (ne yaptığını)?"
+    },
+    {
+      "number": 8,
+      "numberInSurah": 8,
+      "text": "الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ",
+      "turkishText": "Ki ülkelerde onun benzeri yaratılmamıştı."
+    },
+    {
+      "number": 9,
+      "numberInSurah": 9,
+      "text": "وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ",
+      "turkishText": "Vadide kayaları oyan Semûd'a (ne yaptığını)?"
+    },
+    {
+      "number": 10,
+      "numberInSurah": 10,
+      "text": "وَفِرْعَوْنَ ذِي الْأَوْتَادِ",
+      "turkishText": "Kazıklar sahibi Firavun'a (ne yaptığını)?"
+    },
+    {
+      "number": 11,
+      "numberInSurah": 11,
+      "text": "الَّذِينَ طَغَوْا فِي الْبِلَادِ",
+      "turkishText": "Onlar ki ülkelerde azgınlık etmişlerdi."
+    },
+    {
+      "number": 12,
+      "numberInSurah": 12,
+      "text": "فَأَكْثَرُوا فِيهَا الْفَسَادَ",
+      "turkishText": "Ve orada çok bozgunculuk yapmışlardı."
+    },
+    {
+      "number": 13,
+      "numberInSurah": 13,
+      "text": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+      "turkishText": "Bunun üzerine Rabbin onların üzerine azap kamçısı yağdırdı."
+    },
+    {
+      "number": 14,
+      "numberInSurah": 14,
+      "text": "إِنَّ رَبَّكَ لَبِالْمِرْصَادِ",
+      "turkishText": "Şüphesiz Rabbin gözetleme yerindedir (her şeyi görüp gözetmektedir)."
+    },
+    {
+      "number": 15,
+      "numberInSurah": 15,
+      "text": "فَأَمَّا الْإِنسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ",
+      "turkishText": "İnsana gelince, Rabbi onu sınayıp da ikram ettiğinde ve nimetler verdiğinde 'Rabbim bana ikram etti' der."
+    },
+    {
+      "number": 16,
+      "numberInSurah": 16,
+      "text": "وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ",
+      "turkishText": "Ama onu sınayıp rızkını daraltınca 'Rabbim beni aşağıladı' der."
+    },
+    {
+      "number": 17,
+      "numberInSurah": 17,
+      "text": "كَلَّا ۖ بَل لَّا تُكْرِمُونَ الْيَتِيمَ",
+      "turkishText": "Hayır! Doğrusu siz yetime ikram etmiyorsunuz."
+    },
+    {
+      "number": 18,
+      "numberInSurah": 18,
+      "text": "وَلَا تَحَاضُّونَ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+      "turkishText": "Birbirinizi yoksulu doyurmaya teşvik etmiyorsunuz."
+    },
+    {
+      "number": 19,
+      "numberInSurah": 19,
+      "text": "وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَّمًّا",
+      "turkishText": "Mirası alabildiğine yiyorsunuz."
+    },
+    {
+      "number": 20,
+      "numberInSurah": 20,
+      "text": "وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا",
+      "turkishText": "Malı aşırı bir sevgiyle seviyorsunuz."
+    },
+    {
+      "number": 21,
+      "numberInSurah": 21,
+      "text": "كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا",
+      "turkishText": "Hayır! Yer parça parça düzlenip ezildiğinde,"
+    },
+    {
+      "number": 22,
+      "numberInSurah": 22,
+      "text": "وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا",
+      "turkishText": "Rabbin geldiğinde ve melekler saf saf dizildiğinde,"
+    },
+    {
+      "number": 23,
+      "numberInSurah": 23,
+      "text": "وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنسَانُ وَأَنَّىٰ لَهُ الذِّكْرَىٰ",
+      "turkishText": "Ve o gün cehennem getirildiğinde, insan o gün düşünüp öğüt alacak, fakat bu düşünüp öğüt almanın ne faydası olacak?"
+    },
+    {
+      "number": 24,
+      "numberInSurah": 24,
+      "text": "يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي",
+      "turkishText": "'Keşke bu hayatım için önceden (bir şeyler) gönderseydim' diyecek."
+    },
+    {
+      "number": 25,
+      "numberInSurah": 25,
+      "text": "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُ أَحَدٌ",
+      "turkishText": "O gün Allah'ın azabı gibi azap edebilecek hiç kimse yoktur."
+    },
+    {
+      "number": 26,
+      "numberInSurah": 26,
+      "text": "وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ",
+      "turkishText": "Ve O'nun bağladığı gibi bağlayabilecek hiç kimse yoktur."
+    },
+    {
+      "number": 27,
+      "numberInSurah": 27,
+      "text": "يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ",
+      "turkishText": "Ey huzura kavuşmuş nefs!"
+    },
+    {
+      "number": 28,
+      "numberInSurah": 28,
+      "text": "ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
+      "turkishText": "Sen O'ndan razı, O da senden razı olarak Rabbine dön."
+    },
+    {
+      "number": 29,
+      "numberInSurah": 29,
+      "text": "فَادْخُلِي فِي عِبَادِي",
+      "turkishText": "Kullarımın arasına gir."
+    },
+    {
+      "number": 30,
+      "numberInSurah": 30,
+      "text": "وَادْخُلِي جَنَّتِي",
+      "turkishText": "Ve cennetime gir."
+    }
+  ]
+}

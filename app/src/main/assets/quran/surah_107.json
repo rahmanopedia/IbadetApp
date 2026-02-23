@@ -1,0 +1,52 @@
+{
+  "number": 107,
+  "name": "الماعون",
+  "englishName": "Al-Maun",
+  "turkishName": "Mâûn",
+  "numberOfAyahs": 7,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "numberInSurah": 1,
+      "text": "أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ",
+      "turkishText": "Dini (hesap ve ceza gününü) yalanlayanı gördün mü?"
+    },
+    {
+      "number": 2,
+      "numberInSurah": 2,
+      "text": "فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ",
+      "turkishText": "İşte odur yetimi itip kakan."
+    },
+    {
+      "number": 3,
+      "numberInSurah": 3,
+      "text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+      "turkishText": "Ve yoksulu doyurmaya teşvik etmez."
+    },
+    {
+      "number": 4,
+      "numberInSurah": 4,
+      "text": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+      "turkishText": "Vay o namaz kılanların hâline ki,"
+    },
+    {
+      "number": 5,
+      "numberInSurah": 5,
+      "text": "الَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+      "turkishText": "Onlar namazlarından gafildirler."
+    },
+    {
+      "number": 6,
+      "numberInSurah": 6,
+      "text": "الَّذِينَ هُمْ يُرَاءُونَ",
+      "turkishText": "Onlar gösteriş yaparlar."
+    },
+    {
+      "number": 7,
+      "numberInSurah": 7,
+      "text": "وَيَمْنَعُونَ الْمَاعُونَ",
+      "turkishText": "Ve küçük yardımları (zekât, sadaka) engellerler."
+    }
+  ]
+}

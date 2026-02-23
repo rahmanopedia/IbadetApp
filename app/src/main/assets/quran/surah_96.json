@@ -1,0 +1,124 @@
+{
+  "number": 96,
+  "name": "العلق",
+  "englishName": "Al-Alaq",
+  "turkishName": "Alak",
+  "numberOfAyahs": 19,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "numberInSurah": 1,
+      "text": "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ",
+      "turkishText": "Yaratan Rabbinin adıyla oku."
+    },
+    {
+      "number": 2,
+      "numberInSurah": 2,
+      "text": "خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ",
+      "turkishText": "O insanı bir kan pıhtısından yarattı."
+    },
+    {
+      "number": 3,
+      "numberInSurah": 3,
+      "text": "اقْرَأْ وَرَبُّكَ الْأَكْرَمُ",
+      "turkishText": "Oku! Rabbin en büyük kerem sahibidir."
+    },
+    {
+      "number": 4,
+      "numberInSurah": 4,
+      "text": "الَّذِي عَلَّمَ بِالْقَلَمِ",
+      "turkishText": "O ki kalemle öğretti."
+    },
+    {
+      "number": 5,
+      "numberInSurah": 5,
+      "text": "عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ",
+      "turkishText": "İnsana bilmediğini öğretti."
+    },
+    {
+      "number": 6,
+      "numberInSurah": 6,
+      "text": "كَلَّا إِنَّ الْإِنسَانَ لَيَطْغَىٰ",
+      "turkishText": "Hayır! Gerçekten insan azar."
+    },
+    {
+      "number": 7,
+      "numberInSurah": 7,
+      "text": "أَن رَّآهُ اسْتَغْنَىٰ",
+      "turkishText": "Kendini müstağni gördüğü için."
+    },
+    {
+      "number": 8,
+      "numberInSurah": 8,
+      "text": "إِنَّ إِلَىٰ رَبِّكَ الرُّجْعَىٰ",
+      "turkishText": "Şüphesiz dönüş Rabbinedir."
+    },
+    {
+      "number": 9,
+      "numberInSurah": 9,
+      "text": "أَرَأَيْتَ الَّذِي يَنْهَىٰ",
+      "turkishText": "Namazdan alıkoyanı gördün mü?"
+    },
+    {
+      "number": 10,
+      "numberInSurah": 10,
+      "text": "عَبْدًا إِذَا صَلَّىٰ",
+      "turkishText": "O kul namaz kıldığında (onu yasaklayanı)."
+    },
+    {
+      "number": 11,
+      "numberInSurah": 11,
+      "text": "أَرَأَيْتَ إِن كَانَ عَلَى الْهُدَىٰ",
+      "turkishText": "Ya kul doğru yol üzereyse (ne dersin)?"
+    },
+    {
+      "number": 12,
+      "numberInSurah": 12,
+      "text": "أَوْ أَمَرَ بِالتَّقْوَىٰ",
+      "turkishText": "Ya da takvayı emrediyorsa?"
+    },
+    {
+      "number": 13,
+      "numberInSurah": 13,
+      "text": "أَرَأَيْتَ إِن كَذَّبَ وَتَوَلَّىٰ",
+      "turkishText": "Ya (yasaklayan) yalanladı ve yüz çevirdiyse (ne dersin)?"
+    },
+    {
+      "number": 14,
+      "numberInSurah": 14,
+      "text": "أَلَمْ يَعْلَم بِأَنَّ اللَّهَ يَرَىٰ",
+      "turkishText": "Allah'ın her şeyi gördüğünü bilmiyor mu?"
+    },
+    {
+      "number": 15,
+      "numberInSurah": 15,
+      "text": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًا بِالنَّاصِيَةِ",
+      "turkishText": "Hayır! Eğer vazgeçmezse, andolsun o perçemden tutup sürükleyeceğiz."
+    },
+    {
+      "number": 16,
+      "numberInSurah": 16,
+      "text": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ",
+      "turkishText": "Yalancı ve günahkâr o perçemden."
+    },
+    {
+      "number": 17,
+      "numberInSurah": 17,
+      "text": "فَلْيَدْعُ نَادِيَهُ",
+      "turkishText": "Haydi çağırsın dostlarını."
+    },
+    {
+      "number": 18,
+      "numberInSurah": 18,
+      "text": "سَنَدْعُ الزَّبَانِيَةَ",
+      "turkishText": "Biz de zebanileri çağıracağız."
+    },
+    {
+      "number": 19,
+      "numberInSurah": 19,
+      "text": "كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِب ۩",
+      "turkishText": "Hayır, ona itaat etme; secde et ve (Rabbine) yaklaş."
+    }
+  ]
+}

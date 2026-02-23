@@ -1,0 +1,58 @@
+{
+  "number": 99,
+  "name": "الزلزلة",
+  "englishName": "Az-Zalzalah",
+  "turkishName": "Zilzâl",
+  "numberOfAyahs": 8,
+  "revelationType": "Medinan",
+  "ayahs": [
+    {
+      "number": 1,
+      "numberInSurah": 1,
+      "text": "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
+      "turkishText": "Yer o şiddetli sarsıntısıyla sarsıldığında,"
+    },
+    {
+      "number": 2,
+      "numberInSurah": 2,
+      "text": "وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا",
+      "turkishText": "Yer içindeki ağırlıklarını (ölüleri) dışarı çıkardığında,"
+    },
+    {
+      "number": 3,
+      "numberInSurah": 3,
+      "text": "وَقَالَ الْإِنسَانُ مَا لَهَا",
+      "turkishText": "Ve insan 'Ona ne oluyor?' dediğinde,"
+    },
+    {
+      "number": 4,
+      "numberInSurah": 4,
+      "text": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+      "turkishText": "O gün yer, haberlerini anlatır."
+    },
+    {
+      "number": 5,
+      "numberInSurah": 5,
+      "text": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "turkishText": "Çünkü Rabbin ona (öyle) vahyetti."
+    },
+    {
+      "number": 6,
+      "numberInSurah": 6,
+      "text": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِّيُرَوْا أَعْمَالَهُمْ",
+      "turkishText": "O gün insanlar, amellerinin kendilerine gösterilmesi için gruplar hâlinde çıkarlar."
+    },
+    {
+      "number": 7,
+      "numberInSurah": 7,
+      "text": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
+      "turkishText": "Kim zerre ağırlığınca iyilik yapmışsa onu görür."
+    },
+    {
+      "number": 8,
+      "numberInSurah": 8,
+      "text": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+      "turkishText": "Kim de zerre ağırlığınca kötülük yapmışsa onu görür."
+    }
+  ]
+}

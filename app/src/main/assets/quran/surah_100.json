@@ -1,0 +1,76 @@
+{
+  "number": 100,
+  "name": "العاديات",
+  "englishName": "Al-Adiyat",
+  "turkishName": "Âdiyât",
+  "numberOfAyahs": 11,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "numberInSurah": 1,
+      "text": "وَالْعَادِيَاتِ ضَبْحًا",
+      "turkishText": "Soluk soluğa koşan atlara andolsun,"
+    },
+    {
+      "number": 2,
+      "numberInSurah": 2,
+      "text": "فَالْمُورِيَاتِ قَدْحًا",
+      "turkishText": "Tırnaklarıyla kıvılcımlar çıkaranlara andolsun,"
+    },
+    {
+      "number": 3,
+      "numberInSurah": 3,
+      "text": "فَالْمُغِيرَاتِ صُبْحًا",
+      "turkishText": "Sabah baskını yapanlara andolsun,"
+    },
+    {
+      "number": 4,
+      "numberInSurah": 4,
+      "text": "فَأَثَرْنَ بِهِ نَقْعًا",
+      "turkishText": "Ve (koşarken) toz dumana (bulutu) kaldıranlara andolsun,"
+    },
+    {
+      "number": 5,
+      "numberInSurah": 5,
+      "text": "فَوَسَطْنَ بِهِ جَمْعًا",
+      "turkishText": "Ve düşman topluluğunun ortasına girenlere andolsun ki,"
+    },
+    {
+      "number": 6,
+      "numberInSurah": 6,
+      "text": "إِنَّ الْإِنسَانَ لِرَبِّهِ لَكَنُودٌ",
+      "turkishText": "Gerçekten insan Rabbine karşı pek nankördür."
+    },
+    {
+      "number": 7,
+      "numberInSurah": 7,
+      "text": "وَإِنَّهُ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+      "turkishText": "Ve o buna bizzat şahittir."
+    },
+    {
+      "number": 8,
+      "numberInSurah": 8,
+      "text": "وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ",
+      "turkishText": "Ve o gerçekten mala olan sevgisiyle çok şiddetlidir."
+    },
+    {
+      "number": 9,
+      "numberInSurah": 9,
+      "text": "أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ",
+      "turkishText": "Kabirlerdekiler diriltilip çıkarıldığında bilmez mi?"
+    },
+    {
+      "number": 10,
+      "numberInSurah": 10,
+      "text": "وَحُصِّلَ مَا فِي الصُّدُورِ",
+      "turkishText": "Ve göğüslerdekiler (kalplerdekilerin) ortaya döküldüğünde?"
+    },
+    {
+      "number": 11,
+      "numberInSurah": 11,
+      "text": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌ",
+      "turkishText": "Şüphesiz Rableri o gün onlardan haberdardır."
+    }
+  ]
+}

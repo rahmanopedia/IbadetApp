@@ -1,0 +1,58 @@
+{
+  "number": 95,
+  "name": "التين",
+  "englishName": "At-Tin",
+  "turkishName": "Tîn",
+  "numberOfAyahs": 8,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "numberInSurah": 1,
+      "text": "وَالتِّينِ وَالزَّيْتُونِ",
+      "turkishText": "İncire ve zeytine andolsun,"
+    },
+    {
+      "number": 2,
+      "numberInSurah": 2,
+      "text": "وَطُورِ سِينِينَ",
+      "turkishText": "Sina Dağı'na andolsun,"
+    },
+    {
+      "number": 3,
+      "numberInSurah": 3,
+      "text": "وَهَٰذَا الْبَلَدِ الْأَمِينِ",
+      "turkishText": "Ve şu güvenli beldeye (Mekke'ye) andolsun ki,"
+    },
+    {
+      "number": 4,
+      "numberInSurah": 4,
+      "text": "لَقَدْ خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ",
+      "turkishText": "Gerçekten biz insanı en güzel biçimde yarattık."
+    },
+    {
+      "number": 5,
+      "numberInSurah": 5,
+      "text": "ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ",
+      "turkishText": "Sonra onu aşağıların en aşağısına indirdik."
+    },
+    {
+      "number": 6,
+      "numberInSurah": 6,
+      "text": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+      "turkishText": "Ancak iman edip salih amel işleyenler bunun dışındadır; onlara kesintisiz bir mükâfat vardır."
+    },
+    {
+      "number": 7,
+      "numberInSurah": 7,
+      "text": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ",
+      "turkishText": "Artık seni dini (hesap gününü) yalanlamaya ne sevk ediyor?"
+    },
+    {
+      "number": 8,
+      "numberInSurah": 8,
+      "text": "أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ",
+      "turkishText": "Allah hükmedenlerin en güzel hükmedeni değil midir?"
+    }
+  ]
+}

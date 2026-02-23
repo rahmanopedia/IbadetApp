@@ -1,0 +1,58 @@
+{
+  "number": 98,
+  "name": "البينة",
+  "englishName": "Al-Bayyinah",
+  "turkishName": "Beyyine",
+  "numberOfAyahs": 8,
+  "revelationType": "Medinan",
+  "ayahs": [
+    {
+      "number": 1,
+      "numberInSurah": 1,
+      "text": "لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ الْبَيِّنَةُ",
+      "turkishText": "Kitap ehlinden ve müşriklerden inkâr edenler, kendilerine apaçık delil gelinceye kadar (küfürden) ayrılacak değillerdi."
+    },
+    {
+      "number": 2,
+      "numberInSurah": 2,
+      "text": "رَسُولٌ مِّنَ اللَّهِ يَتْلُو صُحُفًا مُّطَهَّرَةً",
+      "turkishText": "Allah'tan gelen bir elçi ki tertemiz sayfalar okur."
+    },
+    {
+      "number": 3,
+      "numberInSurah": 3,
+      "text": "فِيهَا كُتُبٌ قَيِّمَةٌ",
+      "turkishText": "İçinde doğru ve değerli hükümler bulunur."
+    },
+    {
+      "number": 4,
+      "numberInSurah": 4,
+      "text": "وَمَا تَفَرَّقَ الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَةُ",
+      "turkishText": "Kitap verilenler, kendilerine apaçık delil geldikten sonra ayrılığa düştüler."
+    },
+    {
+      "number": 5,
+      "numberInSurah": 5,
+      "text": "وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَاءَ وَيُقِيمُوا الصَّلَاةَ وَيُؤْتُوا الزَّكَاةَ ۚ وَذَٰلِكَ دِينُ الْقَيِّمَةِ",
+      "turkishText": "Hâlbuki onlara sadece, dini yalnız Allah'a has kılarak, hakka yönelmiş kimseler olarak O'na kulluk etmeleri, namazı kılmaları ve zekâtı vermeleri emredilmişti. İşte bu dosdoğru dindir."
+    },
+    {
+      "number": 6,
+      "numberInSurah": 6,
+      "text": "إِنَّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ فِي نَارِ جَهَنَّمَ خَالِدِينَ فِيهَا ۚ أُولَٰئِكَ هُمْ شَرُّ الْبَرِيَّةِ",
+      "turkishText": "Şüphesiz kitap ehlinden ve müşriklerden inkâr edenler cehennem ateşindedirler, orada ebedî kalacaklardır. İşte onlar yaratıkların en kötüsüdür."
+    },
+    {
+      "number": 7,
+      "numberInSurah": 7,
+      "text": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَٰئِكَ هُمْ خَيْرُ الْبَرِيَّةِ",
+      "turkishText": "Şüphesiz iman edip salih ameller işleyenler, işte onlar yaratıkların en hayırlısıdır."
+    },
+    {
+      "number": 8,
+      "numberInSurah": 8,
+      "text": "جَزَاؤُهُمْ عِندَ رَبِّهِمْ جَنَّاتُ عَدْنٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ رَّضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِيَ رَبَّهُ",
+      "turkishText": "Rableri katındaki mükâfatları, içinden ırmaklar akan Adn cennetleridir; orada ebedî kalacaklardır. Allah onlardan razı olmuş, onlar da O'ndan razı olmuşlardır. İşte bu, Rabbine derin saygı duyanlara mahsustur."
+    }
+  ]
+}

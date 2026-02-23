@@ -1,0 +1,58 @@
+{
+  "number": 102,
+  "name": "التكاثر",
+  "englishName": "At-Takathur",
+  "turkishName": "Tekâsür",
+  "numberOfAyahs": 8,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "numberInSurah": 1,
+      "text": "أَلْهَاكُمُ التَّكَاثُرُ",
+      "turkishText": "Çoğaltma yarışı sizi oyaladı."
+    },
+    {
+      "number": 2,
+      "numberInSurah": 2,
+      "text": "حَتَّىٰ زُرْتُمُ الْمَقَابِرَ",
+      "turkishText": "Ta ki kabirleri ziyaret edinceye (ölünceye) kadar."
+    },
+    {
+      "number": 3,
+      "numberInSurah": 3,
+      "text": "كَلَّا سَوْفَ تَعْلَمُونَ",
+      "turkishText": "Hayır! İleride bileceksiniz."
+    },
+    {
+      "number": 4,
+      "numberInSurah": 4,
+      "text": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+      "turkishText": "Yine hayır! İleride bileceksiniz."
+    },
+    {
+      "number": 5,
+      "numberInSurah": 5,
+      "text": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ",
+      "turkishText": "Hayır! Kesin olarak bilseydiniz (bu hâlde olmazdınız)."
+    },
+    {
+      "number": 6,
+      "numberInSurah": 6,
+      "text": "لَتَرَوُنَّ الْجَحِيمَ",
+      "turkishText": "Andolsun cehennemi göreceksiniz."
+    },
+    {
+      "number": 7,
+      "numberInSurah": 7,
+      "text": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ",
+      "turkishText": "Sonra andolsun onu gözle görerek (kesin olarak) göreceksiniz."
+    },
+    {
+      "number": 8,
+      "numberInSurah": 8,
+      "text": "ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ",
+      "turkishText": "Sonra andolsun o gün nimetlerden sorgulanacaksınız."
+    }
+  ]
+}

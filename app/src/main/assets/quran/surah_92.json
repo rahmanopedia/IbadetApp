@@ -1,0 +1,136 @@
+{
+  "number": 92,
+  "name": "الليل",
+  "englishName": "Al-Layl",
+  "turkishName": "Leyl",
+  "numberOfAyahs": 21,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "numberInSurah": 1,
+      "text": "وَاللَّيْلِ إِذَا يَغْشَىٰ",
+      "turkishText": "Bürüyüp kapladığında geceye andolsun,"
+    },
+    {
+      "number": 2,
+      "numberInSurah": 2,
+      "text": "وَالنَّهَارِ إِذَا تَجَلَّىٰ",
+      "turkishText": "Aydınlandığında gündüze andolsun,"
+    },
+    {
+      "number": 3,
+      "numberInSurah": 3,
+      "text": "وَمَا خَلَقَ الذَّكَرَ وَالْأُنثَىٰ",
+      "turkishText": "Erkeği ve dişiyi yaratana andolsun ki,"
+    },
+    {
+      "number": 4,
+      "numberInSurah": 4,
+      "text": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ",
+      "turkishText": "Gerçekten çabalarınız farklıdır."
+    },
+    {
+      "number": 5,
+      "numberInSurah": 5,
+      "text": "فَأَمَّا مَنْ أَعْطَىٰ وَاتَّقَىٰ",
+      "turkishText": "Kim verir ve Allah'a karşı gelmekten sakınırsa,"
+    },
+    {
+      "number": 6,
+      "numberInSurah": 6,
+      "text": "وَصَدَّقَ بِالْحُسْنَىٰ",
+      "turkishText": "Ve en güzel olanı (cenneti) doğrularsa,"
+    },
+    {
+      "number": 7,
+      "numberInSurah": 7,
+      "text": "فَسَنُيَسِّرُهُ لِلْيُسْرَىٰ",
+      "turkishText": "Biz de onu en kolaya (hayra) hazırlarız."
+    },
+    {
+      "number": 8,
+      "numberInSurah": 8,
+      "text": "وَأَمَّا مَن بَخِلَ وَاسْتَغْنَىٰ",
+      "turkishText": "Ama kim cimrilik eder ve kendini müstağni görürse,"
+    },
+    {
+      "number": 9,
+      "numberInSurah": 9,
+      "text": "وَكَذَّبَ بِالْحُسْنَىٰ",
+      "turkishText": "Ve en güzeli (cenneti) yalanlarsa,"
+    },
+    {
+      "number": 10,
+      "numberInSurah": 10,
+      "text": "فَسَنُيَسِّرُهُ لِلْعُسْرَىٰ",
+      "turkishText": "Biz de onu en zora (şerre) hazırlarız."
+    },
+    {
+      "number": 11,
+      "numberInSurah": 11,
+      "text": "وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَدَّىٰ",
+      "turkishText": "Yok olup gittiğinde (düştüğünde) malı ona ne fayda sağlayacak?"
+    },
+    {
+      "number": 12,
+      "numberInSurah": 12,
+      "text": "إِنَّ عَلَيْنَا لَلْهُدَىٰ",
+      "turkishText": "Şüphesiz yol göstermek bize aittir."
+    },
+    {
+      "number": 13,
+      "numberInSurah": 13,
+      "text": "وَإِنَّ لَنَا لَلْآخِرَةَ وَالْأُولَىٰ",
+      "turkishText": "Ve şüphesiz ahiret de dünya da bize aittir."
+    },
+    {
+      "number": 14,
+      "numberInSurah": 14,
+      "text": "فَأَنذَرْتُكُمْ نَارًا تَلَظَّىٰ",
+      "turkishText": "İşte sizi alevlenen bir ateşe karşı uyardım."
+    },
+    {
+      "number": 15,
+      "numberInSurah": 15,
+      "text": "لَا يَصْلَاهَا إِلَّا الْأَشْقَى",
+      "turkishText": "O ateşe ancak en bedbaht olan girer."
+    },
+    {
+      "number": 16,
+      "numberInSurah": 16,
+      "text": "الَّذِي كَذَّبَ وَتَوَلَّىٰ",
+      "turkishText": "O ki yalanladı ve yüz çevirdi."
+    },
+    {
+      "number": 17,
+      "numberInSurah": 17,
+      "text": "وَسَيُجَنَّبُهَا الْأَتْقَى",
+      "turkishText": "En muttaki olan ise ondan uzak tutulacaktır."
+    },
+    {
+      "number": 18,
+      "numberInSurah": 18,
+      "text": "الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّىٰ",
+      "turkishText": "O ki malını vererek temizlenir."
+    },
+    {
+      "number": 19,
+      "numberInSurah": 19,
+      "text": "وَمَا لِأَحَدٍ عِندَهُ مِن نِّعْمَةٍ تُجْزَىٰ",
+      "turkishText": "Yanında karşılık beklediği kimsenin nimeti yoktur."
+    },
+    {
+      "number": 20,
+      "numberInSurah": 20,
+      "text": "إِلَّا ابْتِغَاءَ وَجْهِ رَبِّهِ الْأَعْلَىٰ",
+      "turkishText": "Sadece yüce Rabbinin rızasını kazanmak için."
+    },
+    {
+      "number": 21,
+      "numberInSurah": 21,
+      "text": "وَلَسَوْفَ يَرْضَىٰ",
+      "turkishText": "Ve o elbette razı olacaktır."
+    }
+  ]
+}

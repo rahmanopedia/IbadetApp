@@ -1,0 +1,58 @@
+{
+  "number": 94,
+  "name": "الشرح",
+  "englishName": "Ash-Sharh",
+  "turkishName": "İnşirah",
+  "numberOfAyahs": 8,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "numberInSurah": 1,
+      "text": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "turkishText": "Senin göğsünü açıp genişletmedik mi?"
+    },
+    {
+      "number": 2,
+      "numberInSurah": 2,
+      "text": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "turkishText": "Ve yükünü senden almadık mı?"
+    },
+    {
+      "number": 3,
+      "numberInSurah": 3,
+      "text": "الَّذِي أَنقَضَ ظَهْرَكَ",
+      "turkishText": "Ki o sırtını çatırdatıyordu."
+    },
+    {
+      "number": 4,
+      "numberInSurah": 4,
+      "text": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "turkishText": "Ve senin şanını yükseltmedik mi?"
+    },
+    {
+      "number": 5,
+      "numberInSurah": 5,
+      "text": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "turkishText": "Demek ki güçlükle beraber bir kolaylık vardır."
+    },
+    {
+      "number": 6,
+      "numberInSurah": 6,
+      "text": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "turkishText": "Gerçekten güçlükle beraber bir kolaylık vardır."
+    },
+    {
+      "number": 7,
+      "numberInSurah": 7,
+      "text": "فَإِذَا فَرَغْتَ فَانصَبْ",
+      "turkishText": "Öyleyse bir işi bitirince diğerine giriş."
+    },
+    {
+      "number": 8,
+      "numberInSurah": 8,
+      "text": "وَإِلَىٰ رَبِّكَ فَارْغَبْ",
+      "turkishText": "Ve yalnızca Rabbine yönel."
+    }
+  ]
+}

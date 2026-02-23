@@ -1,0 +1,130 @@
+{
+  "number": 90,
+  "name": "البلد",
+  "englishName": "Al-Balad",
+  "turkishName": "Beled",
+  "numberOfAyahs": 20,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "numberInSurah": 1,
+      "text": "لَا أُقْسِمُ بِهَٰذَا الْبَلَدِ",
+      "turkishText": "Bu şehre (Mekke'ye) andolsun;"
+    },
+    {
+      "number": 2,
+      "numberInSurah": 2,
+      "text": "وَأَنتَ حِلٌّ بِهَٰذَا الْبَلَدِ",
+      "turkishText": "Sen bu şehirde ikamet ediyorsun."
+    },
+    {
+      "number": 3,
+      "numberInSurah": 3,
+      "text": "وَوَالِدٍ وَمَا وَلَدَ",
+      "turkishText": "Babaya ve doğurduğuna andolsun ki,"
+    },
+    {
+      "number": 4,
+      "numberInSurah": 4,
+      "text": "لَقَدْ خَلَقْنَا الْإِنسَانَ فِي كَبَدٍ",
+      "turkishText": "Gerçekten biz insanı sıkıntı içinde yarattık."
+    },
+    {
+      "number": 5,
+      "numberInSurah": 5,
+      "text": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+      "turkishText": "Hiç kimsenin ona güç yetiremeyeceğini mi zannediyor?"
+    },
+    {
+      "number": 6,
+      "numberInSurah": 6,
+      "text": "يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا",
+      "turkishText": "'Yığınla mal harcadım' diyor."
+    },
+    {
+      "number": 7,
+      "numberInSurah": 7,
+      "text": "أَيَحْسَبُ أَن لَّمْ يَرَهُ أَحَدٌ",
+      "turkishText": "Hiç kimsenin onu görmediğini mi zannediyor?"
+    },
+    {
+      "number": 8,
+      "numberInSurah": 8,
+      "text": "أَلَمْ نَجْعَل لَّهُ عَيْنَيْنِ",
+      "turkishText": "Ona iki göz vermedik mi?"
+    },
+    {
+      "number": 9,
+      "numberInSurah": 9,
+      "text": "وَلِسَانًا وَشَفَتَيْنِ",
+      "turkishText": "Bir dil ve iki dudak (vermedik mi)?"
+    },
+    {
+      "number": 10,
+      "numberInSurah": 10,
+      "text": "وَهَدَيْنَاهُ النَّجْدَيْنِ",
+      "turkishText": "Ve ona iki yolu (hayır ve şer yollarını) göstermedik mi?"
+    },
+    {
+      "number": 11,
+      "numberInSurah": 11,
+      "text": "فَلَا اقْتَحَمَ الْعَقَبَةَ",
+      "turkishText": "Ama o sarp yokuşu aşmaya girişmedi."
+    },
+    {
+      "number": 12,
+      "numberInSurah": 12,
+      "text": "وَمَا أَدْرَاكَ مَا الْعَقَبَةُ",
+      "turkishText": "O sarp yokuşun ne olduğunu sana ne bildirdi?"
+    },
+    {
+      "number": 13,
+      "numberInSurah": 13,
+      "text": "فَكُّ رَقَبَةٍ",
+      "turkishText": "Köle azat etmek,"
+    },
+    {
+      "number": 14,
+      "numberInSurah": 14,
+      "text": "أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ",
+      "turkishText": "Ya da kıtlık gününde doyurmaktır."
+    },
+    {
+      "number": 15,
+      "numberInSurah": 15,
+      "text": "يَتِيمًا ذَا مَقْرَبَةٍ",
+      "turkishText": "Yakınlığı olan bir yetimi,"
+    },
+    {
+      "number": 16,
+      "numberInSurah": 16,
+      "text": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+      "turkishText": "Ya da yoksulluğa düşmüş bir yoksulu."
+    },
+    {
+      "number": 17,
+      "numberInSurah": 17,
+      "text": "ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِ",
+      "turkishText": "Sonra iman edip birbirlerine sabrı ve merhameti tavsiye edenlerden olmaktır."
+    },
+    {
+      "number": 18,
+      "numberInSurah": 18,
+      "text": "أُولَٰئِكَ أَصْحَابُ الْمَيْمَنَةِ",
+      "turkishText": "İşte bunlar sağ yanın (cennetin) sahipleridir."
+    },
+    {
+      "number": 19,
+      "numberInSurah": 19,
+      "text": "وَالَّذِينَ كَفَرُوا بِآيَاتِنَا هُمْ أَصْحَابُ الْمَشْأَمَةِ",
+      "turkishText": "Ayetlerimizi inkâr edenler ise sol yanın (cehennemin) sahipleridir."
+    },
+    {
+      "number": 20,
+      "numberInSurah": 20,
+      "text": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌ",
+      "turkishText": "Onların üzerlerine kapanmış bir ateş vardır."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "number": 93,
+  "name": "الضحى",
+  "englishName": "Ad-Duha",
+  "turkishName": "Duha",
+  "numberOfAyahs": 11,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "numberInSurah": 1,
+      "text": "وَالضُّحَىٰ",
+      "turkishText": "Kuşluk vaktine andolsun,"
+    },
+    {
+      "number": 2,
+      "numberInSurah": 2,
+      "text": "وَاللَّيْلِ إِذَا سَجَىٰ",
+      "turkishText": "Karardığında geceye andolsun,"
+    },
+    {
+      "number": 3,
+      "numberInSurah": 3,
+      "text": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "turkishText": "Rabbin seni bırakmadı ve sana darılmadı."
+    },
+    {
+      "number": 4,
+      "numberInSurah": 4,
+      "text": "وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَىٰ",
+      "turkishText": "Ve elbette ahiret senin için dünyadan daha hayırlıdır."
+    },
+    {
+      "number": 5,
+      "numberInSurah": 5,
+      "text": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ",
+      "turkishText": "Rabbin sana verecek ve sen de razı olacaksın."
+    },
+    {
+      "number": 6,
+      "numberInSurah": 6,
+      "text": "أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ",
+      "turkishText": "Seni yetim bulup barındırmadı mı?"
+    },
+    {
+      "number": 7,
+      "numberInSurah": 7,
+      "text": "وَوَجَدَكَ ضَالًّا فَهَدَىٰ",
+      "turkishText": "Seni yolunu kaybetmiş bulup yola iletmedi mi?"
+    },
+    {
+      "number": 8,
+      "numberInSurah": 8,
+      "text": "وَوَجَدَكَ عَائِلًا فَأَغْنَىٰ",
+      "turkishText": "Seni yoksul bulup zengin etmedi mi?"
+    },
+    {
+      "number": 9,
+      "numberInSurah": 9,
+      "text": "فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ",
+      "turkishText": "O hâlde yetimi sakın ezme."
+    },
+    {
+      "number": 10,
+      "numberInSurah": 10,
+      "text": "وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ",
+      "turkishText": "İsteyeni (dilenciyi) sakın azarlama."
+    },
+    {
+      "number": 11,
+      "numberInSurah": 11,
+      "text": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "turkishText": "Rabbinin nimetini ise anlat (şükret)."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "number": 101,
+  "name": "القارعة",
+  "englishName": "Al-Qariah",
+  "turkishName": "Kâria",
+  "numberOfAyahs": 11,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "numberInSurah": 1,
+      "text": "الْقَارِعَةُ",
+      "turkishText": "Büyük kıyamet felaketi (Karia)!"
+    },
+    {
+      "number": 2,
+      "numberInSurah": 2,
+      "text": "مَا الْقَارِعَةُ",
+      "turkishText": "Nedir o büyük kıyamet felaketi?"
+    },
+    {
+      "number": 3,
+      "numberInSurah": 3,
+      "text": "وَمَا أَدْرَاكَ مَا الْقَارِعَةُ",
+      "turkishText": "O büyük kıyamet felaketinin ne olduğunu sana ne bildirdi?"
+    },
+    {
+      "number": 4,
+      "numberInSurah": 4,
+      "text": "يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ",
+      "turkishText": "O gün insanlar dağılmış güveler gibi olurlar."
+    },
+    {
+      "number": 5,
+      "numberInSurah": 5,
+      "text": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ",
+      "turkishText": "Dağlar atılmış renkli yün gibi olur."
+    },
+    {
+      "number": 6,
+      "numberInSurah": 6,
+      "text": "فَأَمَّا مَن ثَقُلَتْ مَوَازِينُهُ",
+      "turkishText": "Artık kimin tartıları ağır basarsa,"
+    },
+    {
+      "number": 7,
+      "numberInSurah": 7,
+      "text": "فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ",
+      "turkishText": "O hoşnut bir yaşayış içindedir."
+    },
+    {
+      "number": 8,
+      "numberInSurah": 8,
+      "text": "وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ",
+      "turkishText": "Ama kimin tartıları hafif gelirse,"
+    },
+    {
+      "number": 9,
+      "numberInSurah": 9,
+      "text": "فَأُمُّهُ هَاوِيَةٌ",
+      "turkishText": "Onun yeri Hâviye'dir."
+    },
+    {
+      "number": 10,
+      "numberInSurah": 10,
+      "text": "وَمَا أَدْرَاكَ مَا هِيَهْ",
+      "turkishText": "Onun ne olduğunu sana ne bildirdi?"
+    },
+    {
+      "number": 11,
+      "numberInSurah": 11,
+      "text": "نَارٌ حَامِيَةٌ",
+      "turkishText": "O, alevleri yüksek bir ateştir."
+    }
+  ]
+}
