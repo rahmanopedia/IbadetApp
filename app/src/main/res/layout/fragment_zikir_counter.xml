@@ -243,7 +243,7 @@
         android:orientation="horizontal"
         android:gravity="center"
         android:paddingHorizontal="32dp"
-        android:paddingBottom="20dp"
+        android:paddingBottom="76dp"
         android:paddingTop="8dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
