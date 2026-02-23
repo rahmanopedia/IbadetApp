@@ -29,6 +29,9 @@ class ZikirViewModel(application: Application) : AndroidViewModel(application) {
     private val _isCompleted = MutableLiveData<Boolean>(false)
     val isCompleted: LiveData<Boolean> = _isCompleted
 
+    private val _totalCount = MutableLiveData<Int>(0)
+    val totalCount: LiveData<Int> = _totalCount
+
     private var vibrator: Vibrator? = null
     private var isVibrationEnabled = true
 
@@ -39,6 +42,13 @@ class ZikirViewModel(application: Application) : AndroidViewModel(application) {
         recentSessions = repository.recentSessions
         completedSessionCount = repository.completedSessionCount
         vibrator = application.getSystemService()
+        
+        // Calculate total target count
+        viewModelScope.launch {
+            allZikirler.value?.let { zikirler ->
+                _totalCount.value = zikirler.sumOf { it.targetCount }
+            }
+        }
     }
 
     fun selectZikir(zikir: Zikir) {

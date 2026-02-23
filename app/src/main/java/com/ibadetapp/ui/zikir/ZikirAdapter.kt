@@ -34,8 +34,16 @@ class ZikirAdapter(
                 tvZikirTranslit.text = zikir.transliteration
                 tvZikirArabic.text = zikir.arabicText
                 tvZikirTurkish.text = zikir.turkishText
-                tvZikirTarget.text = "Hedef: ${zikir.targetCount}"
+                tvZikirTarget.text = zikir.targetCount.toString()
                 tvZikirCategory.text = zikir.category
+
+                // Progress bar ayarla
+                val progress = if (zikir.targetCount > 0) {
+                    ((zikir.currentCount.toFloat() / zikir.targetCount) * 100).toInt()
+                } else 0
+                
+                progressBar.progress = progress
+                tvProgressPercent.text = "$progress%"
 
                 btnDelete.visibility = if (zikir.isCustom) View.VISIBLE else View.GONE
                 btnDelete.setOnClickListener { onDeleteClick(zikir) }

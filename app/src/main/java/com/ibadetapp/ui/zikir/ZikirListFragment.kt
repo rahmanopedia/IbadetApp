@@ -9,6 +9,7 @@ import androidx.fragment.app.viewModels
 import androidx.lifecycle.Lifecycle
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
+import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import com.google.android.material.textfield.TextInputEditText
 import com.ibadetapp.R
@@ -24,9 +25,7 @@ class ZikirListFragment : Fragment() {
     private lateinit var adapter: ZikirAdapter
 
     override fun onCreateView(
-        inflater: LayoutInflater,
-        container: ViewGroup?,
-        savedInstanceState: Bundle?
+        inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?
     ): View {
         _binding = FragmentZikirListBinding.inflate(inflater, container, false)
         return binding.root
@@ -51,7 +50,7 @@ class ZikirListFragment : Fragment() {
                 if (zikir.isCustom) {
                     MaterialAlertDialogBuilder(requireContext())
                         .setTitle("Zikir Sil")
-                        .setMessage("\"${zikir.transliteration}\" zikrini silmek istediğinize emin misiniz?")
+                        .setMessage("&quot;${zikir.transliteration}&quot; zikrini silmek istediğinize emin misiniz?")
                         .setNegativeButton("İptal", null)
                         .setPositiveButton("Sil") { _, _ ->
                             viewModel.deleteZikir(zikir)
@@ -60,21 +59,36 @@ class ZikirListFragment : Fragment() {
                 }
             }
         )
+        
+        // Smooth scrolling ve animasyon
         binding.rvZikirler.apply {
             layoutManager = LinearLayoutManager(requireContext())
             adapter = this@ZikirListFragment.adapter
+            itemAnimator = androidx.recyclerview.widget.DefaultItemAnimator().apply {
+                addDuration = 200
+                removeDuration = 200
+                changeDuration = 0
+                moveDuration = 200
+            }
         }
     }
 
     private fun observeViewModel() {
         viewModel.allZikirler.observe(viewLifecycleOwner) { zikirler ->
             adapter.submitList(zikirler)
+            
+            // Zikir sayısını güncelle
+            binding.tvZikirCount.text = "${zikirler.size} zikir"
+            
+            // Toplam hedef hesapla
+            val totalTarget = zikirler.sumOf { it.targetCount }
+            binding.tvTotalCount.text = totalTarget.toString()
         }
     }
 
     private fun setupStats() {
         viewModel.completedSessionCount.observe(viewLifecycleOwner) { count ->
-            binding.tvCompletedCount.text = "Tamamlanan: $count"
+            binding.tvCompletedCount.text = count.toString()
         }
     }
 

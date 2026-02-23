@@ -6,90 +6,205 @@
     android:layout_height="match_parent"
     android:background="@drawable/bg_tesbih_gradient">
 
-    <LinearLayout
+    <androidx.core.widget.NestedScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="vertical">
+        android:fillViewport="true">
 
-        <!-- Üst Bismillah -->
-        <TextView
+        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ"
-            android:textSize="14sp"
-            android:textColor="#55FFD700"
-            android:gravity="center"
-            android:paddingTop="8dp"
-            android:paddingBottom="6dp"
-            android:fontFamily="@font/arabic_font"
-            android:textDirection="rtl" />
+            android:orientation="vertical">
 
-        <!-- İnce çizgi -->
-        <View
-            android:layout_width="60dp"
-            android:layout_height="1dp"
-            android:background="#40FFD700"
-            android:layout_gravity="center_horizontal"
-            android:layout_marginBottom="8dp" />
+            <!-- Üst Bismillah Dekorasyon -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="12dp"
+                android:paddingBottom="8dp"
+                android:gravity="center">
 
-        <!-- İstatistik Kartı -->
-        <com.google.android.material.card.MaterialCardView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginHorizontal="14dp"
-            android:layout_marginBottom="8dp"
-            app:cardCornerRadius="14dp"
-            app:cardElevation="4dp"
-            app:cardBackgroundColor="#1A2E22"
-            app:strokeColor="#33FFD700"
-            app:strokeWidth="1dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ"
+                    android:textSize="16sp"
+                    android:textColor="#66FFD700"
+                    android:fontFamily="@font/arabic_font"
+                    android:textDirection="rtl" />
 
+                <View
+                    android:layout_width="80dp"
+                    android:layout_height="1.5dp"
+                    android:background="#50FFD700"
+                    android:layout_marginTop="6dp"
+                    android:layout_marginBottom="10dp" />
+
+            </LinearLayout>
+
+            <!-- İstatistik Kartları Grid -->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
-                android:padding="14dp"
-                android:gravity="center_vertical">
+                android:paddingHorizontal="16dp"
+                android:layout_marginBottom="16dp">
 
-                <ImageView
-                    android:layout_width="24dp"
-                    android:layout_height="24dp"
-                    android:src="@drawable/ic_stats"
-                    app:tint="#FFD700"
-                    android:layout_marginEnd="12dp" />
-
-                <TextView
-                    android:id="@+id/tv_completed_count"
-                    android:layout_width="match_parent"
+                <!-- Tamamlanan Zikirler -->
+                <com.google.android.material.card.MaterialCardView
+                    android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:textColor="#CCFFFFFF"
-                    android:textSize="15sp"
-                    android:text="Tamamlanan: 0" />
+                    android:layout_weight="1"
+                    android:layout_marginEnd="8dp"
+                    app:cardCornerRadius="18dp"
+                    app:cardElevation="4dp"
+                    app:cardBackgroundColor="#1A2E22"
+                    app:strokeColor="#40FFD700"
+                    app:strokeWidth="1.5dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:padding="16dp"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:layout_width="28dp"
+                            android:layout_height="28dp"
+                            android:src="@drawable/ic_check_circle"
+                            app:tint="#4CAF50"
+                            android:layout_marginBottom="8dp" />
+
+                        <TextView
+                            android:id="@+id/tv_completed_count"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="0"
+                            android:textSize="24sp"
+                            android:textStyle="bold"
+                            android:textColor="#FFD700" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Tamamlanan"
+                            android:textSize="11sp"
+                            android:textColor="#88FFFFFF"
+                            android:layout_marginTop="2dp" />
+
+                    </LinearLayout>
+
+                </com.google.android.material.card.MaterialCardView>
+
+                <!-- Toplam Zikir -->
+                <com.google.android.material.card.MaterialCardView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginStart="8dp"
+                    app:cardCornerRadius="18dp"
+                    app:cardElevation="4dp"
+                    app:cardBackgroundColor="#1A2E22"
+                    app:strokeColor="#40FFD700"
+                    app:strokeWidth="1.5dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:padding="16dp"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:layout_width="28dp"
+                            android:layout_height="28dp"
+                            android:src="@drawable/ic_stats"
+                            app:tint="#5B8DEF"
+                            android:layout_marginBottom="8dp" />
+
+                        <TextView
+                            android:id="@+id/tv_total_count"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="0"
+                            android:textSize="24sp"
+                            android:textStyle="bold"
+                            android:textColor="#FFD700" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Toplam"
+                            android:textSize="11sp"
+                            android:textColor="#88FFFFFF"
+                            android:layout_marginTop="2dp" />
+
+                    </LinearLayout>
+
+                </com.google.android.material.card.MaterialCardView>
 
             </LinearLayout>
-        </com.google.android.material.card.MaterialCardView>
 
-        <androidx.recyclerview.widget.RecyclerView
-            android:id="@+id/rv_zikirler"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
-            android:clipToPadding="false"
-            android:paddingBottom="88dp"
-            android:paddingHorizontal="4dp" />
+            <!-- Zikir Listesi Başlığı -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingHorizontal="20dp"
+                android:paddingBottom="8dp">
 
-    </LinearLayout>
+                <View
+                    android:layout_width="4dp"
+                    android:layout_height="20dp"
+                    android:background="#FFD700"
+                    android:layout_marginEnd="10dp" />
 
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Zikirler"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="#FFFFFF"
+                    android:letterSpacing="0.03" />
+
+                <TextView
+                    android:id="@+id/tv_zikir_count"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="8 zikir"
+                    android:textSize="12sp"
+                    android:textColor="#66FFD700" />
+
+            </LinearLayout>
+
+            <!-- Zikir Listesi -->
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rv_zikirler"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:clipToPadding="false"
+                android:paddingBottom="100dp" />
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+    <!-- FAB -->
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/fab_add_zikir"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
-        android:layout_margin="20dp"
+        android:layout_margin="24dp"
         android:src="@drawable/ic_add"
         app:backgroundTint="#FFD700"
         app:tint="#1A2E22"
-        android:contentDescription="Zikir ekle"
-        android:elevation="8dp" />
+        app:elevation="8dp"
+        app:maxImageSize="28dp"
+        android:contentDescription="Zikir ekle" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
