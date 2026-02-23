@@ -93,13 +93,13 @@ class ZikirListFragment : Fragment() {
             .setView(dialogView)
             .setNegativeButton("İptal", null)
             .setPositiveButton("Ekle") { _, _ ->
-                val arabicText = dialogView.findViewById<TextInputEditText>(R.id.etArabicText)
+                val arabicText = dialogView.findViewById<TextInputEditText>(R.id.et_arabic_text)
                     ?.text?.toString()?.trim() ?: ""
-                val turkishText = dialogView.findViewById<TextInputEditText>(R.id.etTurkishText)
+                val turkishText = dialogView.findViewById<TextInputEditText>(R.id.et_turkish_text)
                     ?.text?.toString()?.trim() ?: ""
-                val transliteration = dialogView.findViewById<TextInputEditText>(R.id.etTransliteration)
+                val transliteration = dialogView.findViewById<TextInputEditText>(R.id.et_transliteration)
                     ?.text?.toString()?.trim() ?: ""
-                val targetCount = dialogView.findViewById<TextInputEditText>(R.id.etTargetCount)
+                val targetCount = dialogView.findViewById<TextInputEditText>(R.id.et_target_count)
                     ?.text?.toString()?.toIntOrNull() ?: 33
 
                 if (transliteration.isNotEmpty()) {

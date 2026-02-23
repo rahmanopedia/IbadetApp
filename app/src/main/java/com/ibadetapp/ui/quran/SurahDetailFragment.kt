@@ -53,7 +53,6 @@ class SurahDetailFragment : Fragment() {
             onCopyClick = { ayah ->
                 requireContext().let { ctx ->
                     val text = "${ayah.arabicText}\n\n${ayah.turkishText}"
-                    com.ibadetapp.util.Extensions
                     android.widget.Toast.makeText(ctx, "Kopyalandı", android.widget.Toast.LENGTH_SHORT).show()
                     val clipboard = ctx.getSystemService(android.content.Context.CLIPBOARD_SERVICE) as android.content.ClipboardManager
                     val clip = android.content.ClipData.newPlainText("Ayet", text)
