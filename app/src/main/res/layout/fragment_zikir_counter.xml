@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/bg_tesbih_gradient">
 
-    <!-- ─── ZİKİR BİLGİ KARTI (glassmorphism) ─── -->
+    <!-- ─── ZİKİR BİLGİ KARTI ─── -->
     <com.google.android.material.card.MaterialCardView
         android:id="@+id/card_zikir_info"
         android:layout_width="0dp"
@@ -29,9 +29,8 @@
             android:gravity="center_vertical"
             android:paddingStart="16dp"
             android:paddingEnd="14dp"
-            android:paddingVertical="14dp">
+            android:paddingVertical="12dp">
 
-            <!-- Sol: Transliteration + Türkçe anlam -->
             <LinearLayout
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
@@ -43,17 +42,16 @@
                     android:layout_height="wrap_content"
                     android:orientation="horizontal"
                     android:gravity="center_vertical"
-                    android:layout_marginBottom="5dp">
+                    android:layout_marginBottom="4dp">
 
                     <TextView
                         android:id="@+id/tv_zikir_translit"
                         android:layout_width="0dp"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:textSize="17sp"
+                        android:textSize="16sp"
                         android:textStyle="bold"
                         android:textColor="#F5F5F5"
-                        android:letterSpacing="0.01"
                         android:layout_marginEnd="8dp" />
 
                     <TextView
@@ -64,7 +62,7 @@
                         android:textColor="#FFD700"
                         android:background="@drawable/bg_category_badge"
                         android:paddingHorizontal="10dp"
-                        android:paddingVertical="4dp" />
+                        android:paddingVertical="3dp" />
 
                 </LinearLayout>
 
@@ -79,71 +77,65 @@
 
             </LinearLayout>
 
-            <!-- Dikey ayraç -->
             <View
                 android:layout_width="1dp"
-                android:layout_height="38dp"
+                android:layout_height="34dp"
                 android:layout_marginHorizontal="14dp"
                 android:background="#20FFD700" />
 
-            <!-- Sağ: Arapça metin -->
             <TextView
                 android:id="@+id/tv_zikir_arabic"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="24sp"
+                android:textSize="22sp"
                 android:textColor="#FFD700"
                 android:gravity="center"
                 android:textDirection="rtl"
                 android:fontFamily="@font/arabic_font"
-                android:lineSpacingMultiplier="1.5"
+                android:lineSpacingMultiplier="1.4"
                 android:shadowColor="#90FFD700"
                 android:shadowDx="0"
                 android:shadowDy="0"
-                android:shadowRadius="10" />
+                android:shadowRadius="8" />
 
         </LinearLayout>
 
     </com.google.android.material.card.MaterialCardView>
 
-    <!-- ─── SAYAÇ HALKA ALANI (260dp) ─── -->
+    <!-- ─── SAYAÇ HALKA (220dp) ─── -->
     <FrameLayout
         android:id="@+id/fl_counter"
-        android:layout_width="260dp"
-        android:layout_height="260dp"
+        android:layout_width="220dp"
+        android:layout_height="220dp"
         app:layout_constraintTop_toBottomOf="@id/card_zikir_info"
         app:layout_constraintBottom_toTopOf="@id/fl_button"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintVertical_chainStyle="packed"
-        app:layout_constraintVertical_bias="0.45">
+        app:layout_constraintVertical_bias="0.42">
 
-        <!-- En dış ince dekoratif halka -->
         <View
-            android:layout_width="260dp"
-            android:layout_height="260dp"
+            android:layout_width="220dp"
+            android:layout_height="220dp"
             android:layout_gravity="center"
             android:background="@drawable/bg_ring_outer" />
 
-        <!-- İlerleme göstergesi -->
         <com.google.android.material.progressindicator.CircularProgressIndicator
             android:id="@+id/progress_bar"
-            android:layout_width="238dp"
-            android:layout_height="238dp"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
             android:layout_gravity="center"
-            app:trackThickness="12dp"
+            app:trackThickness="11dp"
             app:indicatorColor="#FFD700"
-            app:trackColor="#0FFFFFFF"
+            app:trackColor="#18FFFFFF"
             app:trackCornerRadius="6dp" />
 
-        <!-- İç koyu cam dairesi (derinlik) -->
         <View
-            android:layout_width="196dp"
-            android:layout_height="196dp"
+            android:layout_width="162dp"
+            android:layout_height="162dp"
             android:layout_gravity="center"
             android:background="@drawable/bg_counter_circle" />
 
-        <!-- Sayı + bilgi -->
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -155,7 +147,7 @@
                 android:id="@+id/tv_current_count"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="78sp"
+                android:textSize="68sp"
                 android:textStyle="bold"
                 android:textColor="#FFFFFF"
                 android:fontFamily="sans-serif-thin"
@@ -163,9 +155,9 @@
                 android:includeFontPadding="false" />
 
             <View
-                android:layout_width="40dp"
+                android:layout_width="36dp"
                 android:layout_height="1dp"
-                android:layout_marginBottom="4dp"
+                android:layout_marginBottom="3dp"
                 android:background="#22FFD700" />
 
             <TextView
@@ -174,18 +166,17 @@
                 android:layout_height="wrap_content"
                 android:textSize="11sp"
                 android:textColor="#50FFFFFF"
-                android:gravity="center"
-                android:letterSpacing="0.05" />
+                android:gravity="center" />
 
             <TextView
                 android:id="@+id/tv_progress"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="12sp"
+                android:textSize="11sp"
                 android:textStyle="bold"
                 android:textColor="#B8920A"
                 android:text="%0"
-                android:layout_marginTop="4dp" />
+                android:layout_marginTop="3dp" />
 
         </LinearLayout>
 
@@ -196,51 +187,51 @@
         android:id="@+id/fl_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="10dp"
         app:layout_constraintTop_toBottomOf="@id/fl_counter"
         app:layout_constraintBottom_toTopOf="@id/ll_controls"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent">
 
-        <!-- Geniş dış parlama -->
+        <!-- Dış parlama -->
         <View
-            android:layout_width="196dp"
-            android:layout_height="196dp"
+            android:layout_width="166dp"
+            android:layout_height="166dp"
             android:layout_gravity="center"
             android:background="@drawable/bg_button_glow"
-            android:alpha="0.08" />
+            android:alpha="0.09" />
 
         <!-- Orta parlama -->
         <View
-            android:layout_width="176dp"
-            android:layout_height="176dp"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
             android:layout_gravity="center"
             android:background="@drawable/bg_button_glow"
-            android:alpha="0.11" />
+            android:alpha="0.12" />
 
-        <!-- İnce dış altın çember -->
+        <!-- İnce altın çember -->
         <View
-            android:layout_width="164dp"
-            android:layout_height="164dp"
+            android:layout_width="140dp"
+            android:layout_height="140dp"
             android:layout_gravity="center"
             android:background="@drawable/bg_ring_outer" />
 
         <!-- Ana buton -->
         <com.google.android.material.button.MaterialButton
             android:id="@+id/btn_count"
-            android:layout_width="152dp"
-            android:layout_height="152dp"
+            android:layout_width="128dp"
+            android:layout_height="128dp"
             android:layout_gravity="center"
             android:text="+"
-            android:textSize="60sp"
+            android:textSize="54sp"
             android:textColor="#0A1A0E"
             android:textStyle="bold"
             app:backgroundTint="#FFD700"
-            app:cornerRadius="76dp"
-            android:elevation="18dp"
+            app:cornerRadius="64dp"
+            android:elevation="16dp"
             android:stateListAnimator="@null"
             android:includeFontPadding="false"
-            android:paddingBottom="8dp" />
+            android:paddingBottom="6dp" />
 
     </FrameLayout>
 
@@ -252,8 +243,8 @@
         android:orientation="horizontal"
         android:gravity="center"
         android:paddingHorizontal="32dp"
-        android:paddingBottom="28dp"
-        android:paddingTop="12dp"
+        android:paddingBottom="20dp"
+        android:paddingTop="8dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent">
@@ -272,8 +263,8 @@
             app:strokeWidth="1.5dp"
             app:backgroundTint="@android:color/transparent"
             app:cornerRadius="24dp"
-            android:paddingHorizontal="22dp"
-            android:paddingVertical="12dp" />
+            android:paddingHorizontal="20dp"
+            android:paddingVertical="10dp" />
 
         <com.google.android.material.switchmaterial.SwitchMaterial
             android:id="@+id/btn_vibration"
