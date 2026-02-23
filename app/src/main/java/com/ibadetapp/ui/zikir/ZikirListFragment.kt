@@ -5,7 +5,7 @@ import android.view.*
 import androidx.core.view.MenuHost
 import androidx.core.view.MenuProvider
 import androidx.fragment.app.Fragment
-import androidx.fragment.app.viewModels
+import androidx.fragment.app.activityViewModels
 import androidx.lifecycle.Lifecycle
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
@@ -21,7 +21,7 @@ class ZikirListFragment : Fragment() {
     private var _binding: FragmentZikirListBinding? = null
     private val binding get() = _binding!!
 
-    private val viewModel: ZikirViewModel by viewModels()
+    private val viewModel: ZikirViewModel by activityViewModels()
     private lateinit var adapter: ZikirAdapter
 
     override fun onCreateView(

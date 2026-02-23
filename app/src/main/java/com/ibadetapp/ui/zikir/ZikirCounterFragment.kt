@@ -6,7 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.view.animation.AnimationUtils
 import androidx.fragment.app.Fragment
-import androidx.fragment.app.viewModels
+import androidx.fragment.app.activityViewModels
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import com.ibadetapp.R
 import com.ibadetapp.databinding.FragmentZikirCounterBinding
@@ -16,7 +16,7 @@ class ZikirCounterFragment : Fragment() {
     private var _binding: FragmentZikirCounterBinding? = null
     private val binding get() = _binding!!
 
-    private val viewModel: ZikirViewModel by viewModels()
+    private val viewModel: ZikirViewModel by activityViewModels()
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -63,6 +63,7 @@ class ZikirCounterFragment : Fragment() {
             binding.tvZikirArabic.text = zikir.arabicText
             binding.tvZikirTranslit.text = zikir.transliteration
             binding.tvZikirTurkish.text = zikir.turkishText
+            binding.tvZikirCategory.text = zikir.category
             binding.tvTargetCount.text = "Hedef: ${zikir.targetCount}"
             updateProgressBar(0, zikir.targetCount)
         }
