@@ -1,0 +1,124 @@
+{
+  "number": 87,
+  "name": "الأعلى",
+  "englishName": "Al-Ala",
+  "turkishName": "Ala",
+  "numberOfAyahs": 19,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "numberInSurah": 1,
+      "text": "سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
+      "turkishText": "Yüce Rabbinin adını tesbih et!"
+    },
+    {
+      "number": 2,
+      "numberInSurah": 2,
+      "text": "الَّذِي خَلَقَ فَسَوَّىٰ",
+      "turkishText": "O, yaratan ve düzenleyendir."
+    },
+    {
+      "number": 3,
+      "numberInSurah": 3,
+      "text": "وَالَّذِي قَدَّرَ فَهَدَىٰ",
+      "turkishText": "Takdir eden ve yol gösterendir."
+    },
+    {
+      "number": 4,
+      "numberInSurah": 4,
+      "text": "وَالَّذِي أَخْرَجَ الْمَرْعَىٰ",
+      "turkishText": "Otlağı çıkarandır."
+    },
+    {
+      "number": 5,
+      "numberInSurah": 5,
+      "text": "فَجَعَلَهُ غُثَاءً أَحْوَىٰ",
+      "turkishText": "Sonra onu simsiyah bir çerçöpe çevirendir."
+    },
+    {
+      "number": 6,
+      "numberInSurah": 6,
+      "text": "سَنُقْرِئُكَ فَلَا تَنسَىٰ",
+      "turkishText": "Sana okutacağız, unutmayacaksın."
+    },
+    {
+      "number": 7,
+      "numberInSurah": 7,
+      "text": "إِلَّا مَا شَاءَ اللَّهُ ۚ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَىٰ",
+      "turkishText": "Allah'ın dilediği hariç. Şüphesiz O, aşikâr olanı da gizli olanı da bilir."
+    },
+    {
+      "number": 8,
+      "numberInSurah": 8,
+      "text": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
+      "turkishText": "Sana kolay olanı kolaylaştıracağız."
+    },
+    {
+      "number": 9,
+      "numberInSurah": 9,
+      "text": "فَذَكِّرْ إِن نَّفَعَتِ الذِّكْرَىٰ",
+      "turkishText": "Eğer öğüt fayda verirse öğüt ver."
+    },
+    {
+      "number": 10,
+      "numberInSurah": 10,
+      "text": "سَيَذَّكَّرُ مَن يَخْشَىٰ",
+      "turkishText": "Allah'tan korkan öğüt alacaktır."
+    },
+    {
+      "number": 11,
+      "numberInSurah": 11,
+      "text": "وَيَتَجَنَّبُهَا الْأَشْقَى",
+      "turkishText": "En bedbaht olan ise ondan uzak duracaktır."
+    },
+    {
+      "number": 12,
+      "numberInSurah": 12,
+      "text": "الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ",
+      "turkishText": "O büyük ateşe girecek olan."
+    },
+    {
+      "number": 13,
+      "numberInSurah": 13,
+      "text": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+      "turkishText": "Sonra orada ne ölür ne de yaşar."
+    },
+    {
+      "number": 14,
+      "numberInSurah": 14,
+      "text": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ",
+      "turkishText": "Arınan kişi mutlaka kurtuluşa erer."
+    },
+    {
+      "number": 15,
+      "numberInSurah": 15,
+      "text": "وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّىٰ",
+      "turkishText": "Rabbinin adını zikredip namaz kılan."
+    },
+    {
+      "number": 16,
+      "numberInSurah": 16,
+      "text": "بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا",
+      "turkishText": "Fakat siz dünya hayatını tercih ediyorsunuz."
+    },
+    {
+      "number": 17,
+      "numberInSurah": 17,
+      "text": "وَالْآخِرَةُ خَيْرٌ وَأَبْقَىٰ",
+      "turkishText": "Oysa ahiret daha hayırlı ve kalıcıdır."
+    },
+    {
+      "number": 18,
+      "numberInSurah": 18,
+      "text": "إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ",
+      "turkishText": "Şüphesiz bunlar ilk sayfalarda da vardır."
+    },
+    {
+      "number": 19,
+      "numberInSurah": 19,
+      "text": "صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ",
+      "turkishText": "İbrahim'in ve Musa'nın sayfalarında."
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "number": 85,
+  "name": "البروج",
+  "englishName": "Al-Buruj",
+  "turkishName": "Buruc",
+  "numberOfAyahs": 22,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "numberInSurah": 1,
+      "text": "وَالسَّمَاءِ ذَاتِ الْبُرُوجِ",
+      "turkishText": "Burçlara sahip göğe andolsun,"
+    },
+    {
+      "number": 2,
+      "numberInSurah": 2,
+      "text": "وَالْيَوْمِ الْمَوْعُودِ",
+      "turkishText": "Vaat edilen güne andolsun,"
+    },
+    {
+      "number": 3,
+      "numberInSurah": 3,
+      "text": "وَشَاهِدٍ وَمَشْهُودٍ",
+      "turkishText": "Tanığa ve tanıklık edilene andolsun ki,"
+    },
+    {
+      "number": 4,
+      "numberInSurah": 4,
+      "text": "قُتِلَ أَصْحَابُ الْأُخْدُودِ",
+      "turkishText": "Hendek sahipleri lanet üzerine olsun!"
+    },
+    {
+      "number": 5,
+      "numberInSurah": 5,
+      "text": "النَّارِ ذَاتِ الْوَقُودِ",
+      "turkishText": "Tutuşturulmuş ateşin sahipleri."
+    },
+    {
+      "number": 6,
+      "numberInSurah": 6,
+      "text": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
+      "turkishText": "Hani onlar, ateşin başında oturmuşlar,"
+    },
+    {
+      "number": 7,
+      "numberInSurah": 7,
+      "text": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِالْمُؤْمِنِينَ شُهُودٌ",
+      "turkishText": "Mü'minlere yaptıklarını seyrediyorlardı."
+    },
+    {
+      "number": 8,
+      "numberInSurah": 8,
+      "text": "وَمَا نَقَمُوا مِنْهُمْ إِلَّا أَن يُؤْمِنُوا بِاللَّهِ الْعَزِيزِ الْحَمِيدِ",
+      "turkishText": "Onlara kızmaları sadece güçlü ve övgüye layık Allah'a inanmalarından dolayıydı."
+    },
+    {
+      "number": 9,
+      "numberInSurah": 9,
+      "text": "الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ",
+      "turkishText": "Göklerin ve yerin mülkü O'nundur. Allah her şeye şahittir."
+    },
+    {
+      "number": 10,
+      "numberInSurah": 10,
+      "text": "إِنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرِيقِ",
+      "turkishText": "Mü'min erkek ve kadınlara işkence edip sonra tövbe etmeyenlere cehennem azabı ve yakıcı ateş azabı vardır."
+    },
+    {
+      "number": 11,
+      "numberInSurah": 11,
+      "text": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ ۚ ذَٰلِكَ الْفَوْزُ الْكَبِيرُ",
+      "turkishText": "İman edip salih amel işleyenler için ise içinden ırmaklar akan cennetler vardır. İşte bu büyük kurtuluştur."
+    },
+    {
+      "number": 12,
+      "numberInSurah": 12,
+      "text": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ",
+      "turkishText": "Şüphesiz Rabbinin yakalayışı çok şiddetlidir."
+    },
+    {
+      "number": 13,
+      "numberInSurah": 13,
+      "text": "إِنَّهُ هُوَ يُبْدِئُ وَيُعِيدُ",
+      "turkishText": "Şüphesiz O, (yaratan) başlatan ve (yeniden) iade edendir."
+    },
+    {
+      "number": 14,
+      "numberInSurah": 14,
+      "text": "وَهُوَ الْغَفُورُ الْوَدُودُ",
+      "turkishText": "O, bağışlayandır, sevendir."
+    },
+    {
+      "number": 15,
+      "numberInSurah": 15,
+      "text": "ذُو الْعَرْشِ الْمَجِيدُ",
+      "turkishText": "Arşın sahibi, yücedir."
+    },
+    {
+      "number": 16,
+      "numberInSurah": 16,
+      "text": "فَعَّالٌ لِّمَا يُرِيدُ",
+      "turkishText": "Dilediğini yapandır."
+    },
+    {
+      "number": 17,
+      "numberInSurah": 17,
+      "text": "هَلْ أَتَاكَ حَدِيثُ الْجُنُودِ",
+      "turkishText": "Ordular haberi sana geldi mi?"
+    },
+    {
+      "number": 18,
+      "numberInSurah": 18,
+      "text": "فِرْعَوْنَ وَثَمُودَ",
+      "turkishText": "Firavun ve Semud'un."
+    },
+    {
+      "number": 19,
+      "numberInSurah": 19,
+      "text": "بَلِ الَّذِينَ كَفَرُوا فِي تَكْذِيبٍ",
+      "turkishText": "Hayır! İnkârcılar yalanlamadadır."
+    },
+    {
+      "number": 20,
+      "numberInSurah": 20,
+      "text": "وَاللَّهُ مِن وَرَائِهِم مُّحِيطٌ",
+      "turkishText": "Oysa Allah onları çevresinden kuşatmıştır."
+    },
+    {
+      "number": 21,
+      "numberInSurah": 21,
+      "text": "بَلْ هُوَ قُرْآنٌ مَّجِيدٌ",
+      "turkishText": "Hayır! Bu, şanlı bir Kur'an'dır."
+    },
+    {
+      "number": 22,
+      "numberInSurah": 22,
+      "text": "فِي لَوْحٍ مَّحْفُوظٍ",
+      "turkishText": "Korunmuş bir levhada."
+    }
+  ]
+}

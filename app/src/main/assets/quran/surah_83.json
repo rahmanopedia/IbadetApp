@@ -1,0 +1,226 @@
+{
+  "number": 83,
+  "name": "المطففين",
+  "englishName": "Al-Mutaffifin",
+  "turkishName": "Mutaffifin",
+  "numberOfAyahs": 36,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "numberInSurah": 1,
+      "text": "وَيْلٌ لِّلْمُطَفِّفِينَ",
+      "turkishText": "Ölçüde ve tartıda hile yapanların vay haline!"
+    },
+    {
+      "number": 2,
+      "numberInSurah": 2,
+      "text": "الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونَ",
+      "turkishText": "Onlar, insanlardan ölçerek aldıklarında tam alırlar."
+    },
+    {
+      "number": 3,
+      "numberInSurah": 3,
+      "text": "وَإِذَا كَالُوهُمْ أَو وَّزَنُوهُمْ يُخْسِرُونَ",
+      "turkishText": "Ama onlara ölçtüklerinde ya da tarttıklarında eksik verirler."
+    },
+    {
+      "number": 4,
+      "numberInSurah": 4,
+      "text": "أَلَا يَظُنُّ أُولَٰئِكَ أَنَّهُم مَّبْعُوثُونَ",
+      "turkishText": "Onlar, diriltileceklerini düşünmüyorlar mı?"
+    },
+    {
+      "number": 5,
+      "numberInSurah": 5,
+      "text": "لِيَوْمٍ عَظِيمٍ",
+      "turkishText": "Büyük bir gün için."
+    },
+    {
+      "number": 6,
+      "numberInSurah": 6,
+      "text": "يَوْمَ يَقُومُ النَّاسُ لِرَبِّ الْعَالَمِينَ",
+      "turkishText": "İnsanların âlemlerin Rabbi için ayağa kalkacağı gün."
+    },
+    {
+      "number": 7,
+      "numberInSurah": 7,
+      "text": "كَلَّا إِنَّ كِتَابَ الْفُجَّارِ لَفِي سِجِّينٍ",
+      "turkishText": "Hayır! Doğrusu günahkârların kitabı Siccîn'dedir."
+    },
+    {
+      "number": 8,
+      "numberInSurah": 8,
+      "text": "وَمَا أَدْرَاكَ مَا سِجِّينٌ",
+      "turkishText": "Siccîn'in ne olduğunu sen ne bileceksin!"
+    },
+    {
+      "number": 9,
+      "numberInSurah": 9,
+      "text": "كِتَابٌ مَّرْقُومٌ",
+      "turkishText": "Rakamlanmış (yazılmış) bir kitaptır."
+    },
+    {
+      "number": 10,
+      "numberInSurah": 10,
+      "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "turkishText": "O gün yalanlayanların vay haline!"
+    },
+    {
+      "number": 11,
+      "numberInSurah": 11,
+      "text": "الَّذِينَ يُكَذِّبُونَ بِيَوْمِ الدِّينِ",
+      "turkishText": "Onlar ceza gününü yalanlayanlardır."
+    },
+    {
+      "number": 12,
+      "numberInSurah": 12,
+      "text": "وَمَا يُكَذِّبُ بِهِ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ",
+      "turkishText": "Haddini aşan, günahkâr kişilerden başkası onu yalanlamaz."
+    },
+    {
+      "number": 13,
+      "numberInSurah": 13,
+      "text": "إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ",
+      "turkishText": "Ona ayetlerimiz okunduğunda, 'Öncekilerin masalları!' der."
+    },
+    {
+      "number": 14,
+      "numberInSurah": 14,
+      "text": "كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا يَكْسِبُونَ",
+      "turkishText": "Hayır! Bilakis kazandıkları şeyler kalplerini paslandırmıştır."
+    },
+    {
+      "number": 15,
+      "numberInSurah": 15,
+      "text": "كَلَّا إِنَّهُمْ عَن رَّبِّهِمْ يَوْمَئِذٍ لَّمَحْجُوبُونَ",
+      "turkishText": "Hayır! Şüphesiz onlar, o gün Rablerinden perdeleneceklerdir."
+    },
+    {
+      "number": 16,
+      "numberInSurah": 16,
+      "text": "ثُمَّ إِنَّهُمْ لَصَالُو الْجَحِيمِ",
+      "turkishText": "Sonra onlar muhakkak cehenneme gireceklerdir."
+    },
+    {
+      "number": 17,
+      "numberInSurah": 17,
+      "text": "ثُمَّ يُقَالُ هَٰذَا الَّذِي كُنتُم بِهِ تُكَذِّبُونَ",
+      "turkishText": "Sonra onlara, 'İşte yalanladığınız budur!' denilecektir."
+    },
+    {
+      "number": 18,
+      "numberInSurah": 18,
+      "text": "كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ",
+      "turkishText": "Hayır! İyilerin kitabı illiyyûndadır."
+    },
+    {
+      "number": 19,
+      "numberInSurah": 19,
+      "text": "وَمَا أَدْرَاكَ مَا عِلِّيُّونَ",
+      "turkishText": "İlliyyûn'un ne olduğunu sen ne bileceksin!"
+    },
+    {
+      "number": 20,
+      "numberInSurah": 20,
+      "text": "كِتَابٌ مَّرْقُومٌ",
+      "turkishText": "Rakamlanmış (yazılmış) bir kitaptır."
+    },
+    {
+      "number": 21,
+      "numberInSurah": 21,
+      "text": "يَشْهَدُهُ الْمُقَرَّبُونَ",
+      "turkishText": "Allah'a yakın olanlar ona tanıklık ederler."
+    },
+    {
+      "number": 22,
+      "numberInSurah": 22,
+      "text": "إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ",
+      "turkishText": "Şüphesiz iyiler, nimet içindedirler."
+    },
+    {
+      "number": 23,
+      "numberInSurah": 23,
+      "text": "عَلَى الْأَرَائِكِ يَنظُرُونَ",
+      "turkishText": "Tahtlar üzerinde bakıp dururlar."
+    },
+    {
+      "number": 24,
+      "numberInSurah": 24,
+      "text": "تَعْرِفُ فِي وُجُوهِهِمْ نَضْرَةَ النَّعِيمِ",
+      "turkishText": "Yüzlerinde nimetin aydınlığını görürsün."
+    },
+    {
+      "number": 25,
+      "numberInSurah": 25,
+      "text": "يُسْقَوْنَ مِن رَّحِيقٍ مَّخْتُومٍ",
+      "turkishText": "Mühürlü saf şaraptan içirilirler."
+    },
+    {
+      "number": 26,
+      "numberInSurah": 26,
+      "text": "خِتَامُهُ مِسْكٌ ۚ وَفِي ذَٰلِكَ فَلْيَتَنَافَسِ الْمُتَنَافِسُونَ",
+      "turkishText": "Mührü misk kokar. İşte yarışanlar bunun için yarışsın!"
+    },
+    {
+      "number": 27,
+      "numberInSurah": 27,
+      "text": "وَمِزَاجُهُ مِن تَسْنِيمٍ",
+      "turkishText": "Onun katıştırılması Tesnîm'den."
+    },
+    {
+      "number": 28,
+      "numberInSurah": 28,
+      "text": "عَيْنًا يَشْرَبُ بِهَا الْمُقَرَّبُونَ",
+      "turkishText": "Allah'a yakın olanların içeceği bir pınardan."
+    },
+    {
+      "number": 29,
+      "numberInSurah": 29,
+      "text": "إِنَّ الَّذِينَ أَجْرَمُوا كَانُوا مِنَ الَّذِينَ آمَنُوا يَضْحَكُونَ",
+      "turkishText": "Suçlular, mü'minlere gülerlerdi."
+    },
+    {
+      "number": 30,
+      "numberInSurah": 30,
+      "text": "وَإِذَا مَرُّوا بِهِمْ يَتَغَامَزُونَ",
+      "turkishText": "Onların yanından geçerken birbirlerine göz kırparlardı."
+    },
+    {
+      "number": 31,
+      "numberInSurah": 31,
+      "text": "وَإِذَا انقَلَبُوا إِلَىٰ أَهْلِهِمُ انقَلَبُوا فَكِهِينَ",
+      "turkishText": "Aileleri yanına döndüklerinde sevinçle dönerlerdi."
+    },
+    {
+      "number": 32,
+      "numberInSurah": 32,
+      "text": "وَإِذَا رَأَوْهُمْ قَالُوا إِنَّ هَٰؤُلَاءِ لَضَالُّونَ",
+      "turkishText": "Onları gördüklerinde ise, 'Bunlar gerçekten sapkındır!' derlerdi."
+    },
+    {
+      "number": 33,
+      "numberInSurah": 33,
+      "text": "وَمَا أُرْسِلُوا عَلَيْهِمْ حَافِظِينَ",
+      "turkishText": "Oysa onlar, onların bekçisi olarak gönderilmemişlerdi."
+    },
+    {
+      "number": 34,
+      "numberInSurah": 34,
+      "text": "فَالْيَوْمَ الَّذِينَ آمَنُوا مِنَ الْكُفَّارِ يَضْحَكُونَ",
+      "turkishText": "Bugün ise iman edenler kâfirlere gülerler."
+    },
+    {
+      "number": 35,
+      "numberInSurah": 35,
+      "text": "عَلَى الْأَرَائِكِ يَنظُرُونَ",
+      "turkishText": "Tahtlar üzerinde bakarlar."
+    },
+    {
+      "number": 36,
+      "numberInSurah": 36,
+      "text": "هَلْ ثُوِّبَ الْكُفَّارُ مَا كَانُوا يَفْعَلُونَ",
+      "turkishText": "Kâfirler, yaptıklarının karşılığını gördüler mi?"
+    }
+  ]
+}

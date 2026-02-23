@@ -1,0 +1,124 @@
+{
+  "number": 82,
+  "name": "الانفطار",
+  "englishName": "Al-Infitar",
+  "turkishName": "İnfitar",
+  "numberOfAyahs": 19,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "numberInSurah": 1,
+      "text": "إِذَا السَّمَاءُ انفَطَرَتْ",
+      "turkishText": "Gök yarıldığında."
+    },
+    {
+      "number": 2,
+      "numberInSurah": 2,
+      "text": "وَإِذَا الْكَوَاكِبُ انتَثَرَتْ",
+      "turkishText": "Yıldızlar döküldüğünde."
+    },
+    {
+      "number": 3,
+      "numberInSurah": 3,
+      "text": "وَإِذَا الْبِحَارُ فُجِّرَتْ",
+      "turkishText": "Denizler birbirine katıldığında."
+    },
+    {
+      "number": 4,
+      "numberInSurah": 4,
+      "text": "وَإِذَا الْقُبُورُ بُعْثِرَتْ",
+      "turkishText": "Kabirler alt üst edildiğinde."
+    },
+    {
+      "number": 5,
+      "numberInSurah": 5,
+      "text": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ",
+      "turkishText": "Her kişi önceden ne yaptığını ve ne bıraktığını bilir."
+    },
+    {
+      "number": 6,
+      "numberInSurah": 6,
+      "text": "يَا أَيُّهَا الْإِنسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ",
+      "turkishText": "Ey insan! Seni o cömert Rabbine karşı aldatan nedir?"
+    },
+    {
+      "number": 7,
+      "numberInSurah": 7,
+      "text": "الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ",
+      "turkishText": "O seni yarattı, şekillendirdi, düzgün bir biçime koydu."
+    },
+    {
+      "number": 8,
+      "numberInSurah": 8,
+      "text": "فِي أَيِّ صُورَةٍ مَّا شَاءَ رَكَّبَكَ",
+      "turkishText": "Dilediği biçimde seni oluşturdu."
+    },
+    {
+      "number": 9,
+      "numberInSurah": 9,
+      "text": "كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ",
+      "turkishText": "Hayır! Siz ceza gününü yalanlıyorsunuz."
+    },
+    {
+      "number": 10,
+      "numberInSurah": 10,
+      "text": "وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ",
+      "turkishText": "Oysa üzerinizde gözetleyiciler vardır."
+    },
+    {
+      "number": 11,
+      "numberInSurah": 11,
+      "text": "كِرَامًا كَاتِبِينَ",
+      "turkishText": "Değerli, yazan melekler."
+    },
+    {
+      "number": 12,
+      "numberInSurah": 12,
+      "text": "يَعْلَمُونَ مَا تَفْعَلُونَ",
+      "turkishText": "Yaptıklarınızı bilirler."
+    },
+    {
+      "number": 13,
+      "numberInSurah": 13,
+      "text": "إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ",
+      "turkishText": "Şüphesiz iyiler nimettedir."
+    },
+    {
+      "number": 14,
+      "numberInSurah": 14,
+      "text": "وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ",
+      "turkishText": "Şüphesiz günahkârlar cehennemdedir."
+    },
+    {
+      "number": 15,
+      "numberInSurah": 15,
+      "text": "يَصْلَوْنَهَا يَوْمَ الدِّينِ",
+      "turkishText": "Ceza günü oraya girecekler."
+    },
+    {
+      "number": 16,
+      "numberInSurah": 16,
+      "text": "وَمَا هُمْ عَنْهَا بِغَائِبِينَ",
+      "turkishText": "Onlar oradan ayrılamazlar."
+    },
+    {
+      "number": 17,
+      "numberInSurah": 17,
+      "text": "وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ",
+      "turkishText": "Ceza gününün ne olduğunu sana ne bildirdi?"
+    },
+    {
+      "number": 18,
+      "numberInSurah": 18,
+      "text": "ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ",
+      "turkishText": "Yine, ceza gününün ne olduğunu sana ne bildirdi?"
+    },
+    {
+      "number": 19,
+      "numberInSurah": 19,
+      "text": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْئًا ۖ وَالْأَمْرُ يَوْمَئِذٍ لِّلَّهِ",
+      "turkishText": "O gün kimse kimseye hiçbir şey yapamaz. O gün emir, Allah'ındır."
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "number": 84,
+  "name": "الانشقاق",
+  "englishName": "Al-Inshiqaq",
+  "turkishName": "İnşikak",
+  "numberOfAyahs": 25,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "numberInSurah": 1,
+      "text": "إِذَا السَّمَاءُ انشَقَّتْ",
+      "turkishText": "Gök yarıldığında,"
+    },
+    {
+      "number": 2,
+      "numberInSurah": 2,
+      "text": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+      "turkishText": "Rabbini dinleyip boyun eğdiğinde (ki bunu yapmak ona düşer),"
+    },
+    {
+      "number": 3,
+      "numberInSurah": 3,
+      "text": "وَإِذَا الْأَرْضُ مُدَّتْ",
+      "turkishText": "Yer uzatılıp düzlendiğinde,"
+    },
+    {
+      "number": 4,
+      "numberInSurah": 4,
+      "text": "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ",
+      "turkishText": "İçindekileri fırlatıp boşaldığında,"
+    },
+    {
+      "number": 5,
+      "numberInSurah": 5,
+      "text": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+      "turkishText": "Rabbini dinleyip boyun eğdiğinde (ki bunu yapmak ona düşer),"
+    },
+    {
+      "number": 6,
+      "numberInSurah": 6,
+      "text": "يَا أَيُّهَا الْإِنسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَاقِيهِ",
+      "turkishText": "Ey insan! Sen Rabbine ulaşana kadar çok çalışacaksın, sonunda O'na kavuşacaksın."
+    },
+    {
+      "number": 7,
+      "numberInSurah": 7,
+      "text": "فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ",
+      "turkishText": "Kimin kitabı sağından verilirse,"
+    },
+    {
+      "number": 8,
+      "numberInSurah": 8,
+      "text": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا",
+      "turkishText": "Kolay bir hesaba çekilecek,"
+    },
+    {
+      "number": 9,
+      "numberInSurah": 9,
+      "text": "وَيَنقَلِبُ إِلَىٰ أَهْلِهِ مَسْرُورًا",
+      "turkishText": "Ve sevinerek ailesine dönecektir."
+    },
+    {
+      "number": 10,
+      "numberInSurah": 10,
+      "text": "وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ وَرَاءَ ظَهْرِهِ",
+      "turkishText": "Ama kimin kitabı arkasından verilirse,"
+    },
+    {
+      "number": 11,
+      "numberInSurah": 11,
+      "text": "فَسَوْفَ يَدْعُو ثُبُورًا",
+      "turkishText": "Helâkını isteyecek,"
+    },
+    {
+      "number": 12,
+      "numberInSurah": 12,
+      "text": "وَيَصْلَىٰ سَعِيرًا",
+      "turkishText": "Alevli ateşe girecektir."
+    },
+    {
+      "number": 13,
+      "numberInSurah": 13,
+      "text": "إِنَّهُ كَانَ فِي أَهْلِهِ مَسْرُورًا",
+      "turkishText": "O, ailesi arasında sevinçliydi."
+    },
+    {
+      "number": 14,
+      "numberInSurah": 14,
+      "text": "إِنَّهُ ظَنَّ أَن لَّن يَحُورَ",
+      "turkishText": "Sanmıştı ki geri dönmeyecek."
+    },
+    {
+      "number": 15,
+      "numberInSurah": 15,
+      "text": "بَلَىٰ إِنَّ رَبَّهُ كَانَ بِهِ بَصِيرًا",
+      "turkishText": "Hayır! Şüphesiz Rabbi onu görmekteydi."
+    },
+    {
+      "number": 16,
+      "numberInSurah": 16,
+      "text": "فَلَا أُقْسِمُ بِالشَّفَقِ",
+      "turkishText": "Hayır! Şafağa andolsun,"
+    },
+    {
+      "number": 17,
+      "numberInSurah": 17,
+      "text": "وَاللَّيْلِ وَمَا وَسَقَ",
+      "turkishText": "Geceye ve topladıklarına andolsun,"
+    },
+    {
+      "number": 18,
+      "numberInSurah": 18,
+      "text": "وَالْقَمَرِ إِذَا اتَّسَقَ",
+      "turkishText": "Dolunay olan aya andolsun ki,"
+    },
+    {
+      "number": 19,
+      "numberInSurah": 19,
+      "text": "لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ",
+      "turkishText": "Siz mutlaka halden hale binip geçeceksiniz."
+    },
+    {
+      "number": 20,
+      "numberInSurah": 20,
+      "text": "فَمَا لَهُمْ لَا يُؤْمِنُونَ",
+      "turkishText": "Onlara ne oluyor da inanmıyorlar?"
+    },
+    {
+      "number": 21,
+      "numberInSurah": 21,
+      "text": "وَإِذَا قُرِئَ عَلَيْهِمُ الْقُرْآنُ لَا يَسْجُدُونَ ۩",
+      "turkishText": "Kur'an onlara okunduğunda secde etmiyorlar."
+    },
+    {
+      "number": 22,
+      "numberInSurah": 22,
+      "text": "بَلِ الَّذِينَ كَفَرُوا يُكَذِّبُونَ",
+      "turkishText": "Bilakis, inkârcılar yalanlamaktadır."
+    },
+    {
+      "number": 23,
+      "numberInSurah": 23,
+      "text": "وَاللَّهُ أَعْلَمُ بِمَا يُوعُونَ",
+      "turkishText": "Allah, sakladıklarını çok iyi bilmektedir."
+    },
+    {
+      "number": 24,
+      "numberInSurah": 24,
+      "text": "فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ",
+      "turkishText": "Onları acı bir azapla müjdele."
+    },
+    {
+      "number": 25,
+      "numberInSurah": 25,
+      "text": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+      "turkishText": "Ancak inanıp iyi işler yapanlar için eksilmeyen bir mükâfat vardır."
+    }
+  ]
+}

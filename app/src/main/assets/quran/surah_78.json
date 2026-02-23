@@ -1,0 +1,250 @@
+{
+  "number": 78,
+  "name": "النبأ",
+  "englishName": "An-Naba",
+  "turkishName": "Nebe",
+  "numberOfAyahs": 40,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "numberInSurah": 1,
+      "text": "عَمَّ يَتَسَاءَلُونَ",
+      "turkishText": "Birbirlerine neyi soruyorlar?"
+    },
+    {
+      "number": 2,
+      "numberInSurah": 2,
+      "text": "عَنِ النَّبَإِ الْعَظِيمِ",
+      "turkishText": "O büyük haberi mi?"
+    },
+    {
+      "number": 3,
+      "numberInSurah": 3,
+      "text": "الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ",
+      "turkishText": "Ki onlar, bu hususta ayrılık içindedirler."
+    },
+    {
+      "number": 4,
+      "numberInSurah": 4,
+      "text": "كَلَّا سَيَعْلَمُونَ",
+      "turkishText": "Hayır, yakında bilecekler."
+    },
+    {
+      "number": 5,
+      "numberInSurah": 5,
+      "text": "ثُمَّ كَلَّا سَيَعْلَمُونَ",
+      "turkishText": "Yine hayır, yakında bilecekler."
+    },
+    {
+      "number": 6,
+      "numberInSurah": 6,
+      "text": "أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا",
+      "turkishText": "Biz yeri bir döşek yapmadık mı?"
+    },
+    {
+      "number": 7,
+      "numberInSurah": 7,
+      "text": "وَالْجِبَالَ أَوْتَادًا",
+      "turkishText": "Dağları da birer kazık?"
+    },
+    {
+      "number": 8,
+      "numberInSurah": 8,
+      "text": "وَخَلَقْنَاكُمْ أَزْوَاجًا",
+      "turkishText": "Sizi çift çift yarattık."
+    },
+    {
+      "number": 9,
+      "numberInSurah": 9,
+      "text": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا",
+      "turkishText": "Uykunuzu bir dinlenme yaptık."
+    },
+    {
+      "number": 10,
+      "numberInSurah": 10,
+      "text": "وَجَعَلْنَا اللَّيْلَ لِبَاسًا",
+      "turkishText": "Geceyi bir örtü yaptık."
+    },
+    {
+      "number": 11,
+      "numberInSurah": 11,
+      "text": "وَجَعَلْنَا النَّهَارَ مَعَاشًا",
+      "turkishText": "Gündüzü de geçim vakti yaptık."
+    },
+    {
+      "number": 12,
+      "numberInSurah": 12,
+      "text": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
+      "turkishText": "Üstünüzde yedi sağlam (gök) bina ettik."
+    },
+    {
+      "number": 13,
+      "numberInSurah": 13,
+      "text": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا",
+      "turkishText": "Işık saçan bir kandil yarattık."
+    },
+    {
+      "number": 14,
+      "numberInSurah": 14,
+      "text": "وَأَنزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا",
+      "turkishText": "Sıkışık bulutlardan şarıl şarıl akan su indirdik."
+    },
+    {
+      "number": 15,
+      "numberInSurah": 15,
+      "text": "لِّنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا",
+      "turkishText": "Bununla tahıl ve bitkiler çıkaralım."
+    },
+    {
+      "number": 16,
+      "numberInSurah": 16,
+      "text": "وَجَنَّاتٍ أَلْفَافًا",
+      "turkishText": "Ve bir-birine sarmaş dolaş bahçeler."
+    },
+    {
+      "number": 17,
+      "numberInSurah": 17,
+      "text": "إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا",
+      "turkishText": "Şüphesiz, hüküm günü belirlenmiş bir vakittir."
+    },
+    {
+      "number": 18,
+      "numberInSurah": 18,
+      "text": "يَوْمَ يُنفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا",
+      "turkishText": "O gün Sûr'a üfürülür de siz bölük bölük gelirsiniz."
+    },
+    {
+      "number": 19,
+      "numberInSurah": 19,
+      "text": "وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا",
+      "turkishText": "Gök açılır da kapı kapı olur."
+    },
+    {
+      "number": 20,
+      "numberInSurah": 20,
+      "text": "وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا",
+      "turkishText": "Dağlar yürütülür de serap haline gelir."
+    },
+    {
+      "number": 21,
+      "numberInSurah": 21,
+      "text": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا",
+      "turkishText": "Şüphesiz cehennem bir pusu yeridir."
+    },
+    {
+      "number": 22,
+      "numberInSurah": 22,
+      "text": "لِّلطَّاغِينَ مَآبًا",
+      "turkishText": "Azgınlar için bir varış yeridir."
+    },
+    {
+      "number": 23,
+      "numberInSurah": 23,
+      "text": "لَّابِثِينَ فِيهَا أَحْقَابًا",
+      "turkishText": "Orada çağlar boyu kalacaklardır."
+    },
+    {
+      "number": 24,
+      "numberInSurah": 24,
+      "text": "لَّا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا",
+      "turkishText": "Orada ne bir serinlik ne de içecek tadarlar."
+    },
+    {
+      "number": 25,
+      "numberInSurah": 25,
+      "text": "إِلَّا حَمِيمًا وَغَسَّاقًا",
+      "turkishText": "Ancak kaynar su ve irinli sıvı içerler."
+    },
+    {
+      "number": 26,
+      "numberInSurah": 26,
+      "text": "جَزَاءً وِفَاقًا",
+      "turkishText": "Bu, yaptıklarına uygun bir karşılıktır."
+    },
+    {
+      "number": 27,
+      "numberInSurah": 27,
+      "text": "إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا",
+      "turkishText": "Çünkü onlar hesaba çekilmeyi beklemiyorlardı."
+    },
+    {
+      "number": 28,
+      "numberInSurah": 28,
+      "text": "وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا",
+      "turkishText": "Ayetlerimizi de kesinlikle yalanladılar."
+    },
+    {
+      "number": 29,
+      "numberInSurah": 29,
+      "text": "وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ كِتَابًا",
+      "turkishText": "Her şeyi bir kitapta sayıp tespit etmişizdir."
+    },
+    {
+      "number": 30,
+      "numberInSurah": 30,
+      "text": "فَذُوقُوا فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا",
+      "turkishText": "O hâlde tadın! Azabınızdan başka bir şey artırmayacağız."
+    },
+    {
+      "number": 31,
+      "numberInSurah": 31,
+      "text": "إِنَّ لِلْمُتَّقِينَ مَفَازًا",
+      "turkishText": "Şüphesiz Allah'a karşı gelmekten sakınanlar için bir kurtuluş vardır."
+    },
+    {
+      "number": 32,
+      "numberInSurah": 32,
+      "text": "حَدَائِقَ وَأَعْنَابًا",
+      "turkishText": "Bahçeler ve üzümler."
+    },
+    {
+      "number": 33,
+      "numberInSurah": 33,
+      "text": "وَكَوَاعِبَ أَتْرَابًا",
+      "turkishText": "Göğüsleri tomurcuklanmış, yaşıt eşler."
+    },
+    {
+      "number": 34,
+      "numberInSurah": 34,
+      "text": "وَكَأْسًا دِهَاقًا",
+      "turkishText": "Ve dolu kadehler."
+    },
+    {
+      "number": 35,
+      "numberInSurah": 35,
+      "text": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا",
+      "turkishText": "Orada boş söz ve yalan işitmezler."
+    },
+    {
+      "number": 36,
+      "numberInSurah": 36,
+      "text": "جَزَاءً مِّن رَّبِّكَ عَطَاءً حِسَابًا",
+      "turkishText": "Rabbinden bir ödül, yeterli bir bağış olarak."
+    },
+    {
+      "number": 37,
+      "numberInSurah": 37,
+      "text": "رَّبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرَّحْمَٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
+      "turkishText": "Göklerin, yerin ve ikisi arasındakilerin Rabbi, Rahman'dır. Ondan hiçbiri söz alamaz."
+    },
+    {
+      "number": 38,
+      "numberInSurah": 38,
+      "text": "يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَائِكَةُ صَفًّا ۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَقَالَ صَوَابًا",
+      "turkishText": "Ruh ve melekler sıra sıra dikildiği gün, Rahman'ın izin verdikleri dışında kimse konuşamaz. Konuşan da doğruyu söyler."
+    },
+    {
+      "number": 39,
+      "numberInSurah": 39,
+      "text": "ذَٰلِكَ الْيَوْمُ الْحَقُّ ۖ فَمَن شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ مَآبًا",
+      "turkishText": "İşte bu, gerçek gündür. Dileyen, Rabbine giden yolu tutsun."
+    },
+    {
+      "number": 40,
+      "numberInSurah": 40,
+      "text": "إِنَّا أَنذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنتُ تُرَابًا",
+      "turkishText": "Şüphesiz biz sizi yakın bir azap ile uyardık. O gün kişi ellerinin önceden yaptıklarına bakar ve kâfir, 'Keşke toprak olsaydım!' der."
+    }
+  ]
+}

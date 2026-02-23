@@ -1,0 +1,40 @@
+{
+  "number": 111,
+  "name": "المسد",
+  "englishName": "Al-Masad",
+  "turkishName": "Tebbet",
+  "numberOfAyahs": 5,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "numberInSurah": 1,
+      "text": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
+      "turkishText": "Ebu Leheb'in iki eli kurusun! Kurudu da."
+    },
+    {
+      "number": 2,
+      "numberInSurah": 2,
+      "text": "مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ",
+      "turkishText": "Malı ve kazandıkları ona fayda vermedi."
+    },
+    {
+      "number": 3,
+      "numberInSurah": 3,
+      "text": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+      "turkishText": "O, alevli bir ateşe girecektir."
+    },
+    {
+      "number": 4,
+      "numberInSurah": 4,
+      "text": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
+      "turkishText": "Karısı da odun taşıyıcı olarak."
+    },
+    {
+      "number": 5,
+      "numberInSurah": 5,
+      "text": "فِي جِيدِهَا حَبْلٌ مِّن مَّسَدٍ",
+      "turkishText": "Boynunda bükülmüş bir ip olduğu hâlde."
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "number": 88,
+  "name": "الغاشية",
+  "englishName": "Al-Ghashiyah",
+  "turkishName": "Gaşiye",
+  "numberOfAyahs": 26,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "numberInSurah": 1,
+      "text": "هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ",
+      "turkishText": "Her şeyi kaplayan (kıyamet) haberi sana geldi mi?"
+    },
+    {
+      "number": 2,
+      "numberInSurah": 2,
+      "text": "وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ",
+      "turkishText": "O gün birtakım yüzler zelil ve hakir olacak,"
+    },
+    {
+      "number": 3,
+      "numberInSurah": 3,
+      "text": "عَامِلَةٌ نَّاصِبَةٌ",
+      "turkishText": "Çok çalışmış, yorulmuş olmalarına karşın,"
+    },
+    {
+      "number": 4,
+      "numberInSurah": 4,
+      "text": "تَصْلَىٰ نَارًا حَامِيَةً",
+      "turkishText": "Kızgın bir ateşe girecekler."
+    },
+    {
+      "number": 5,
+      "numberInSurah": 5,
+      "text": "تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ",
+      "turkishText": "Kaynar bir kaynaktan içirilecekler."
+    },
+    {
+      "number": 6,
+      "numberInSurah": 6,
+      "text": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ",
+      "turkishText": "Onların zakkumdan başka yiyecekleri yoktur."
+    },
+    {
+      "number": 7,
+      "numberInSurah": 7,
+      "text": "لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ",
+      "turkishText": "Ne besler ne de açlığı giderir."
+    },
+    {
+      "number": 8,
+      "numberInSurah": 8,
+      "text": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ",
+      "turkishText": "O gün birtakım yüzler de sevinçli olacak,"
+    },
+    {
+      "number": 9,
+      "numberInSurah": 9,
+      "text": "لِّسَعْيِهَا رَاضِيَةٌ",
+      "turkishText": "Çalışmalarından memnun olarak,"
+    },
+    {
+      "number": 10,
+      "numberInSurah": 10,
+      "text": "فِي جَنَّةٍ عَالِيَةٍ",
+      "turkishText": "Yüce bir cennette bulunacaklar."
+    },
+    {
+      "number": 11,
+      "numberInSurah": 11,
+      "text": "لَّا تَسْمَعُ فِيهَا لَاغِيَةً",
+      "turkishText": "Orada boş bir söz işitmezler."
+    },
+    {
+      "number": 12,
+      "numberInSurah": 12,
+      "text": "فِيهَا عَيْنٌ جَارِيَةٌ",
+      "turkishText": "Orada akan bir kaynak vardır."
+    },
+    {
+      "number": 13,
+      "numberInSurah": 13,
+      "text": "فِيهَا سُرُرٌ مَّرْفُوعَةٌ",
+      "turkishText": "Orada yüksek tahtlar,"
+    },
+    {
+      "number": 14,
+      "numberInSurah": 14,
+      "text": "وَأَكْوَابٌ مَّوْضُوعَةٌ",
+      "turkishText": "Konulmuş kadehler,"
+    },
+    {
+      "number": 15,
+      "numberInSurah": 15,
+      "text": "وَنَمَارِقُ مَصْفُوفَةٌ",
+      "turkishText": "Dizilmiş yastıklar,"
+    },
+    {
+      "number": 16,
+      "numberInSurah": 16,
+      "text": "وَزَرَابِيُّ مَبْثُوثَةٌ",
+      "turkishText": "Ve serilmiş güzel halılar vardır."
+    },
+    {
+      "number": 17,
+      "numberInSurah": 17,
+      "text": "أَفَلَا يَنظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ",
+      "turkishText": "Onlar develere bakmazlar mı, nasıl yaratılmış?"
+    },
+    {
+      "number": 18,
+      "numberInSurah": 18,
+      "text": "وَإِلَى السَّمَاءِ كَيْفَ رُفِعَتْ",
+      "turkishText": "Göğe bakmazlar mı, nasıl yükseltilmiş?"
+    },
+    {
+      "number": 19,
+      "numberInSurah": 19,
+      "text": "وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ",
+      "turkishText": "Dağlara bakmazlar mı, nasıl dikilmiş?"
+    },
+    {
+      "number": 20,
+      "numberInSurah": 20,
+      "text": "وَإِلَى الْأَرْضِ كَيْفَ سُطِحَتْ",
+      "turkishText": "Yere bakmazlar mı, nasıl döşenmiş?"
+    },
+    {
+      "number": 21,
+      "numberInSurah": 21,
+      "text": "فَذَكِّرْ إِنَّمَا أَنتَ مُذَكِّرٌ",
+      "turkishText": "Öğüt ver! Çünkü sen sadece bir öğüt vericisin."
+    },
+    {
+      "number": 22,
+      "numberInSurah": 22,
+      "text": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
+      "turkishText": "Onları zorla idare eden değilsin."
+    },
+    {
+      "number": 23,
+      "numberInSurah": 23,
+      "text": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+      "turkishText": "Ancak yüz çevirip inkâr eden kimse var ya,"
+    },
+    {
+      "number": 24,
+      "numberInSurah": 24,
+      "text": "فَيُعَذِّبُهُ اللَّهُ الْعَذَابَ الْأَكْبَرَ",
+      "turkishText": "Allah onu en büyük azap ile azaplandıracaktır."
+    },
+    {
+      "number": 25,
+      "numberInSurah": 25,
+      "text": "إِنَّ إِلَيْنَا إِيَابَهُمْ",
+      "turkishText": "Şüphesiz onların dönüşü bizedir."
+    },
+    {
+      "number": 26,
+      "numberInSurah": 26,
+      "text": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُمْ",
+      "turkishText": "Sonra hesaplarını görmek de bize aittir."
+    }
+  ]
+}

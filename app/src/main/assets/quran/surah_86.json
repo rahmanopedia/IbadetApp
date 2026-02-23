@@ -1,0 +1,112 @@
+{
+  "number": 86,
+  "name": "الطارق",
+  "englishName": "At-Tariq",
+  "turkishName": "Tarık",
+  "numberOfAyahs": 17,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "numberInSurah": 1,
+      "text": "وَالسَّمَاءِ وَالطَّارِقِ",
+      "turkishText": "Göğe ve Tarık'a andolsun."
+    },
+    {
+      "number": 2,
+      "numberInSurah": 2,
+      "text": "وَمَا أَدْرَاكَ مَا الطَّارِقُ",
+      "turkishText": "Tarık'ın ne olduğunu ne bileceksin?"
+    },
+    {
+      "number": 3,
+      "numberInSurah": 3,
+      "text": "النَّجْمُ الثَّاقِبُ",
+      "turkishText": "Delip geçen yıldız!"
+    },
+    {
+      "number": 4,
+      "numberInSurah": 4,
+      "text": "إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ",
+      "turkishText": "Her nefsin üzerinde mutlaka bir gözetleyici vardır."
+    },
+    {
+      "number": 5,
+      "numberInSurah": 5,
+      "text": "فَلْيَنظُرِ الْإِنسَانُ مِمَّ خُلِقَ",
+      "turkishText": "İnsan neden yaratıldığına bir baksın."
+    },
+    {
+      "number": 6,
+      "numberInSurah": 6,
+      "text": "خُلِقَ مِن مَّاءٍ دَافِقٍ",
+      "turkishText": "Fışkıran bir sudan yaratıldı."
+    },
+    {
+      "number": 7,
+      "numberInSurah": 7,
+      "text": "يَخْرُجُ مِن بَيْنِ الصُّلْبِ وَالتَّرَائِبِ",
+      "turkishText": "Bel kemiği ile kaburgalar arasından çıkar."
+    },
+    {
+      "number": 8,
+      "numberInSurah": 8,
+      "text": "إِنَّهُ عَلَىٰ رَجْعِهِ لَقَادِرٌ",
+      "turkishText": "Şüphesiz Allah onu geri döndürmeye kadirdir."
+    },
+    {
+      "number": 9,
+      "numberInSurah": 9,
+      "text": "يَوْمَ تُبْلَى السَّرَائِرُ",
+      "turkishText": "Sırların sınanacağı gün,"
+    },
+    {
+      "number": 10,
+      "numberInSurah": 10,
+      "text": "فَمَا لَهُ مِن قُوَّةٍ وَلَا نَاصِرٍ",
+      "turkishText": "O'nun ne gücü ne de yardımcısı olacaktır."
+    },
+    {
+      "number": 11,
+      "numberInSurah": 11,
+      "text": "وَالسَّمَاءِ ذَاتِ الرَّجْعِ",
+      "turkishText": "Geri döndüren göğe andolsun,"
+    },
+    {
+      "number": 12,
+      "numberInSurah": 12,
+      "text": "وَالْأَرْضِ ذَاتِ الصَّدْعِ",
+      "turkishText": "Çatlayan yere andolsun ki,"
+    },
+    {
+      "number": 13,
+      "numberInSurah": 13,
+      "text": "إِنَّهُ لَقَوْلٌ فَصْلٌ",
+      "turkishText": "Şüphesiz bu, (hak ile batılı) ayırt edici bir sözdür."
+    },
+    {
+      "number": 14,
+      "numberInSurah": 14,
+      "text": "وَمَا هُوَ بِالْهَزْلِ",
+      "turkishText": "O, bir şaka değildir."
+    },
+    {
+      "number": 15,
+      "numberInSurah": 15,
+      "text": "إِنَّهُمْ يَكِيدُونَ كَيْدًا",
+      "turkishText": "Şüphesiz onlar tuzak kuruyorlar."
+    },
+    {
+      "number": 16,
+      "numberInSurah": 16,
+      "text": "وَأَكِيدُ كَيْدًا",
+      "turkishText": "Ben de bir tuzak kuruyorum."
+    },
+    {
+      "number": 17,
+      "numberInSurah": 17,
+      "text": "فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا",
+      "turkishText": "Artık inkârcılara mühlet ver; onları biraz bırak."
+    }
+  ]
+}

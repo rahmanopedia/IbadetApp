@@ -1,0 +1,184 @@
+{
+  "number": 81,
+  "name": "التكوير",
+  "englishName": "At-Takwir",
+  "turkishName": "Tekvir",
+  "numberOfAyahs": 29,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "numberInSurah": 1,
+      "text": "إِذَا الشَّمْسُ كُوِّرَتْ",
+      "turkishText": "Güneş dürüldüğünde."
+    },
+    {
+      "number": 2,
+      "numberInSurah": 2,
+      "text": "وَإِذَا النُّجُومُ انكَدَرَتْ",
+      "turkishText": "Yıldızlar bulanıp söndüğünde."
+    },
+    {
+      "number": 3,
+      "numberInSurah": 3,
+      "text": "وَإِذَا الْجِبَالُ سُيِّرَتْ",
+      "turkishText": "Dağlar yürütüldüğünde."
+    },
+    {
+      "number": 4,
+      "numberInSurah": 4,
+      "text": "وَإِذَا الْعِشَارُ عُطِّلَتْ",
+      "turkishText": "On aylık gebe develer başıboş bırakıldığında."
+    },
+    {
+      "number": 5,
+      "numberInSurah": 5,
+      "text": "وَإِذَا الْوُحُوشُ حُشِرَتْ",
+      "turkishText": "Vahşi hayvanlar bir araya toplandığında."
+    },
+    {
+      "number": 6,
+      "numberInSurah": 6,
+      "text": "وَإِذَا الْبِحَارُ سُجِّرَتْ",
+      "turkishText": "Denizler tutuşturulduğunda."
+    },
+    {
+      "number": 7,
+      "numberInSurah": 7,
+      "text": "وَإِذَا النُّفُوسُ زُوِّجَتْ",
+      "turkishText": "Ruhlar çiftleştirildiğinde."
+    },
+    {
+      "number": 8,
+      "numberInSurah": 8,
+      "text": "وَإِذَا الْمَوْءُودَةُ سُئِلَتْ",
+      "turkishText": "Diri diri toprağa gömülen kız sorgulandığında."
+    },
+    {
+      "number": 9,
+      "numberInSurah": 9,
+      "text": "بِأَيِّ ذَنبٍ قُتِلَتْ",
+      "turkishText": "'Hangi günahtan dolayı öldürüldü?' diye."
+    },
+    {
+      "number": 10,
+      "numberInSurah": 10,
+      "text": "وَإِذَا الصُّحُفُ نُشِرَتْ",
+      "turkishText": "Amel defterleri açıldığında."
+    },
+    {
+      "number": 11,
+      "numberInSurah": 11,
+      "text": "وَإِذَا السَّمَاءُ كُشِطَتْ",
+      "turkishText": "Gök soyulup alındığında."
+    },
+    {
+      "number": 12,
+      "numberInSurah": 12,
+      "text": "وَإِذَا الْجَحِيمُ سُعِّرَتْ",
+      "turkishText": "Cehennem alevlendirildiğinde."
+    },
+    {
+      "number": 13,
+      "numberInSurah": 13,
+      "text": "وَإِذَا الْجَنَّةُ أُزْلِفَتْ",
+      "turkishText": "Cennet yaklaştırıldığında."
+    },
+    {
+      "number": 14,
+      "numberInSurah": 14,
+      "text": "عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ",
+      "turkishText": "Her kişi ne getirdiğini bilir."
+    },
+    {
+      "number": 15,
+      "numberInSurah": 15,
+      "text": "فَلَا أُقْسِمُ بِالْخُنَّسِ",
+      "turkishText": "Hayır! Döndükçe dönen yıldızlara yemin ederim."
+    },
+    {
+      "number": 16,
+      "numberInSurah": 16,
+      "text": "الْجَوَارِ الْكُنَّسِ",
+      "turkishText": "Akıp giden, battıkça batan."
+    },
+    {
+      "number": 17,
+      "numberInSurah": 17,
+      "text": "وَاللَّيْلِ إِذَا عَسْعَسَ",
+      "turkishText": "Kararıp bastıran geceye."
+    },
+    {
+      "number": 18,
+      "numberInSurah": 18,
+      "text": "وَالصُّبْحِ إِذَا تَنَفَّسَ",
+      "turkishText": "Nefes alıp açılan sabaha."
+    },
+    {
+      "number": 19,
+      "numberInSurah": 19,
+      "text": "إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+      "turkishText": "Şüphesiz bu, değerli bir elçinin sözüdür."
+    },
+    {
+      "number": 20,
+      "numberInSurah": 20,
+      "text": "ذِي قُوَّةٍ عِندَ ذِي الْعَرْشِ مَكِينٍ",
+      "turkishText": "Arş sahibinin katında güçlü ve güvenilir bir konuma sahip."
+    },
+    {
+      "number": 21,
+      "numberInSurah": 21,
+      "text": "مُّطَاعٍ ثَمَّ أَمِينٍ",
+      "turkishText": "Orada itaat edilen ve güvenilir."
+    },
+    {
+      "number": 22,
+      "numberInSurah": 22,
+      "text": "وَمَا صَاحِبُكُم بِمَجْنُونٍ",
+      "turkishText": "Arkadaşınız deli değildir."
+    },
+    {
+      "number": 23,
+      "numberInSurah": 23,
+      "text": "وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ",
+      "turkishText": "Andolsun onu açık ufukta gördü."
+    },
+    {
+      "number": 24,
+      "numberInSurah": 24,
+      "text": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ",
+      "turkishText": "O, gayb konusunda cimri değildir."
+    },
+    {
+      "number": 25,
+      "numberInSurah": 25,
+      "text": "وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَّجِيمٍ",
+      "turkishText": "Bu, kovulmuş şeytanın sözü değildir."
+    },
+    {
+      "number": 26,
+      "numberInSurah": 26,
+      "text": "فَأَيْنَ تَذْهَبُونَ",
+      "turkishText": "O hâlde nereye gidiyorsunuz?"
+    },
+    {
+      "number": 27,
+      "numberInSurah": 27,
+      "text": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ",
+      "turkishText": "Bu, âlemler için bir öğütten başka bir şey değildir."
+    },
+    {
+      "number": 28,
+      "numberInSurah": 28,
+      "text": "لِمَن شَاءَ مِنكُمْ أَن يَسْتَقِيمَ",
+      "turkishText": "İçinizden doğru yolda gitmek isteyenler için."
+    },
+    {
+      "number": 29,
+      "numberInSurah": 29,
+      "text": "وَمَا تَشَاءُونَ إِلَّا أَن يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ",
+      "turkishText": "Âlemlerin Rabbi Allah dilemedikçe siz dileyemezsiniz."
+    }
+  ]
+}
