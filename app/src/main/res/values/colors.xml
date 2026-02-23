@@ -25,6 +25,15 @@
     <!-- Chip -->
     <color name="chip_background">#E8F5E9</color>
 
+    <!-- Altın / Premium -->
+    <color name="gold">#FFD700</color>
+    <color name="gold_dark">#C8960C</color>
+    <color name="gold_light">#FFE066</color>
+
+    <!-- Premium Arkaplan -->
+    <color name="premium_bg_dark">#071410</color>
+    <color name="premium_bg_mid">#112218</color>
+
     <!-- Hata -->
     <color name="error_color">#D32F2F</color>
 
