@@ -56,13 +56,26 @@ class QuranListFragment : Fragment() {
     }
 
     private fun observeViewModel() {
-        viewModel.filteredSurahs.observe(viewLifecycleOwner) { surahs ->
-            adapter.submitList(surahs)
-            binding.tvEmptyState.visibility = if (surahs.isEmpty()) View.VISIBLE else View.GONE
+        viewModel.isLoading.observe(viewLifecycleOwner) { isLoading ->
+            if (isLoading) {
+                binding.shimmerLoading.visibility = View.VISIBLE
+                binding.shimmerLoading.startShimmer()
+                binding.rvSurahs.visibility = View.GONE
+                binding.tvEmptyState.visibility = View.GONE
+            } else {
+                binding.shimmerLoading.visibility = View.GONE
+                binding.shimmerLoading.stopShimmer()
+                binding.rvSurahs.visibility = View.VISIBLE
+            }
         }
 
-        viewModel.isLoading.observe(viewLifecycleOwner) { isLoading ->
-            binding.progressBar.visibility = if (isLoading) View.VISIBLE else View.GONE
+        viewModel.filteredSurahs.observe(viewLifecycleOwner) { surahs ->
+            adapter.submitList(surahs)
+            binding.tvEmptyState.visibility = if (surahs.isEmpty() && !binding.shimmerLoading.isShimmerVisible) {
+                View.VISIBLE
+            } else {
+                View.GONE
+            }
         }
     }
 

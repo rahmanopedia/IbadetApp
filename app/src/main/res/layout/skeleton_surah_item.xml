@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardCornerRadius="16dp"
+    app:cardElevation="2dp"
+    app:cardBackgroundColor="#152A4E">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp">
+
+        <!-- Skeleton Surah Number -->
+        <View
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:background="#1A3E5F"
+            android:layout_marginEnd="16dp" />
+
+        <!-- Skeleton Surah Info -->
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <!-- Skeleton Title -->
+            <View
+                android:layout_width="150dp"
+                android:layout_height="16dp"
+                android:background="#1A3E5F"
+                android:layout_marginBottom="8dp" />
+
+            <!-- Skeleton Subtitle -->
+            <View
+                android:layout_width="200dp"
+                android:layout_height="12dp"
+                android:background="#0D2E4C" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

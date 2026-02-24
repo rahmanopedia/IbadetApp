@@ -80,6 +80,9 @@ dependencies {
     // Splash Screen
     implementation 'androidx.core:core-splashscreen:1.0.1'
 
+    // Shimmer Loading
+    implementation 'com.facebook.shimmer:shimmer:0.5.0'
+
     // Test
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
