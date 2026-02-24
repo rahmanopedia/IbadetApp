@@ -83,6 +83,11 @@ dependencies {
     // Shimmer Loading
     implementation 'com.facebook.shimmer:shimmer:0.5.0'
 
+    // ExoPlayer for audio playback
+    implementation 'androidx.media3:media3-exoplayer:1.2.0'
+    implementation 'androidx.media3:media3-ui:1.2.0'
+    implementation 'androidx.media3:media3-common:1.2.0'
+
     // Test
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
