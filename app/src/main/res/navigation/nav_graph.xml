@@ -72,4 +72,11 @@
         android:label="@string/title_bookmarks"
         tools:layout="@layout/fragment_bookmarks" />
 
+    <!-- Başarılar -->
+    <fragment
+        android:id="@+id/navigation_achievements"
+        android:name="com.ibadetapp.ui.achievements.AchievementsFragment"
+        android:label="@string/title_achievements"
+        tools:layout="@layout/fragment_achievements" />
+
 </navigation>

@@ -9,6 +9,7 @@
         <string name="title_quran">Kuran-ı Kerim</string>
         <string name="title_zikir">Zikir</string>
         <string name="title_bookmarks">Yer İmleri</string>
+        <string name="title_achievements">Başarılar</string>
 
         <!-- Kuran -->
         <string name="search_hint">Sure ara…</string>
