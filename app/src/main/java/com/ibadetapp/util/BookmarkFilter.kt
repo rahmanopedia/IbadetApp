@@ -55,7 +55,7 @@ object BookmarkFilter {
      * @return Sorted list (most recent first)
      */
     fun sortByDateDescending(bookmarks: List<BookmarkedAyah>): List<BookmarkedAyah> {
-        return bookmarks.sortByDescending { it.savedAt }
+        return bookmarks.sortedByDescending { it.savedAt }
     }
 
     /**
@@ -64,7 +64,7 @@ object BookmarkFilter {
      * @return Sorted list by surah number
      */
     fun sortBySurahNumber(bookmarks: List<BookmarkedAyah>): List<BookmarkedAyah> {
-        return bookmarks.sortWith(compareBy({ it.surahNumber }, { it.ayahNumber }))
+        return bookmarks.sortedWith(compareBy({ it.surahNumber }, { it.ayahNumber }))
     }
 
     /**
