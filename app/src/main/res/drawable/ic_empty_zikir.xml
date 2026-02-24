@@ -9,7 +9,6 @@
     <path
         android:strokeColor="#FFD700"
         android:strokeWidth="3"
-        android:fillColor="none"
         android:pathData="M 60 15 C 95 15 105 50 105 60 C 105 95 95 105 60 105 C 25 105 15 95 15 60 C 15 25 25 15 60 15 Z" />
 
     <!-- Beads on circle -->

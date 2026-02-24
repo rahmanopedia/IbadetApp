@@ -83,7 +83,6 @@
                         android:text="@string/audio_play"
                         android:textSize="24sp"
                         app:cornerRadius="28dp"
-                        app:padding="0dp"
                         android:gravity="center"
                         app:backgroundTint="#FFD700" />
 
@@ -103,7 +102,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:orientation="horizontal"
-                    android:gravity="space_between">
+                    android:gravity="center_vertical">
 
                     <TextView
                         android:id="@+id/tv_current_time"
@@ -112,6 +111,11 @@
                         android:text="@string/audio_current_time"
                         android:textSize="12sp"
                         android:textColor="#88FFFFFF" />
+
+                    <Space
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
 
                     <TextView
                         android:id="@+id/tv_duration"
