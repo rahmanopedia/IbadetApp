@@ -75,6 +75,11 @@
         <string name="error_loading">Veriler yüklenirken hata oluştu</string>
         <string name="error_bookmark">Yer imi eklenemedi</string>
         <string name="error_delete">Silinirken hata oluştu</string>
+        <string name="error_network">İnternet bağlantısı hatası. Lütfen tekrar deneyiniz.</string>
+        <string name="error_database">Veritabanı hatası oluştu. Lütfen uygulamayı yeniden başlatınız.</string>
+        <string name="error_file">Dosya hatası. Lütfen depolama izinlerini kontrol ediniz.</string>
+        <string name="error_validation">Geçersiz giriş. Lütfen bilgilerinizi kontrol ediniz.</string>
+        <string name="error_unknown">Bilinmeyen hata oluştu. Lütfen tekrar deneyiniz.</string>
 
         <!-- Açıklamalar -->
         <string name="no_bookmarks">Henüz kaydedilmiş ayet yok</string>

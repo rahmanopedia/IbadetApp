@@ -4,11 +4,14 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.appcompat.app.AppCompatDelegate
 import androidx.fragment.app.Fragment
+import androidx.preference.ListPreference
 import androidx.preference.Preference
 import androidx.preference.PreferenceFragmentCompat
 import androidx.preference.SwitchPreferenceCompat
 import com.ibadetapp.R
+import com.ibadetapp.util.ThemeManager
 
 /**
  * Settings fragment for user preferences
@@ -35,10 +38,20 @@ class SettingsFragment : PreferenceFragmentCompat() {
         }
 
         // Theme preference
-        val themePref: Preference? = findPreference("app_theme")
+        val themePref: ListPreference? = findPreference("app_theme")
         themePref?.apply {
             title = "Uygulama Teması"
             summary = "Açık veya Koyu tema seç"
+            setDefaultValue("dark")
+            setOnPreferenceChangeListener { _, newValue ->
+                val themeValue = newValue.toString()
+                when (themeValue) {
+                    "dark" -> AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES)
+                    "light" -> AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO)
+                    "system" -> AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_FOLLOW_SYSTEM)
+                }
+                true
+            }
         }
 
         // About preference
