@@ -120,4 +120,12 @@ class SurahDetailFragment : Fragment() {
         super.onDestroyView()
         _binding = null
     }
+
+    companion object {
+        fun newInstance(surahNumber: Int) = SurahDetailFragment().apply {
+            arguments = Bundle().apply {
+                putInt("surahNumber", surahNumber)
+            }
+        }
+    }
 }

@@ -87,7 +87,7 @@ object NotificationManager {
         )
 
         val notification = NotificationCompat.Builder(context, CHANNEL_ID_ZIKIR)
-            .setSmallIcon(R.drawable.ic_launcher_foreground)
+            .setSmallIcon(R.drawable.ic_check_circle)
             .setContentTitle("🎉 Zikir Tamamlandı!")
             .setContentText("$zikirName - $count kez")
             .setContentIntent(pendingIntent)
@@ -117,7 +117,7 @@ object NotificationManager {
         )
 
         val notification = NotificationCompat.Builder(context, CHANNEL_ID_PRAYER)
-            .setSmallIcon(R.drawable.ic_launcher_foreground)
+            .setSmallIcon(R.drawable.ic_check_circle)
             .setContentTitle("🕌 $prayerName Zamanı")
             .setContentText("Saat: $time")
             .setContentIntent(pendingIntent)
@@ -144,7 +144,7 @@ object NotificationManager {
         )
 
         val notification = NotificationCompat.Builder(context, CHANNEL_ID_REMINDER)
-            .setSmallIcon(R.drawable.ic_launcher_foreground)
+            .setSmallIcon(R.drawable.ic_check_circle)
             .setContentTitle("📿 Günlük Zikir Zamanı")
             .setContentText("Bugünün zikirlerini tamamlamayı unutmayın")
             .setContentIntent(pendingIntent)

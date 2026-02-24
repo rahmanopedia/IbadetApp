@@ -41,12 +41,6 @@ class StatisticsViewModel(application: Application) : AndroidViewModel(applicati
     private fun loadStatistics() {
         viewModelScope.launch {
             try {
-                // Get all zikirler to calculate total count
-                zikirRepository.allZikirler.observe { zikirler ->
-                    val total = zikirler?.sumOf { it.targetCount } ?: 0
-                    _totalZikirCount.value = total
-                }
-
                 // Update statistics text
                 updateStatisticsText()
             } catch (e: Exception) {
