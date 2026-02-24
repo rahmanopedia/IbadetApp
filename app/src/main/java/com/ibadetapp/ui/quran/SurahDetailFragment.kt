@@ -152,7 +152,7 @@ class SurahDetailFragment : Fragment() {
 
         // Observe audio player state
         audioPlayerViewModel.isPlaying.observe(viewLifecycleOwner) { isPlaying ->
-            btnPlayPause.text = if (isPlaying) "⏸" else "▶"
+            btnPlayPause.text = if (isPlaying) "PAUSE" else "PLAY"
         }
 
         audioPlayerViewModel.currentPosition.observe(viewLifecycleOwner) { position ->
