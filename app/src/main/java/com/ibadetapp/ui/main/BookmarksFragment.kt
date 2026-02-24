@@ -70,7 +70,7 @@ class BookmarksFragment : Fragment() {
                         // Navigate to Quran fragment
                         parentFragmentManager.beginTransaction().apply {
                             replace(
-                                com.google.android.material.R.id.navigation_host_fragment_activity_main,
+                                R.id.nav_host_fragment,
                                 QuranListFragment()
                             )
                             addToBackStack(null)

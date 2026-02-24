@@ -106,7 +106,7 @@ class SurahDetailFragment : Fragment() {
     }
 
     private fun setupAudioPlayer() {
-        val audioPlayerView = binding.audioPlayerView
+        val audioPlayerView = binding.audioPlayerView as android.view.ViewGroup
         val spinnerReciters = audioPlayerView.findViewById<Spinner>(R.id.spinner_reciters)
         val btnPlayPause = audioPlayerView.findViewById<MaterialButton>(R.id.btn_play_pause)
         val seekbarProgress = audioPlayerView.findViewById<android.widget.SeekBar>(R.id.seekbar_progress)
