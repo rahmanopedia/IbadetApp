@@ -1,0 +1,310 @@
+{
+  "number": 77,
+  "name": "المرسلات",
+  "englishName": "Al-Mursalat",
+  "turkishName": "Mürselat",
+  "numberOfAyahs": 50,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 76001,
+      "numberInSurah": 1,
+      "text": "وَٱلۡمُرۡسَلَٰتِ عُرۡفٗا",
+      "turkishText": ""
+    },
+    {
+      "number": 76003,
+      "numberInSurah": 2,
+      "text": "فَٱلۡعَٰصِفَٰتِ عَصۡفٗا",
+      "turkishText": ""
+    },
+    {
+      "number": 76005,
+      "numberInSurah": 3,
+      "text": "وَٱلنَّـٰشِرَٰتِ نَشۡرٗا",
+      "turkishText": ""
+    },
+    {
+      "number": 76007,
+      "numberInSurah": 4,
+      "text": "فَٱلۡفَٰرِقَٰتِ فَرۡقٗا",
+      "turkishText": ""
+    },
+    {
+      "number": 76009,
+      "numberInSurah": 5,
+      "text": "فَٱلۡمُلۡقِيَٰتِ ذِكۡرًا",
+      "turkishText": ""
+    },
+    {
+      "number": 76011,
+      "numberInSurah": 6,
+      "text": "عُذۡرًا أَوۡ نُذۡرًا",
+      "turkishText": ""
+    },
+    {
+      "number": 76013,
+      "numberInSurah": 7,
+      "text": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٞ",
+      "turkishText": ""
+    },
+    {
+      "number": 76015,
+      "numberInSurah": 8,
+      "text": "فَإِذَا ٱلنُّجُومُ طُمِسَتۡ",
+      "turkishText": ""
+    },
+    {
+      "number": 76017,
+      "numberInSurah": 9,
+      "text": "وَإِذَا ٱلسَّمَآءُ فُرِجَتۡ",
+      "turkishText": ""
+    },
+    {
+      "number": 76019,
+      "numberInSurah": 10,
+      "text": "وَإِذَا ٱلۡجِبَالُ نُسِفَتۡ",
+      "turkishText": ""
+    },
+    {
+      "number": 76021,
+      "numberInSurah": 11,
+      "text": "وَإِذَا ٱلرُّسُلُ أُقِّتَتۡ",
+      "turkishText": ""
+    },
+    {
+      "number": 76023,
+      "numberInSurah": 12,
+      "text": "لِأَيِّ يَوۡمٍ أُجِّلَتۡ",
+      "turkishText": ""
+    },
+    {
+      "number": 76025,
+      "numberInSurah": 13,
+      "text": "لِيَوۡمِ ٱلۡفَصۡلِ",
+      "turkishText": ""
+    },
+    {
+      "number": 76027,
+      "numberInSurah": 14,
+      "text": "وَمَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلۡفَصۡلِ",
+      "turkishText": ""
+    },
+    {
+      "number": 76029,
+      "numberInSurah": 15,
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 76031,
+      "numberInSurah": 16,
+      "text": "أَلَمۡ نُهۡلِكِ ٱلۡأَوَّلِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 76033,
+      "numberInSurah": 17,
+      "text": "ثُمَّ نُتۡبِعُهُمُ ٱلۡأٓخِرِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 76035,
+      "numberInSurah": 18,
+      "text": "كَذَٰلِكَ نَفۡعَلُ بِٱلۡمُجۡرِمِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 76037,
+      "numberInSurah": 19,
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 76039,
+      "numberInSurah": 20,
+      "text": "أَلَمۡ نَخۡلُقكُّم مِّن مَّآءٖ مَّهِينٖ",
+      "turkishText": ""
+    },
+    {
+      "number": 76041,
+      "numberInSurah": 21,
+      "text": "فَجَعَلۡنَٰهُ فِي قَرَارٖ مَّكِينٍ",
+      "turkishText": ""
+    },
+    {
+      "number": 76043,
+      "numberInSurah": 22,
+      "text": "إِلَىٰ قَدَرٖ مَّعۡلُومٖ",
+      "turkishText": ""
+    },
+    {
+      "number": 76045,
+      "numberInSurah": 23,
+      "text": "فَقَدَرۡنَا فَنِعۡمَ ٱلۡقَٰدِرُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 76047,
+      "numberInSurah": 24,
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 76049,
+      "numberInSurah": 25,
+      "text": "أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ كِفَاتًا",
+      "turkishText": ""
+    },
+    {
+      "number": 76051,
+      "numberInSurah": 26,
+      "text": "أَحۡيَآءٗ وَأَمۡوَٰتٗا",
+      "turkishText": ""
+    },
+    {
+      "number": 76053,
+      "numberInSurah": 27,
+      "text": "وَجَعَلۡنَا فِيهَا رَوَٰسِيَ شَٰمِخَٰتٖ وَأَسۡقَيۡنَٰكُم مَّآءٗ فُرَاتٗا",
+      "turkishText": ""
+    },
+    {
+      "number": 76055,
+      "numberInSurah": 28,
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 76057,
+      "numberInSurah": 29,
+      "text": "ٱنطَلِقُوٓاْ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 76059,
+      "numberInSurah": 30,
+      "text": "ٱنطَلِقُوٓاْ إِلَىٰ ظِلّٖ ذِي ثَلَٰثِ شُعَبٖ",
+      "turkishText": ""
+    },
+    {
+      "number": 76061,
+      "numberInSurah": 31,
+      "text": "لَّا ظَلِيلٖ وَلَا يُغۡنِي مِنَ ٱللَّهَبِ",
+      "turkishText": ""
+    },
+    {
+      "number": 76063,
+      "numberInSurah": 32,
+      "text": "إِنَّهَا تَرۡمِي بِشَرَرٖ كَٱلۡقَصۡرِ",
+      "turkishText": ""
+    },
+    {
+      "number": 76065,
+      "numberInSurah": 33,
+      "text": "كَأَنَّهُۥ جِمَٰلَتٞ صُفۡرٞ",
+      "turkishText": ""
+    },
+    {
+      "number": 76067,
+      "numberInSurah": 34,
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 76069,
+      "numberInSurah": 35,
+      "text": "هَٰذَا يَوۡمُ لَا يَنطِقُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 76071,
+      "numberInSurah": 36,
+      "text": "وَلَا يُؤۡذَنُ لَهُمۡ فَيَعۡتَذِرُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 76073,
+      "numberInSurah": 37,
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 76075,
+      "numberInSurah": 38,
+      "text": "هَٰذَا يَوۡمُ ٱلۡفَصۡلِۖ جَمَعۡنَٰكُمۡ وَٱلۡأَوَّلِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 76077,
+      "numberInSurah": 39,
+      "text": "فَإِن كَانَ لَكُمۡ كَيۡدٞ فَكِيدُونِ",
+      "turkishText": ""
+    },
+    {
+      "number": 76079,
+      "numberInSurah": 40,
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 76081,
+      "numberInSurah": 41,
+      "text": "إِنَّ ٱلۡمُتَّقِينَ فِي ظِلَٰلٖ وَعُيُونٖ",
+      "turkishText": ""
+    },
+    {
+      "number": 76083,
+      "numberInSurah": 42,
+      "text": "وَفَوَٰكِهَ مِمَّا يَشۡتَهُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 76085,
+      "numberInSurah": 43,
+      "text": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَا كُنتُمۡ تَعۡمَلُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 76087,
+      "numberInSurah": 44,
+      "text": "إِنَّا كَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 76089,
+      "numberInSurah": 45,
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 76091,
+      "numberInSurah": 46,
+      "text": "كُلُواْ وَتَمَتَّعُواْ قَلِيلًا إِنَّكُم مُّجۡرِمُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 76093,
+      "numberInSurah": 47,
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 76095,
+      "numberInSurah": 48,
+      "text": "وَإِذَا قِيلَ لَهُمُ ٱرۡكَعُواْ لَا يَرۡكَعُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 76097,
+      "numberInSurah": 49,
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 76099,
+      "numberInSurah": 50,
+      "text": "فَبِأَيِّ حَدِيثِۭ بَعۡدَهُۥ يُؤۡمِنُونَ",
+      "turkishText": ""
+    }
+  ]
+}
