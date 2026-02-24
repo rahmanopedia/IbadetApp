@@ -7,6 +7,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
 import com.ibadetapp.R
+import com.ibadetapp.data.model.DailyVersesList
 import com.ibadetapp.databinding.FragmentHomeBinding
 import com.ibadetapp.util.PrayerTimeUtil
 import java.text.SimpleDateFormat
@@ -60,10 +61,14 @@ class HomeFragment : Fragment() {
     }
 
     private fun setupDailyVerse() {
-        // Günlük ayet - Ayetel Kürsi
-        binding.tvDailyVerseArabic.text = "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ"
-        binding.tvDailyVerseTurkish.text = "Allah'tan başka ilah yoktur. O, Hayyü'l-Kayyûm'dur (daima diri ve yarattıklarını gözetip durandır)."
-        binding.tvDailyVerseRef.text = "Bakara, 255 (Ayetel Kürsi)"
+        // Get today's verse (rotates daily)
+        val calendar = Calendar.getInstance()
+        val dayOfYear = calendar.get(Calendar.DAY_OF_YEAR)
+        val dailyVerse = DailyVersesList.getVerseForDay(dayOfYear)
+
+        binding.tvDailyVerseArabic.text = dailyVerse.arabicText
+        binding.tvDailyVerseTurkish.text = dailyVerse.turkishText
+        binding.tvDailyVerseRef.text = "${dailyVerse.surahNameTurkish}, ${dailyVerse.ayahNumber}"
     }
 
     override fun onDestroyView() {
