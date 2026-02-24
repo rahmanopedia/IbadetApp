@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
+<FrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
     android:background="#0D1B2A">
-
-    <TextView
-        android:id="@+id/tv_empty_state"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Henüz yer imi eklenmedi.\nKuran okurken ayetleri yer imlerine ekleyebilirsiniz."
-        android:textSize="15sp"
-        android:textColor="#66FFFFFF"
-        android:gravity="center"
-        android:padding="32dp"
-        android:lineSpacingMultiplier="1.5"
-        android:visibility="gone" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_bookmarks"
@@ -25,4 +12,10 @@
         android:clipToPadding="false"
         android:paddingBottom="80dp" />
 
-</LinearLayout>
+    <com.ibadetapp.ui.components.EmptyStateView
+        android:id="@+id/empty_state_bookmarks"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone" />
+
+</FrameLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Bookmark outline -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M 30 15 L 90 15 L 90 95 L 60 75 L 30 95 Z"
+        android:strokeColor="#FFD700"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Corner fold effect -->
+    <path
+        android:strokeColor="#FFD700"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M 90 15 L 85 20" />
+
+</vector>

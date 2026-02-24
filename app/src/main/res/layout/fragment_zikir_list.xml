@@ -6,12 +6,17 @@
     android:layout_height="match_parent"
     android:background="@drawable/bg_tesbih_gradient">
 
-    <androidx.core.widget.NestedScrollView
+    <FrameLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:fillViewport="true">
+        android:layout_height="match_parent">
 
-        <LinearLayout
+        <androidx.core.widget.NestedScrollView
+            android:id="@+id/scroll_view_zikir"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fillViewport="true">
+
+            <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
@@ -189,9 +194,18 @@
                 android:clipToPadding="false"
                 android:paddingBottom="100dp" />
 
-        </LinearLayout>
+            </LinearLayout>
 
-    </androidx.core.widget.NestedScrollView>
+        </androidx.core.widget.NestedScrollView>
+
+        <!-- Empty State -->
+        <com.ibadetapp.ui.components.EmptyStateView
+            android:id="@+id/empty_state_zikir"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone" />
+
+    </FrameLayout>
 
     <!-- FAB -->
     <com.google.android.material.floatingactionbutton.FloatingActionButton

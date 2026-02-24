@@ -76,13 +76,32 @@ class ZikirListFragment : Fragment() {
     private fun observeViewModel() {
         viewModel.allZikirler.observe(viewLifecycleOwner) { zikirler ->
             adapter.submitList(zikirler)
-            
+
             // Zikir sayısını güncelle
             binding.tvZikirCount.text = "${zikirler.size} zikir"
-            
+
             // Toplam hedef hesapla
             val totalTarget = zikirler.sumOf { it.targetCount }
             binding.tvTotalCount.text = totalTarget.toString()
+
+            // Empty state göster/gizle
+            if (zikirler.isEmpty()) {
+                binding.scrollViewZikir.visibility = View.GONE
+                binding.emptyStateZikir.apply {
+                    visibility = View.VISIBLE
+                    setEmptyState(
+                        iconResId = R.drawable.ic_empty_zikir,
+                        title = "Zikirler Boş",
+                        description = "Henüz özel zikir eklenmedi.\n+ butonuna tıklayarak yeni zikir ekleyebilirsiniz.",
+                        actionButtonText = "Zikir Ekle"
+                    ) {
+                        showAddZikirDialog()
+                    }
+                }
+            } else {
+                binding.scrollViewZikir.visibility = View.VISIBLE
+                binding.emptyStateZikir.visibility = View.GONE
+            }
         }
     }
 

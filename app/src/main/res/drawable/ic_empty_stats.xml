@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Bar chart with 3 bars -->
+    <!-- Bar 1 (short) -->
+    <rect
+        android:x="20"
+        android:y="70"
+        android:width="15"
+        android:height="30"
+        android:fillColor="#FFD700" />
+
+    <!-- Bar 2 (medium) -->
+    <rect
+        android:x="50"
+        android:y="50"
+        android:width="15"
+        android:height="50"
+        android:fillColor="#FFD700" />
+
+    <!-- Bar 3 (tall) -->
+    <rect
+        android:x="80"
+        android:y="30"
+        android:width="15"
+        android:height="70"
+        android:fillColor="#FFD700" />
+
+    <!-- Baseline -->
+    <line
+        android:x1="15"
+        android:y1="100"
+        android:x2="100"
+        android:y2="100"
+        android:strokeColor="#FFD700"
+        android:strokeWidth="2" />
+
+</vector>

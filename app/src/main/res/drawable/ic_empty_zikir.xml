@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Circle (tasbih) -->
+    <circle
+        android:cx="60"
+        android:cy="60"
+        android:r="45"
+        android:fillColor="none"
+        android:strokeColor="#FFD700"
+        android:strokeWidth="3" />
+
+    <!-- Beads on circle -->
+    <circle
+        android:cx="60"
+        android:cy="20"
+        android:r="4"
+        android:fillColor="#FFD700" />
+
+    <circle
+        android:cx="90"
+        android:cy="35"
+        android:r="4"
+        android:fillColor="#FFD700" />
+
+    <circle
+        android:cx="100"
+        android:cy="60"
+        android:r="4"
+        android:fillColor="#FFD700" />
+
+    <circle
+        android:cx="90"
+        android:cy="85"
+        android:r="4"
+        android:fillColor="#FFD700" />
+
+    <circle
+        android:cx="60"
+        android:cy="100"
+        android:r="4"
+        android:fillColor="#FFD700" />
+
+    <circle
+        android:cx="30"
+        android:cy="85"
+        android:r="4"
+        android:fillColor="#FFD700" />
+
+    <circle
+        android:cx="20"
+        android:cy="60"
+        android:r="4"
+        android:fillColor="#FFD700" />
+
+    <circle
+        android:cx="30"
+        android:cy="35"
+        android:r="4"
+        android:fillColor="#FFD700" />
+
+</vector>

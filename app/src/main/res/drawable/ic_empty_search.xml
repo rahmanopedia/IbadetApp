@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Search icon with magnifying glass -->
+    <circle
+        android:cx="45"
+        android:cy="45"
+        android:r="25"
+        android:fillColor="none"
+        android:strokeColor="#FFD700"
+        android:strokeWidth="3" />
+
+    <!-- Handle -->
+    <path
+        android:strokeColor="#FFD700"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M 65 65 L 95 95" />
+
+    <!-- Question mark inside -->
+    <text
+        android:text="?"
+        android:textSize="24sp"
+        android:x="40"
+        android:y="52"
+        android:fillColor="#FFD700" />
+
+</vector>
