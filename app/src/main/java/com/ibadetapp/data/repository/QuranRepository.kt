@@ -4,6 +4,7 @@ import android.content.Context
 import android.util.Log
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
+import com.ibadetapp.data.cache.QuranCache
 import com.ibadetapp.data.model.Ayah
 import com.ibadetapp.data.model.BookmarkedAyah
 import com.ibadetapp.data.model.Surah
@@ -29,9 +30,18 @@ class QuranRepository(
     }
 
     suspend fun getSurahDetail(surahNumber: Int): Surah? = withContext(Dispatchers.IO) {
+        // Check cache first
+        QuranCache.getSurah(surahNumber)?.let {
+            Log.d(TAG, "Surah $surahNumber loaded from cache")
+            return@withContext it
+        }
+
         try {
             val json = context.assets.open("quran/surah_$surahNumber.json").bufferedReader().use { it.readText() }
-            gson.fromJson(json, Surah::class.java)
+            val surah = gson.fromJson(json, Surah::class.java)
+            // Cache the result
+            surah?.let { QuranCache.cacheSurah(surahNumber, it) }
+            surah
         } catch (e: Exception) {
             Log.e(TAG, "Error loading surah detail for surah $surahNumber", e)
             null

@@ -90,4 +90,31 @@
         <string name="notification_complete">Zikir tamamlandı!</string>
         <string name="notification_channel_name">İbadet Bildirimleri</string>
         <string name="notification_channel_desc">Zikir tamamlama bildirimleri</string>
+
+        <!-- Arrays -->
+        <string-array name="font_sizes">
+            <item>Küçük (18sp)</item>
+            <item>Orta (24sp)</item>
+            <item>Büyük (28sp)</item>
+            <item>Çok Büyük (34sp)</item>
+        </string-array>
+
+        <string-array name="font_size_values">
+            <item>18</item>
+            <item>24</item>
+            <item>28</item>
+            <item>34</item>
+        </string-array>
+
+        <string-array name="themes">
+            <item>Koyu (Varsayılan)</item>
+            <item>Açık</item>
+            <item>Sistem Teması</item>
+        </string-array>
+
+        <string-array name="theme_values">
+            <item>dark</item>
+            <item>light</item>
+            <item>system</item>
+        </string-array>
     </resources>

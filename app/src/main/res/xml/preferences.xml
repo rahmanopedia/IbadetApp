@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Zikir Settings -->
+    <PreferenceCategory
+        android:title="Zikir Ayarları"
+        android:key="zikir_settings">
+
+        <SwitchPreferenceCompat
+            android:key="vibration_enabled"
+            android:title="Titreşim Aktif"
+            android:summary="Zikir sayacında titreşim geri bildirimini etkinleştir"
+            android:defaultValue="true" />
+
+    </PreferenceCategory>
+
+    <!-- Quran Settings -->
+    <PreferenceCategory
+        android:title="Quran Ayarları"
+        android:key="quran_settings">
+
+        <ListPreference
+            android:key="quran_font_size"
+            android:title="Yazı Boyutu"
+            android:summary="Arapça metinin yazı boyutunu seç"
+            android:entries="@array/font_sizes"
+            android:entryValues="@array/font_size_values"
+            android:defaultValue="24" />
+
+    </PreferenceCategory>
+
+    <!-- Appearance -->
+    <PreferenceCategory
+        android:title="Görünüm"
+        android:key="appearance_settings">
+
+        <ListPreference
+            android:key="app_theme"
+            android:title="Tema"
+            android:summary="Uygulama temasını seç"
+            android:entries="@array/themes"
+            android:entryValues="@array/theme_values"
+            android:defaultValue="dark" />
+
+    </PreferenceCategory>
+
+    <!-- About -->
+    <PreferenceCategory
+        android:title="Bilgi"
+        android:key="about_settings">
+
+        <Preference
+            android:key="about"
+            android:title="Hakkında"
+            android:summary="İbadet Uygulaması v1.0"
+            android:selectable="false" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
