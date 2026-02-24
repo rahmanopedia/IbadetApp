@@ -2,8 +2,16 @@ package com.ibadetapp.util
 
 import java.util.*
 
+/**
+ * Utility for converting Gregorian dates to Hijri (Islamic) calendar
+ * Uses mathematical conversion formulas for accuracy
+ */
 object PrayerTimeUtil {
 
+    /**
+     * Converts the current Gregorian date to Hijri date format
+     * @return Formatted string: "day month_name year H." (e.g., "15 Ramazan 1445 H.")
+     */
     fun getHijriDate(): String {
         val calendar = Calendar.getInstance()
         val year = calendar.get(Calendar.YEAR)

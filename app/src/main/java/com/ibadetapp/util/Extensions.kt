@@ -5,11 +5,17 @@ import android.content.ClipboardManager
 import android.content.Context
 import android.widget.Toast
 
-fun Context.copyToClipboard(text: String, label: String = "Kopyalandı") {
+/**
+ * Copies text to clipboard and shows a toast notification
+ * @param text The text to copy
+ * @param label Optional label for the clipboard entry
+ * @param message Optional custom toast message (defaults to "Panoya kopyalandı")
+ */
+fun Context.copyToClipboard(text: String, label: String = "Kopyalandı", message: String = "Panoya kopyalandı") {
     val clipboard = getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
     val clip = ClipData.newPlainText(label, text)
     clipboard.setPrimaryClip(clip)
-    Toast.makeText(this, "Panoya kopyalandı", Toast.LENGTH_SHORT).show()
+    Toast.makeText(this, message, Toast.LENGTH_SHORT).show()
 }
 
 fun Context.showToast(message: String, duration: Int = Toast.LENGTH_SHORT) {

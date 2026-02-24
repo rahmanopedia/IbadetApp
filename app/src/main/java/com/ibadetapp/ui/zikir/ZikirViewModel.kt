@@ -87,10 +87,35 @@ class ZikirViewModel(application: Application) : AndroidViewModel(application) {
         isVibrationEnabled = enabled
     }
 
-    fun addCustomZikir(zikir: Zikir) {
+    /**
+     * Adds a custom zikir with validation
+     * @param zikir The zikir to add
+     * @return true if valid and added, false if validation failed
+     */
+    fun addCustomZikir(zikir: Zikir): Boolean {
+        // Validate input
+        if (!isValidCustomZikir(zikir)) {
+            return false
+        }
+
         viewModelScope.launch {
             repository.insert(zikir)
         }
+        return true
+    }
+
+    /**
+     * Validates custom zikir input
+     * @param zikir The zikir to validate
+     * @return true if valid, false otherwise
+     */
+    private fun isValidCustomZikir(zikir: Zikir): Boolean {
+        return zikir.arabicText.isNotBlank() &&
+                zikir.turkishText.isNotBlank() &&
+                zikir.transliteration.isNotBlank() &&
+                zikir.targetCount > 0 &&
+                zikir.targetCount <= MAX_ZIKIR_TARGET_COUNT &&
+                zikir.category.isNotBlank()
     }
 
     fun deleteZikir(zikir: Zikir) {
@@ -129,5 +154,9 @@ class ZikirViewModel(application: Application) : AndroidViewModel(application) {
         } catch (e: Exception) {
             // Vibration not available
         }
+    }
+
+    companion object {
+        private const val MAX_ZIKIR_TARGET_COUNT = 10000
     }
 }

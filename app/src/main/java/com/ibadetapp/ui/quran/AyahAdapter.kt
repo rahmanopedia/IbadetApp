@@ -52,10 +52,12 @@ class AyahAdapter(
                 tvAyahArabic.textSize = arabicFontSize
                 tvAyahTurkish.text = ayah.turkishText
 
+                btnBookmark.contentDescription = "$surahName - Ayet ${ayah.numberInSurah} - Işaretleme"
                 btnBookmark.setOnClickListener {
                     onBookmarkClick(ayah, surahName)
                 }
 
+                btnCopy.contentDescription = "$surahName - Ayet ${ayah.numberInSurah} - Kopyala"
                 btnCopy.setOnClickListener {
                     onCopyClick(ayah)
                 }
