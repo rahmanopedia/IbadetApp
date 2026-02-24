@@ -1,0 +1,586 @@
+{
+  "number": 56,
+  "name": "الواقعة",
+  "englishName": "Al-Waqi'ah",
+  "turkishName": "Vakıa",
+  "numberOfAyahs": 96,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 55001,
+      "numberInSurah": 1,
+      "text": "إِذَا وَقَعَتِ ٱلۡوَاقِعَةُ",
+      "turkishText": "Resûl geldikçe, Kıyâmet yaklaştığında; yoktur, yok bu ikisini ne biri tasdik ediyor, ne diğeri."
+    },
+    {
+      "number": 55003,
+      "numberInSurah": 2,
+      "text": "لَيۡسَ لِوَقۡعَتِهَا كَاذِبَةٌ",
+      "turkishText": "O gün, sizin kulunuzun hali ne olur dersiniz?"
+    },
+    {
+      "number": 55005,
+      "numberInSurah": 3,
+      "text": "خَافِضَةٞ رَّافِعَةٌ",
+      "turkishText": ""
+    },
+    {
+      "number": 55007,
+      "numberInSurah": 4,
+      "text": "إِذَا رُجَّتِ ٱلۡأَرۡضُ رَجّٗا",
+      "turkishText": ""
+    },
+    {
+      "number": 55009,
+      "numberInSurah": 5,
+      "text": "وَبُسَّتِ ٱلۡجِبَالُ بَسّٗا",
+      "turkishText": ""
+    },
+    {
+      "number": 55011,
+      "numberInSurah": 6,
+      "text": "فَكَانَتۡ هَبَآءٗ مُّنۢبَثّٗا",
+      "turkishText": ""
+    },
+    {
+      "number": 55013,
+      "numberInSurah": 7,
+      "text": "وَكُنتُمۡ أَزۡوَٰجٗا ثَلَٰثَةٗ",
+      "turkishText": ""
+    },
+    {
+      "number": 55015,
+      "numberInSurah": 8,
+      "text": "فَأَصۡحَٰبُ ٱلۡمَيۡمَنَةِ مَآ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ",
+      "turkishText": ""
+    },
+    {
+      "number": 55017,
+      "numberInSurah": 9,
+      "text": "وَأَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ مَآ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ",
+      "turkishText": ""
+    },
+    {
+      "number": 55019,
+      "numberInSurah": 10,
+      "text": "وَٱلسَّـٰبِقُونَ ٱلسَّـٰبِقُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55021,
+      "numberInSurah": 11,
+      "text": "أُوْلَـٰٓئِكَ ٱلۡمُقَرَّبُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55023,
+      "numberInSurah": 12,
+      "text": "فِي جَنَّـٰتِ ٱلنَّعِيمِ",
+      "turkishText": ""
+    },
+    {
+      "number": 55025,
+      "numberInSurah": 13,
+      "text": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55027,
+      "numberInSurah": 14,
+      "text": "وَقَلِيلٞ مِّنَ ٱلۡأٓخِرِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55029,
+      "numberInSurah": 15,
+      "text": "عَلَىٰ سُرُرٖ مَّوۡضُونَةٖ",
+      "turkishText": ""
+    },
+    {
+      "number": 55031,
+      "numberInSurah": 16,
+      "text": "مُّتَّكِـِٔينَ عَلَيۡهَا مُتَقَٰبِلِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55033,
+      "numberInSurah": 17,
+      "text": "يَطُوفُ عَلَيۡهِمۡ وِلۡدَٰنٞ مُّخَلَّدُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55035,
+      "numberInSurah": 18,
+      "text": "بِأَكۡوَابٖ وَأَبَارِيقَ وَكَأۡسٖ مِّن مَّعِينٖ",
+      "turkishText": ""
+    },
+    {
+      "number": 55037,
+      "numberInSurah": 19,
+      "text": "لَّا يُصَدَّعُونَ عَنۡهَا وَلَا يُنزِفُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55039,
+      "numberInSurah": 20,
+      "text": "وَفَٰكِهَةٖ مِّمَّا يَتَخَيَّرُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55041,
+      "numberInSurah": 21,
+      "text": "وَلَحۡمِ طَيۡرٖ مِّمَّا يَشۡتَهُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55043,
+      "numberInSurah": 22,
+      "text": "وَحُورٌ عِينٞ",
+      "turkishText": ""
+    },
+    {
+      "number": 55045,
+      "numberInSurah": 23,
+      "text": "كَأَمۡثَٰلِ ٱللُّؤۡلُوِٕ ٱلۡمَكۡنُونِ",
+      "turkishText": ""
+    },
+    {
+      "number": 55047,
+      "numberInSurah": 24,
+      "text": "جَزَآءَۢ بِمَا كَانُواْ يَعۡمَلُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55049,
+      "numberInSurah": 25,
+      "text": "لَا يَسۡمَعُونَ فِيهَا لَغۡوٗا وَلَا تَأۡثِيمًا",
+      "turkishText": ""
+    },
+    {
+      "number": 55051,
+      "numberInSurah": 26,
+      "text": "إِلَّا قِيلٗا سَلَٰمٗا سَلَٰمٗا",
+      "turkishText": ""
+    },
+    {
+      "number": 55053,
+      "numberInSurah": 27,
+      "text": "وَأَصۡحَٰبُ ٱلۡيَمِينِ مَآ أَصۡحَٰبُ ٱلۡيَمِينِ",
+      "turkishText": ""
+    },
+    {
+      "number": 55055,
+      "numberInSurah": 28,
+      "text": "فِي سِدۡرٖ مَّخۡضُودٖ",
+      "turkishText": ""
+    },
+    {
+      "number": 55057,
+      "numberInSurah": 29,
+      "text": "وَطَلۡحٖ مَّنضُودٖ",
+      "turkishText": ""
+    },
+    {
+      "number": 55059,
+      "numberInSurah": 30,
+      "text": "وَظِلّٖ مَّمۡدُودٖ",
+      "turkishText": ""
+    },
+    {
+      "number": 55061,
+      "numberInSurah": 31,
+      "text": "وَمَآءٖ مَّسۡكُوبٖ",
+      "turkishText": ""
+    },
+    {
+      "number": 55063,
+      "numberInSurah": 32,
+      "text": "وَفَٰكِهَةٖ كَثِيرَةٖ",
+      "turkishText": ""
+    },
+    {
+      "number": 55065,
+      "numberInSurah": 33,
+      "text": "لَّا مَقۡطُوعَةٖ وَلَا مَمۡنُوعَةٖ",
+      "turkishText": ""
+    },
+    {
+      "number": 55067,
+      "numberInSurah": 34,
+      "text": "وَفُرُشٖ مَّرۡفُوعَةٍ",
+      "turkishText": ""
+    },
+    {
+      "number": 55069,
+      "numberInSurah": 35,
+      "text": "إِنَّآ أَنشَأۡنَٰهُنَّ إِنشَآءٗ",
+      "turkishText": ""
+    },
+    {
+      "number": 55071,
+      "numberInSurah": 36,
+      "text": "فَجَعَلۡنَٰهُنَّ أَبۡكَارًا",
+      "turkishText": ""
+    },
+    {
+      "number": 55073,
+      "numberInSurah": 37,
+      "text": "عُرُبًا أَتۡرَابٗا",
+      "turkishText": ""
+    },
+    {
+      "number": 55075,
+      "numberInSurah": 38,
+      "text": "لِّأَصۡحَٰبِ ٱلۡيَمِينِ",
+      "turkishText": ""
+    },
+    {
+      "number": 55077,
+      "numberInSurah": 39,
+      "text": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55079,
+      "numberInSurah": 40,
+      "text": "وَثُلَّةٞ مِّنَ ٱلۡأٓخِرِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55081,
+      "numberInSurah": 41,
+      "text": "وَأَصۡحَٰبُ ٱلشِّمَالِ مَآ أَصۡحَٰبُ ٱلشِّمَالِ",
+      "turkishText": ""
+    },
+    {
+      "number": 55083,
+      "numberInSurah": 42,
+      "text": "فِي سَمُومٖ وَحَمِيمٖ",
+      "turkishText": ""
+    },
+    {
+      "number": 55085,
+      "numberInSurah": 43,
+      "text": "وَظِلّٖ مِّن يَحۡمُومٖ",
+      "turkishText": ""
+    },
+    {
+      "number": 55087,
+      "numberInSurah": 44,
+      "text": "لَّا بَارِدٖ وَلَا كَرِيمٍ",
+      "turkishText": ""
+    },
+    {
+      "number": 55089,
+      "numberInSurah": 45,
+      "text": "إِنَّهُمۡ كَانُواْ قَبۡلَ ذَٰلِكَ مُتۡرَفِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55091,
+      "numberInSurah": 46,
+      "text": "وَكَانُواْ يُصِرُّونَ عَلَى ٱلۡحِنثِ ٱلۡعَظِيمِ",
+      "turkishText": ""
+    },
+    {
+      "number": 55093,
+      "numberInSurah": 47,
+      "text": "وَكَانُواْ يَقُولُونَ أَئِذَا مِتۡنَا وَكُنَّا تُرَابٗا وَعِظَٰمًا أَءِنَّا لَمَبۡعُوثُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55095,
+      "numberInSurah": 48,
+      "text": "أَوَءَابَآؤُنَا ٱلۡأَوَّلُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55097,
+      "numberInSurah": 49,
+      "text": "قُلۡ إِنَّ ٱلۡأَوَّلِينَ وَٱلۡأٓخِرِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55099,
+      "numberInSurah": 50,
+      "text": "لَمَجۡمُوعُونَ إِلَىٰ مِيقَٰتِ يَوۡمٖ مَّعۡلُومٖ",
+      "turkishText": ""
+    },
+    {
+      "number": 55101,
+      "numberInSurah": 51,
+      "text": "ثُمَّ إِنَّكُمۡ أَيُّهَا ٱلضَّآلُّونَ ٱلۡمُكَذِّبُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55103,
+      "numberInSurah": 52,
+      "text": "لَأٓكِلُونَ مِن شَجَرٖ مِّن زَقُّومٖ",
+      "turkishText": ""
+    },
+    {
+      "number": 55105,
+      "numberInSurah": 53,
+      "text": "فَمَالِـُٔونَ مِنۡهَا ٱلۡبُطُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55107,
+      "numberInSurah": 54,
+      "text": "فَشَٰرِبُونَ عَلَيۡهِ مِنَ ٱلۡحَمِيمِ",
+      "turkishText": ""
+    },
+    {
+      "number": 55109,
+      "numberInSurah": 55,
+      "text": "فَشَٰرِبُونَ شُرۡبَ ٱلۡهِيمِ",
+      "turkishText": ""
+    },
+    {
+      "number": 55111,
+      "numberInSurah": 56,
+      "text": "هَٰذَا نُزُلُهُمۡ يَوۡمَ ٱلدِّينِ",
+      "turkishText": ""
+    },
+    {
+      "number": 55113,
+      "numberInSurah": 57,
+      "text": "نَحۡنُ خَلَقۡنَٰكُمۡ فَلَوۡلَا تُصَدِّقُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55115,
+      "numberInSurah": 58,
+      "text": "أَفَرَءَيۡتُم مَّا تُمۡنُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55117,
+      "numberInSurah": 59,
+      "text": "ءَأَنتُمۡ تَخۡلُقُونَهُۥٓ أَمۡ نَحۡنُ ٱلۡخَٰلِقُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55119,
+      "numberInSurah": 60,
+      "text": "نَحۡنُ قَدَّرۡنَا بَيۡنَكُمُ ٱلۡمَوۡتَ وَمَا نَحۡنُ بِمَسۡبُوقِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55121,
+      "numberInSurah": 61,
+      "text": "عَلَىٰٓ أَن نُّبَدِّلَ أَمۡثَٰلَكُمۡ وَنُنشِئَكُمۡ فِي مَا لَا تَعۡلَمُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55123,
+      "numberInSurah": 62,
+      "text": "وَلَقَدۡ عَلِمۡتُمُ ٱلنَّشۡأَةَ ٱلۡأُولَىٰ فَلَوۡلَا تَذَكَّرُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55125,
+      "numberInSurah": 63,
+      "text": "أَفَرَءَيۡتُم مَّا تَحۡرُثُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55127,
+      "numberInSurah": 64,
+      "text": "ءَأَنتُمۡ تَزۡرَعُونَهُۥٓ أَمۡ نَحۡنُ ٱلزَّـٰرِعُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55129,
+      "numberInSurah": 65,
+      "text": "لَوۡ نَشَآءُ لَجَعَلۡنَٰهُ حُطَٰمٗا فَظَلۡتُمۡ تَفَكَّهُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55131,
+      "numberInSurah": 66,
+      "text": "إِنَّا لَمُغۡرَمُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55133,
+      "numberInSurah": 67,
+      "text": "بَلۡ نَحۡنُ مَحۡرُومُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55135,
+      "numberInSurah": 68,
+      "text": "أَفَرَءَيۡتُمُ ٱلۡمَآءَ ٱلَّذِي تَشۡرَبُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55137,
+      "numberInSurah": 69,
+      "text": "ءَأَنتُمۡ أَنزَلۡتُمُوهُ مِنَ ٱلۡمُزۡنِ أَمۡ نَحۡنُ ٱلۡمُنزِلُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55139,
+      "numberInSurah": 70,
+      "text": "لَوۡ نَشَآءُ جَعَلۡنَٰهُ أُجَاجٗا فَلَوۡلَا تَشۡكُرُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55141,
+      "numberInSurah": 71,
+      "text": "أَفَرَءَيۡتُمُ ٱلنَّارَ ٱلَّتِي تُورُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55143,
+      "numberInSurah": 72,
+      "text": "ءَأَنتُمۡ أَنشَأۡتُمۡ شَجَرَتَهَآ أَمۡ نَحۡنُ ٱلۡمُنشِـُٔونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55145,
+      "numberInSurah": 73,
+      "text": "نَحۡنُ جَعَلۡنَٰهَا تَذۡكِرَةٗ وَمَتَٰعٗا لِّلۡمُقۡوِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55147,
+      "numberInSurah": 74,
+      "text": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+      "turkishText": ""
+    },
+    {
+      "number": 55149,
+      "numberInSurah": 75,
+      "text": "۞فَلَآ أُقۡسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ",
+      "turkishText": ""
+    },
+    {
+      "number": 55151,
+      "numberInSurah": 76,
+      "text": "وَإِنَّهُۥ لَقَسَمٞ لَّوۡ تَعۡلَمُونَ عَظِيمٌ",
+      "turkishText": ""
+    },
+    {
+      "number": 55153,
+      "numberInSurah": 77,
+      "text": "إِنَّهُۥ لَقُرۡءَانٞ كَرِيمٞ",
+      "turkishText": ""
+    },
+    {
+      "number": 55155,
+      "numberInSurah": 78,
+      "text": "فِي كِتَٰبٖ مَّكۡنُونٖ",
+      "turkishText": ""
+    },
+    {
+      "number": 55157,
+      "numberInSurah": 79,
+      "text": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلۡمُطَهَّرُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55159,
+      "numberInSurah": 80,
+      "text": "تَنزِيلٞ مِّن رَّبِّ ٱلۡعَٰلَمِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55161,
+      "numberInSurah": 81,
+      "text": "أَفَبِهَٰذَا ٱلۡحَدِيثِ أَنتُم مُّدۡهِنُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55163,
+      "numberInSurah": 82,
+      "text": "وَتَجۡعَلُونَ رِزۡقَكُمۡ أَنَّكُمۡ تُكَذِّبُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55165,
+      "numberInSurah": 83,
+      "text": "فَلَوۡلَآ إِذَا بَلَغَتِ ٱلۡحُلۡقُومَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55167,
+      "numberInSurah": 84,
+      "text": "وَأَنتُمۡ حِينَئِذٖ تَنظُرُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55169,
+      "numberInSurah": 85,
+      "text": "وَنَحۡنُ أَقۡرَبُ إِلَيۡهِ مِنكُمۡ وَلَٰكِن لَّا تُبۡصِرُونَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55171,
+      "numberInSurah": 86,
+      "text": "فَلَوۡلَآ إِن كُنتُمۡ غَيۡرَ مَدِينِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55173,
+      "numberInSurah": 87,
+      "text": "تَرۡجِعُونَهَآ إِن كُنتُمۡ صَٰدِقِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55175,
+      "numberInSurah": 88,
+      "text": "فَأَمَّآ إِن كَانَ مِنَ ٱلۡمُقَرَّبِينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55177,
+      "numberInSurah": 89,
+      "text": "فَرَوۡحٞ وَرَيۡحَانٞ وَجَنَّتُ نَعِيمٖ",
+      "turkishText": ""
+    },
+    {
+      "number": 55179,
+      "numberInSurah": 90,
+      "text": "وَأَمَّآ إِن كَانَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ",
+      "turkishText": ""
+    },
+    {
+      "number": 55181,
+      "numberInSurah": 91,
+      "text": "فَسَلَٰمٞ لَّكَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ",
+      "turkishText": ""
+    },
+    {
+      "number": 55183,
+      "numberInSurah": 92,
+      "text": "وَأَمَّآ إِن كَانَ مِنَ ٱلۡمُكَذِّبِينَ ٱلضَّآلِّينَ",
+      "turkishText": ""
+    },
+    {
+      "number": 55185,
+      "numberInSurah": 93,
+      "text": "فَنُزُلٞ مِّنۡ حَمِيمٖ",
+      "turkishText": ""
+    },
+    {
+      "number": 55187,
+      "numberInSurah": 94,
+      "text": "وَتَصۡلِيَةُ جَحِيمٍ",
+      "turkishText": ""
+    },
+    {
+      "number": 55189,
+      "numberInSurah": 95,
+      "text": "إِنَّ هَٰذَا لَهُوَ حَقُّ ٱلۡيَقِينِ",
+      "turkishText": ""
+    },
+    {
+      "number": 55191,
+      "numberInSurah": 96,
+      "text": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+      "turkishText": ""
+    }
+  ]
+}
