@@ -5,38 +5,26 @@
     android:viewportWidth="120"
     android:viewportHeight="120">
 
-    <!-- Bar chart with 3 bars -->
     <!-- Bar 1 (short) -->
-    <rect
-        android:x="20"
-        android:y="70"
-        android:width="15"
-        android:height="30"
-        android:fillColor="#FFD700" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M 20 70 L 35 70 L 35 100 L 20 100 Z" />
 
     <!-- Bar 2 (medium) -->
-    <rect
-        android:x="50"
-        android:y="50"
-        android:width="15"
-        android:height="50"
-        android:fillColor="#FFD700" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M 50 50 L 65 50 L 65 100 L 50 100 Z" />
 
     <!-- Bar 3 (tall) -->
-    <rect
-        android:x="80"
-        android:y="30"
-        android:width="15"
-        android:height="70"
-        android:fillColor="#FFD700" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M 80 30 L 95 30 L 95 100 L 80 100 Z" />
 
     <!-- Baseline -->
-    <line
-        android:x1="15"
-        android:y1="100"
-        android:x2="100"
-        android:y2="100"
+    <path
         android:strokeColor="#FFD700"
-        android:strokeWidth="2" />
+        android:strokeWidth="2"
+        android:fillColor="none"
+        android:pathData="M 15 100 L 100 100" />
 
 </vector>
