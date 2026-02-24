@@ -38,7 +38,11 @@ class BookmarkAdapter(
                 val dateFormat = SimpleDateFormat("dd.MM.yyyy", Locale("tr"))
                 tvSavedDate.text = dateFormat.format(Date(bookmark.savedAt))
 
+                btnDelete.contentDescription = "${bookmark.surahName} - Ayet ${bookmark.ayahNumber} - Sil"
                 btnDelete.setOnClickListener { onDeleteClick(bookmark) }
+
+                val desc = "${bookmark.surahName}, Ayet ${bookmark.ayahNumber}, ${tvSavedDate.text} tarihinde kaydedildi"
+                root.contentDescription = desc
             }
         }
     }

@@ -36,6 +36,7 @@ class SurahAdapter(
                     if (surah.revelationType == "Meccan") "Mekki" else "Medeni"
                 }"
 
+                root.contentDescription = "${surah.turkishName} (${surah.name}) - ${surah.numberOfAyahs} ayet"
                 root.setOnClickListener { onSurahClick(surah) }
             }
         }

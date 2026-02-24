@@ -11,6 +11,10 @@ import com.ibadetapp.data.repository.IbadetDatabase
 import com.ibadetapp.data.repository.QuranRepository
 import kotlinx.coroutines.launch
 
+/**
+ * ViewModel for Quran module
+ * Manages Quran data, bookmarks, and search functionality
+ */
 class QuranViewModel(application: Application) : AndroidViewModel(application) {
 
     private val repository: QuranRepository

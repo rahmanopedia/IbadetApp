@@ -1,6 +1,7 @@
 package com.ibadetapp.data.repository
 
 import android.content.Context
+import android.util.Log
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import com.ibadetapp.data.model.Ayah
@@ -22,6 +23,7 @@ class QuranRepository(
             val type = object : TypeToken<List<Surah>>() {}.type
             gson.fromJson<List<Surah>>(json, type) ?: emptyList()
         } catch (e: Exception) {
+            Log.e(TAG, "Error loading surah list", e)
             emptyList()
         }
     }
@@ -31,6 +33,7 @@ class QuranRepository(
             val json = context.assets.open("quran/surah_$surahNumber.json").bufferedReader().use { it.readText() }
             gson.fromJson(json, Surah::class.java)
         } catch (e: Exception) {
+            Log.e(TAG, "Error loading surah detail for surah $surahNumber", e)
             null
         }
     }
@@ -45,4 +48,8 @@ class QuranRepository(
 
     suspend fun isBookmarked(surahNumber: Int, ayahNumber: Int): Boolean =
         bookmarkDao.isBookmarked(surahNumber, ayahNumber)
+
+    companion object {
+        private const val TAG = "QuranRepository"
+    }
 }

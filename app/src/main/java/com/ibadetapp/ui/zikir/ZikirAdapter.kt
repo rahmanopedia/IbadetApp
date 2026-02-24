@@ -41,13 +41,16 @@ class ZikirAdapter(
                 val progress = if (zikir.targetCount > 0) {
                     ((zikir.currentCount.toFloat() / zikir.targetCount) * 100).toInt()
                 } else 0
-                
+
                 progressBar.progress = progress
                 tvProgressPercent.text = "$progress%"
 
                 btnDelete.visibility = if (zikir.isCustom) View.VISIBLE else View.GONE
+                btnDelete.contentDescription = "${zikir.transliteration} - Sil"
                 btnDelete.setOnClickListener { onDeleteClick(zikir) }
 
+                val desc = "${zikir.transliteration} - ${zikir.turkishText}, ${zikir.currentCount}/${zikir.targetCount} tamamlandı"
+                root.contentDescription = desc
                 root.setOnClickListener { onZikirClick(zikir) }
             }
         }

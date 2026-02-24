@@ -1,5 +1,6 @@
 package com.ibadetapp.data.repository
 
+import android.util.Log
 import androidx.lifecycle.LiveData
 import com.ibadetapp.data.model.Zikir
 import com.ibadetapp.data.model.ZikirSession
@@ -22,5 +23,15 @@ class ZikirRepository(private val zikirDao: ZikirDao) {
 
     suspend fun insertSession(session: ZikirSession): Long = zikirDao.insertSession(session)
 
-    suspend fun getZikirById(id: Int): Zikir? = zikirDao.getZikirById(id)
+    suspend fun getZikirById(id: Int): Zikir? {
+        val zikir = zikirDao.getZikirById(id)
+        if (zikir == null) {
+            Log.w(TAG, "Zikir not found with id: $id")
+        }
+        return zikir
+    }
+
+    companion object {
+        private const val TAG = "ZikirRepository"
+    }
 }
