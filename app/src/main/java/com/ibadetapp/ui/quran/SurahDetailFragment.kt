@@ -106,21 +106,15 @@ class SurahDetailFragment : Fragment() {
     }
 
     private fun setupAudioPlayer() {
-        val audioPlayerView = binding.audioPlayerView as android.view.ViewGroup
-        val spinnerReciters = audioPlayerView.findViewById<Spinner>(R.id.spinner_reciters)
-        val btnPlayPause = audioPlayerView.findViewById<MaterialButton>(R.id.btn_play_pause)
-        val seekbarProgress = audioPlayerView.findViewById<android.widget.SeekBar>(R.id.seekbar_progress)
-        val tvCurrentTime = audioPlayerView.findViewById<android.widget.TextView>(R.id.tv_current_time)
-        val tvDuration = audioPlayerView.findViewById<android.widget.TextView>(R.id.tv_duration)
-        val progressLoading = audioPlayerView.findViewById<android.widget.ProgressBar>(R.id.progress_loading)
+        val audioBinding = binding.audioPlayerView
 
         // Setup reciter spinner
         val reciterNames = RecitationList.reciters.map { it.name }
         val adapter = ArrayAdapter(requireContext(), android.R.layout.simple_spinner_item, reciterNames)
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item)
-        spinnerReciters.adapter = adapter
+        audioBinding.spinnerReciters.adapter = adapter
 
-        spinnerReciters.onItemSelectedListener = object : android.widget.AdapterView.OnItemSelectedListener {
+        audioBinding.spinnerReciters.onItemSelectedListener = object : android.widget.AdapterView.OnItemSelectedListener {
             override fun onItemSelected(parent: android.widget.AdapterView<*>, view: android.view.View?, position: Int, id: Long) {
                 val reciterId = RecitationList.reciters[position].id
                 audioPlayerViewModel.setReciter(reciterId)
@@ -130,7 +124,7 @@ class SurahDetailFragment : Fragment() {
         }
 
         // Setup play/pause button
-        btnPlayPause.setOnClickListener {
+        audioBinding.btnPlayPause.setOnClickListener {
             if (audioPlayerViewModel.isPlaying.value == true) {
                 audioPlayerViewModel.pause()
             } else {
@@ -139,7 +133,7 @@ class SurahDetailFragment : Fragment() {
         }
 
         // Setup seekbar
-        seekbarProgress.setOnSeekBarChangeListener(object : android.widget.SeekBar.OnSeekBarChangeListener {
+        audioBinding.seekbarProgress.setOnSeekBarChangeListener(object : android.widget.SeekBar.OnSeekBarChangeListener {
             override fun onProgressChanged(seekBar: android.widget.SeekBar, progress: Int, fromUser: Boolean) {
                 if (fromUser) {
                     audioPlayerViewModel.seekTo(progress.toLong())
@@ -152,21 +146,21 @@ class SurahDetailFragment : Fragment() {
 
         // Observe audio player state
         audioPlayerViewModel.isPlaying.observe(viewLifecycleOwner) { isPlaying ->
-            btnPlayPause.text = if (isPlaying) "PAUSE" else "PLAY"
+            audioBinding.btnPlayPause.text = if (isPlaying) "PAUSE" else "PLAY"
         }
 
         audioPlayerViewModel.currentPosition.observe(viewLifecycleOwner) { position ->
-            seekbarProgress.progress = position.toInt()
-            tvCurrentTime.text = audioPlayerViewModel.formatTime(position)
+            audioBinding.seekbarProgress.progress = position.toInt()
+            audioBinding.tvCurrentTime.text = audioPlayerViewModel.formatTime(position)
         }
 
         audioPlayerViewModel.duration.observe(viewLifecycleOwner) { duration ->
-            seekbarProgress.max = duration.toInt()
-            tvDuration.text = audioPlayerViewModel.formatTime(duration)
+            audioBinding.seekbarProgress.max = duration.toInt()
+            audioBinding.tvDuration.text = audioPlayerViewModel.formatTime(duration)
         }
 
         audioPlayerViewModel.isLoading.observe(viewLifecycleOwner) { isLoading ->
-            progressLoading.visibility = if (isLoading) View.VISIBLE else View.GONE
+            audioBinding.progressLoading.visibility = if (isLoading) View.VISIBLE else View.GONE
         }
     }
 
